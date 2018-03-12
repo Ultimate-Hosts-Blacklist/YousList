@@ -1,7 +1,6 @@
 {
     "/home/travis/build/Ultimate-Hosts-Blacklist/YousList_smartadserver_mirrors/domains.list": {
-        "1520769207": [
-            "ad.adixs.co.kr",
+        "1520895273": [
             "ad.adlike.co.kr",
             "ad.aeonad.co.kr",
             "ad.aeonad.net",
@@ -33,6 +32,9 @@
             "serv.ads.pixiv.org",
             "shoppingbox.joinsmsn.com",
             "st.keywordsconnect.com"
+        ],
+        "to_test": [
+            "ad.adixs.co.kr"
         ]
     }
 }
