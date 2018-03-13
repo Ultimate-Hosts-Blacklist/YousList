@@ -1,8 +1,10 @@
-# About [YousList_smartadserver_mirrors]
+# About YousList_smartadserver_mirrors
 
 [![Build Status](https://travis-ci.org/Ultimate-Hosts-Blacklist/YousList_smartadserver_mirrors.svg?branch=master)](https://travis-ci.org/Ultimate-Hosts-Blacklist/YousList_smartadserver_mirrors)
 
-[Description]
+```
+Block filter for Adblock Plus, uBlock Origin, uBlock, 1Blocker and AdAway
+```
 
 --------------------------------------------------------------------------------
 
