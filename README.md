@@ -1,4 +1,4 @@
-# About YousList_smartadserver_mirrors
+# About YousList
 
 [![Build Status](https://travis-ci.org/Ultimate-Hosts-Blacklist/YousList_smartadserver_mirrors.svg?branch=master)](https://travis-ci.org/Ultimate-Hosts-Blacklist/YousList_smartadserver_mirrors)
 
