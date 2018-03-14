@@ -3,7 +3,7 @@ env:
     - secure: OS9qHV1pPZPb6jQt0P9Zf7mcVYgViB5LuN25hIxpRqmuppq2Sn3YqDkrFuSMPuxiZ0H2Cg0EgRkN10H1fjvvSdVe5Jj3GmrpNWmw8IYM6GlrTJ3D8iTRSrof73EZFJhA6aL2rk0quJ9T1E/0NrLX04X2C9Or1nkfpuU4Yo4+bBNR114iW3Q/Tiv3MBZUqyWNnb/y1w4u2iB/EM8qlBuD4q0xH2iSYvLANg+jsF+rs3+TMXzJhQ919Kkv9GsYXRvnvRPTFY+Ji4XJkgYdFpydqCzS0IoXW2nduNwAOxvfiGgELMWi3RBWSNuBUqxkbQ8Rrkv2+4U9ZlTuZyEhg2xuq3UKeAI+CvxN9yWHWuAV2pCamfSigpoQExvSHtU1xTcmCWInZazBQU4PwBHFuJt/W18ryfvGvd2b4on5aeuls+ZvLEP59t9Ee1B+pjf2KZ5iQxLQiazzpXEt63XokwYSNo1cB+2D7yZud6FQmtlYG+JyyKv2PbqXldBqC0N35zLQ6/NbzqdY5EvJq6ZCgGAmGe1OeJW0J1CkyEFCpdIgJKOGiVOUO+CQgpX85ZeYe4BghqzyUkeHn8g9/J1X1o0bNZ9jYJxSN4K6i99/R9rzkYszeTdTgt+xbxfgtwT/NSa3StfmJG32GiUnBhTatuZ24n9aowL/qVcpoL0jsHC0Zrc=
     - GIT_NAME: Travis CI
     - GIT_EMAIL: mitchellkrog@gmail.com
-    - TRAVIS_REPO_SLUG: Ultimate-Hosts-Blacklist/YousList_smartadserver_mirrors
+    - TRAVIS_REPO_SLUG: Ultimate-Hosts-Blacklist/YousList
     - GIT_BRANCH: master
 
 language: python
