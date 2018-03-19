@@ -1,7 +1,6 @@
 {
     "/home/travis/build/Ultimate-Hosts-Blacklist/YousList/domains.list": {
-        "1521115042": [
-            "ad.adixs.co.kr",
+        "1521460602": [
             "ad.adlike.co.kr",
             "ad.aeonad.co.kr",
             "ad.aeonad.net",
@@ -21,7 +20,6 @@
             "cm3.jssearch.net",
             "cwdata.itsearch.co.kr",
             "d.a1comm.co.kr",
-            "ex.mdtoday.co.kr",
             "get.keywordsconnect.com",
             "get2.keywordsconnect.com",
             "guide.allblet.net",
@@ -33,6 +31,9 @@
             "serv.ads.pixiv.org",
             "shoppingbox.joinsmsn.com",
             "st.keywordsconnect.com"
+        ],
+        "to_test": [
+            "ad.adixs.co.kr"
         ]
     },
     "/home/travis/build/Ultimate-Hosts-Blacklist/YousList_smartadserver_mirrors/domains.list": {

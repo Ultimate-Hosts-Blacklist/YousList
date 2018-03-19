@@ -1,8 +1,8 @@
 {
     "/home/travis/build/Ultimate-Hosts-Blacklist/YousList/domains.list": {
-        "number_of_down": 32,
+        "number_of_down": 31,
         "number_of_invalid": 0,
         "number_of_tested": 144,
-        "number_of_up": 112
+        "number_of_up": 113
     }
 }
