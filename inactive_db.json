@@ -1,7 +1,6 @@
 {
     "/home/travis/build/Ultimate-Hosts-Blacklist/YousList/domains.list": {
-        "1522283346": [
-            "ad.adixs.co.kr",
+        "1522420829": [
             "ad.adlike.co.kr",
             "ad.aeonad.co.kr",
             "ad.aeonad.net",
@@ -33,6 +32,8 @@
             "shoppingbox.joinsmsn.com",
             "st.keywordsconnect.com"
         ],
-        "to_test": []
+        "to_test": [
+            "ad.adixs.co.kr"
+        ]
     }
 }
