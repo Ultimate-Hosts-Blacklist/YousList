@@ -1,6 +1,6 @@
 {
     "/home/travis/build/Ultimate-Hosts-Blacklist/YousList/domains.list": {
-        "1526586633": [
+        "1526820194": [
             "ad.adlike.co.kr",
             "ad.aeonad.co.kr",
             "ad.aeonad.net",
@@ -30,9 +30,10 @@
             "script.keywordlink.co.kr",
             "serv.ads.pixiv.org",
             "shoppingbox.joinsmsn.com",
-            "st.keywordsconnect.com",
-            "ad.adixs.co.kr"
+            "st.keywordsconnect.com"
         ],
-        "to_test": []
+        "to_test": [
+            "ad.adixs.co.kr"
+        ]
     }
 }
