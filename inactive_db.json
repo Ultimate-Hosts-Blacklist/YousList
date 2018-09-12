@@ -1,15 +1,15 @@
 {
     "/home/travis/build/Ultimate-Hosts-Blacklist/YousList/domains.list": {
-        "1536499905": [
-            "ad.ad-ya.net",
+        "1536759826": [
             "ad.adixs.co.kr",
             "ad.adlike.co.kr",
+            "ad.ad-ya.net",
             "ad.aeonad.co.kr",
             "ad.aeonad.net",
             "ad.daum.net",
-            "ad.ingfac.co.kr",
             "adexview.new-star.co.kr",
             "adimg1.adinc.co.kr",
+            "ad.ingfac.co.kr",
             "adixs.net",
             "adn.adneo.co.kr",
             "adn.nsmartad.com",
@@ -24,8 +24,8 @@
             "cm3.jssearch.net",
             "cwdata.itsearch.co.kr",
             "d.a1comm.co.kr",
-            "get.keywordsconnect.com",
             "get2.keywordsconnect.com",
+            "get.keywordsconnect.com",
             "guide.allblet.net",
             "h.adscope.co.kr",
             "jshoppingbox.joinsmsn.com",
@@ -34,6 +34,7 @@
             "script.keywordlink.co.kr",
             "serv.ads.pixiv.org",
             "shoppingbox.joinsmsn.com",
+            "sp1.jssearch.net",
             "st.keywordsconnect.com"
         ],
         "to_test": []
