@@ -1,6 +1,6 @@
 {
     "/home/travis/build/Ultimate-Hosts-Blacklist/YousList/domains.list": {
-        "1553095161": [
+        "1553353529": [
             "ad.ad-ya.net",
             "ad.adlike.co.kr",
             "ad.adop.co.kr",
@@ -26,6 +26,7 @@
             "ads.mangouni.com",
             "ads1.playforum.net",
             "ads3.adinc.co.kr",
+            "adserver.sbtrustmedia.com",
             "adserver.uniqube.tv",
             "adtag.asiaone.com",
             "adv.mediakeep.co.kr",
@@ -86,7 +87,6 @@
             "st.keywordsconnect.com",
             "tab2-cdn.rubiconproject.com",
             "vse-spravki.bid",
-            "www.ad-playstore.com",
             "www.adcrm.co.kr",
             "www.adixs-ad.co.kr",
             "www.adixs.net",
@@ -116,8 +116,7 @@
             "www.ppdxyz.info",
             "www.surgeprice.com",
             "www.tsyndicate.com",
-            "www.vse-spravki.bid",
-            "adserver.sbtrustmedia.com"
+            "www.vse-spravki.bid"
         ],
         "to_test": []
     },
