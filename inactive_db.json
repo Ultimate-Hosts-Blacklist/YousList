@@ -1,6 +1,7 @@
 {
     "/home/travis/build/Ultimate-Hosts-Blacklist/YousList/domains.list": {
-        "1554305705": [
+        "1554477746": [
+            "a.komoona.com",
             "ad.ad-ya.net",
             "ad.adlike.co.kr",
             "ad.adop.co.kr",
@@ -26,7 +27,6 @@
             "ads.mangouni.com",
             "ads1.playforum.net",
             "ads3.adinc.co.kr",
-            "adserver.sbtrustmedia.com",
             "adserver.uniqube.tv",
             "adtag.asiaone.com",
             "adv.mediakeep.co.kr",
