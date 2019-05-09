@@ -225,6 +225,11 @@
             "expiration_date": "05-sep-2019",
             "state": "future"
         },
+        "magento-analytics.com": {
+            "epoch": "1589241600",
+            "expiration_date": "12-may-2020",
+            "state": "future"
+        },
         "mainclc.com": {
             "epoch": "1564876800",
             "expiration_date": "04-aug-2019",
