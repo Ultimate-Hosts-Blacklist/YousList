@@ -1,25 +1,5 @@
 {
     "api_call": {
-        "1557849481": [
-            "agate.opap.co.kr",
-            "api.wiseclick.co.kr",
-            "d1swklt9res5jr.cloudfront.net",
-            "delivery.c.switchadhub.com",
-            "pub.adpnut.com",
-            "www.coinhive.com"
-        ],
-        "1557849483": [
-            "script.adsquare.co.kr"
-        ],
-        "1557849484": [
-            "ads.ad7942.co.kr"
-        ],
-        "1557849485": [
-            "adixs-ad.co.kr",
-            "cm1.jssearch.net",
-            "www.adixs-ad.co.kr",
-            "www.ppdxyz.info"
-        ],
         "to_test": [
             "ad.adop.co.kr",
             "ad.aeonad.co.kr",
@@ -29,13 +9,17 @@
             "adcreative.hani.naver.net",
             "adexview.new-star.co.kr",
             "adin.ad4980.kr",
+            "adixs-ad.co.kr",
             "adn.nsmartad.com",
+            "ads.ad7942.co.kr",
             "ads.mangouni.com",
             "ads1.playforum.net",
             "ads3.adinc.co.kr",
             "adx.bibl.uk",
+            "agate.opap.co.kr",
             "ak-gb.marketgid.com",
             "alea.adam.ad.daum.net",
+            "api.wiseclick.co.kr",
             "candy.ad9.kr",
             "cdn.kixer.com",
             "cdn.scrollads.co.kr",
@@ -46,6 +30,7 @@
             "creative.wwwpromoter.com",
             "cwdata.itplay.co.kr",
             "cwdata.itsearch.co.kr",
+            "d1swklt9res5jr.cloudfront.net",
             "delivery.c.switchadhub.com",
             "dev.ezadsystem.com",
             "fm1.jssearch.net",
@@ -60,6 +45,7 @@
             "mobs.luxad.kr",
             "mymyad.co.kr",
             "op.neoad.co.kr",
+            "pub.adpnut.com",
             "qmca.qrobo.com",
             "quick.1rtl.info",
             "ra.ntwoad.co.kr",
@@ -81,6 +67,7 @@
             "www.lightad.co.kr",
             "www.onetag-sys.com",
             "www.polltest.azurewebsites.net",
+            "www.ppdxyz.info",
             "www.surgeprice.com",
             "www.vse-spravki.bid"
         ]
