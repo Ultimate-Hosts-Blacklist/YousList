@@ -1,85 +1,85 @@
 {
-    "1558020974.9867184": {
-        "domain": "ad.mox.tv",
-        "extension": "tv"
-    },
-    "1558020975.7248821": {
-        "domain": "jsc.adskeeper.co.uk",
-        "extension": "uk"
-    },
-    "1558020978.519267": {
+    "1558194512.828349": {
         "domain": "ww3.vidzi.tv",
         "extension": "tv"
     },
-    "1558020978.8794456": {
-        "domain": "oload.tv",
-        "extension": "tv"
-    },
-    "1558020978.901875": {
-        "domain": "www.oload.tv",
-        "extension": "tv"
-    },
-    "1558020981.9116936": {
-        "domain": "adrequisitor-af.lp.uol.com.br",
-        "extension": "br"
-    },
-    "1558020982.3308096": {
-        "domain": "redir.adap.tv",
-        "extension": "tv"
-    },
-    "1558020982.7979977": {
-        "domain": "vplayer.dawin.tv",
-        "extension": "tv"
-    },
-    "1558020983.9981205": {
-        "domain": "adx.bibl.uk",
-        "extension": "uk"
-    },
-    "1558020985.1796606": {
-        "domain": "a.teads.tv",
-        "extension": "tv"
-    },
-    "1558020985.7621658": {
-        "domain": "www.adtag.cc",
-        "extension": "cc"
-    },
-    "1558020985.7920732": {
-        "domain": "adtag.cc",
-        "extension": "cc"
-    },
-    "1558020985.981908": {
-        "domain": "adserver.uniqube.tv",
-        "extension": "tv"
-    },
-    "1558020987.9483697": {
-        "domain": "cdn.teads.tv",
-        "extension": "tv"
-    },
-    "1558020987.986535": {
+    "1558194515.9572082": {
         "domain": "adsrv.kstarplay.tv",
         "extension": "tv"
     },
-    "1558020988.5988085": {
+    "1558194516.354122": {
         "domain": "prism.pandora.tv",
         "extension": "tv"
     },
-    "1558020990.8986397": {
-        "domain": "adimg.kstarplay.tv",
+    "1558194516.933303": {
+        "domain": "ad.mox.tv",
         "extension": "tv"
     },
-    "1558020993.8244421": {
-        "domain": "jsc.traffic-media.co.uk",
+    "1558194518.3126855": {
+        "domain": "jsc.adskeeper.co.uk",
         "extension": "uk"
     },
-    "1558020995.5788317": {
-        "domain": "compass.adop.cc",
-        "extension": "cc"
-    },
-    "1558020996.9247909": {
+    "1558194519.5658767": {
         "domain": "adx.bibl.uk",
         "extension": "uk"
     },
-    "1558020999.6468449": {
+    "1558194520.8429198": {
+        "domain": "adimg.kstarplay.tv",
+        "extension": "tv"
+    },
+    "1558194521.546567": {
+        "domain": "jsc.traffic-media.co.uk",
+        "extension": "uk"
+    },
+    "1558194521.6041105": {
+        "domain": "adtag.cc",
+        "extension": "cc"
+    },
+    "1558194521.6143186": {
+        "domain": "www.adtag.cc",
+        "extension": "cc"
+    },
+    "1558194521.6676562": {
+        "domain": "adrequisitor-af.lp.uol.com.br",
+        "extension": "br"
+    },
+    "1558194522.3454902": {
+        "domain": "compass.adop.cc",
+        "extension": "cc"
+    },
+    "1558194524.803025": {
+        "domain": "www.oload.tv",
+        "extension": "tv"
+    },
+    "1558194524.8834305": {
+        "domain": "oload.tv",
+        "extension": "tv"
+    },
+    "1558194525.6431363": {
+        "domain": "cdn.teads.tv",
+        "extension": "tv"
+    },
+    "1558194525.710914": {
+        "domain": "a.teads.tv",
+        "extension": "tv"
+    },
+    "1558194526.8265457": {
+        "domain": "vplayer.dawin.tv",
+        "extension": "tv"
+    },
+    "1558194527.8893702": {
+        "domain": "redir.adap.tv",
+        "extension": "tv"
+    },
+    "1558194529.5043223": {
+        "domain": "adserver.uniqube.tv",
+        "extension": "tv"
+    },
+    "1558194531.7527921": {
+        "domain": "adx.bibl.uk",
+        "extension": "uk"
+    },
+    "1558194534.312232": {
         "domain": "adx.bibl.uk",
         "extension": "uk"
     }
