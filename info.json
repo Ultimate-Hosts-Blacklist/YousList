@@ -1,7 +1,11 @@
 {
     "currently_under_test": "0",
     "days_until_next_test": 2,
+    "last_autosave_datetime": "Sun Jun  9 15:55:59 2019",
+    "last_autosave_epoch": 1560095759.622856,
     "last_test": 1557417804,
     "name": "YousList",
-    "raw_link": "https://raw.githubusercontent.com/yous/YousList/master/hosts.txt"
+    "raw_link": "https://raw.githubusercontent.com/yous/YousList/master/hosts.txt",
+    "start_datetime": "Sun Jun  9 15:51:40 2019",
+    "start_epoch": 1560095500.662918
 }
