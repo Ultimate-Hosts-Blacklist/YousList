@@ -1,22 +1,27 @@
 {
     "api_call": {
-        "1560268175": [
+        "1560441007": [
+            "a.komoona.com",
             "ad.ad-ya.net",
             "ad.aeonad.co.kr",
-            "adixs-ad.co.kr",
-            "adneo.encock.com",
-            "ak-gb.marketgid.com",
-            "cdn.kixer.com",
-            "mediarichad.com",
-            "mobi.luxad.net",
-            "scripts.chitika.net",
+            "ad.afy11.net",
+            "adixs.net",
+            "adserver.uniqube.tv",
+            "adx.bibl.uk",
+            "cdn.scrollads.co.kr",
+            "delivery.c.switchadhub.com",
+            "guide.allblet.net",
             "serv.ads.pixiv.org",
+            "traffic.adxprts.com",
+            "www.adixs.net",
+            "www.adtag.cc",
+            "www.am15.net",
             "www.coinhive.com",
             "www.d269y12mnftu9c.cloudfront.net",
+            "www.d3u5zn5k9864p0.cloudfront.net",
             "www.edgecastcdn.net",
-            "www.onetag-sys.com",
-            "www.tsyndicate.com",
-            "www.vse-spravki.bid"
+            "www.franecki.net",
+            "www.ppdxyz.info"
         ],
         "to_test": [
             "a.komoona.com",
@@ -40,6 +45,7 @@
             "adixs.net",
             "adn.adneo.co.kr",
             "adn.nsmartad.com",
+            "adneo.encock.com",
             "ads.ad7942.co.kr",
             "ads.mangouni.com",
             "ads1.playforum.net",
