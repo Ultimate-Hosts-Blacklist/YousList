@@ -41,7 +41,6 @@
             "adimg1.adinc.co.kr": "",
             "adin.ad4980.kr": "",
             "adixs.net": "",
-            "adn.adneo.co.kr": "",
             "adn.nsmartad.com": "",
             "adneo.encock.com": "",
             "ads.ad7942.co.kr": "",
@@ -201,7 +200,6 @@
             "ad.ad-ya.net": "INACTIVE",
             "ad.aeonad.co.kr": "INACTIVE",
             "adixs.net": "INACTIVE",
-            "adn.adneo.co.kr": "INACTIVE",
             "adtag.asiaone.com": "INACTIVE",
             "ak-gb.marketgid.com": "INACTIVE",
             "celeb.nann.co.kr": "INACTIVE",
@@ -249,6 +247,30 @@
             "www.mediarichad.com": "INACTIVE",
             "www.surgeprice.com": "INACTIVE",
             "www.tsyndicate.com": "INACTIVE"
+        },
+        "1561478356": {
+            "a.komoona.com": "INACTIVE",
+            "ad.ad-ya.net": "INACTIVE",
+            "ad.aeonad.co.kr": "INACTIVE",
+            "adn.adneo.co.kr": "INACTIVE",
+            "adserver.uniqube.tv": "INACTIVE",
+            "care-health.co.kr": "INACTIVE",
+            "d1swklt9res5jr.cloudfront.net": "INACTIVE",
+            "longkeyone.co.kr": "INACTIVE",
+            "mediarichad.com": "INACTIVE",
+            "script.adsquare.co.kr": "INACTIVE",
+            "tab2-cdn.rubiconproject.com": "INACTIVE",
+            "www.adixs.net": "INACTIVE",
+            "www.adtag.cc": "INACTIVE",
+            "www.coinhive.com": "INACTIVE",
+            "www.d3u5zn5k9864p0.cloudfront.net": "INACTIVE",
+            "www.ebdr3.com": "INACTIVE",
+            "www.mediarichad.com": "INACTIVE",
+            "www.onetag-sys.com": "INACTIVE",
+            "www.onshowit.com": "INACTIVE",
+            "www.polltest.azurewebsites.net": "INACTIVE",
+            "www.tsyndicate.com": "INACTIVE",
+            "www.vse-spravki.bid": "INACTIVE"
         }
     }
 }
