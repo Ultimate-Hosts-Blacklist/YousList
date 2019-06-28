@@ -29,7 +29,6 @@
             "ad.adop.co.kr": "",
             "ad.aeonad.co.kr": "",
             "ad.aeonad.net": "",
-            "ad.afy11.net": "",
             "ad.daum.net": "",
             "ad.ingfac.co.kr": "",
             "ad.nsonmedia.com": "",
@@ -171,7 +170,6 @@
         "1560959703": {
             "ad.ad-ya.net": "INACTIVE",
             "ad.aeonad.co.kr": "INACTIVE",
-            "ad.afy11.net": "INACTIVE",
             "ad.nsonmedia.com": "INACTIVE",
             "adcrm.co.kr": "INACTIVE",
             "adixs-ad.co.kr": "INACTIVE",
@@ -275,7 +273,6 @@
         "1561650818": {
             "ad.ad-ya.net": "INACTIVE",
             "ad.aeonad.co.kr": "INACTIVE",
-            "ad.afy11.net": "INACTIVE",
             "adixs.net": "INACTIVE",
             "adserver.uniqube.tv": "INACTIVE",
             "adv.segye.com": "INACTIVE",
@@ -292,6 +289,34 @@
             "www.d2v02itv0y9u9t.cloudfront.net": "INACTIVE",
             "www.d3pkae9owd2lcf.cloudfront.net": "INACTIVE",
             "www.tsyndicate.com": "INACTIVE"
+        },
+        "1561737949": {
+            "ad.ad-ya.net": "INACTIVE",
+            "ad.aeonad.co.kr": "INACTIVE",
+            "ad.afy11.net": "INACTIVE",
+            "ad.nsonmedia.com": "INACTIVE",
+            "adserver.uniqube.tv": "INACTIVE",
+            "ak-gb.marketgid.com": "INACTIVE",
+            "cdn.kixer.com": "INACTIVE",
+            "d.a1comm.co.kr": "INACTIVE",
+            "lightad.co.kr": "INACTIVE",
+            "longkeyone.co.kr": "INACTIVE",
+            "mymyad.co.kr": "INACTIVE",
+            "scripts.chitika.net": "INACTIVE",
+            "securepubads.g.doubleclick.net": "INACTIVE",
+            "vse-spravki.bid": "INACTIVE",
+            "www.amazon-adsystem.com": "INACTIVE",
+            "www.d1swklt9res5jr.cloudfront.net": "INACTIVE",
+            "www.d269y12mnftu9c.cloudfront.net": "INACTIVE",
+            "www.d3oep4gb91kpuv.cloudfront.net": "INACTIVE",
+            "www.d3pkae9owd2lcf.cloudfront.net": "INACTIVE",
+            "www.d3u5zn5k9864p0.cloudfront.net": "INACTIVE",
+            "www.ebdr3.com": "INACTIVE",
+            "www.edgecastcdn.net": "INACTIVE",
+            "www.onshowit.com": "INACTIVE",
+            "www.polltest.azurewebsites.net": "INACTIVE",
+            "www.surgeprice.com": "INACTIVE",
+            "www.vse-spravki.bid": "INACTIVE"
         }
     }
 }
