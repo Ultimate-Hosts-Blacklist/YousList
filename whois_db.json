@@ -30,8 +30,8 @@
         "state": "future"
     },
     "adbiz2.co.kr": {
-        "epoch": "1561766400",
-        "expiration_date": "29-jun-2019",
+        "epoch": 1593388800,
+        "expiration_date": "29-jun-2020",
         "state": "future"
     },
     "adbiz3.co.kr": {
@@ -40,8 +40,8 @@
         "state": "future"
     },
     "adclickservice.com": {
-        "epoch": "1561766400",
-        "expiration_date": "29-jun-2019",
+        "epoch": 1593388800,
+        "expiration_date": "29-jun-2020",
         "state": "future"
     },
     "adget.co.kr": {
@@ -185,9 +185,9 @@
         "state": "future"
     },
     "dreamsearch.or.kr": {
-        "epoch": "1561852800",
+        "epoch": 1561852800,
         "expiration_date": "30-jun-2019",
-        "state": "future"
+        "state": "past"
     },
     "ebdr3.com": {
         "epoch": "1592438400",
