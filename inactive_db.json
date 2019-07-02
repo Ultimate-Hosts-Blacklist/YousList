@@ -26,7 +26,6 @@
             "a.komoona.com": "",
             "ad.ad-ya.net": "",
             "ad.adlike.co.kr": "",
-            "ad.adop.co.kr": "",
             "ad.aeonad.co.kr": "",
             "ad.aeonad.net": "",
             "ad.daum.net": "",
@@ -345,6 +344,28 @@
             "www.onshowit.com": "INACTIVE",
             "www.tsyndicate.com": "INACTIVE",
             "www.vse-spravki.bid": "INACTIVE"
+        },
+        "1562085207": {
+            "ad.ad-ya.net": "INACTIVE",
+            "ad.adop.co.kr": "INACTIVE",
+            "ad.aeonad.co.kr": "INACTIVE",
+            "adixs-ad.co.kr": "INACTIVE",
+            "ads.mangouni.com": "INACTIVE",
+            "care-health.co.kr": "INACTIVE",
+            "cwdata.itplay.co.kr": "INACTIVE",
+            "delivery.c.switchadhub.com": "INACTIVE",
+            "script.adsquare.co.kr": "INACTIVE",
+            "secure.uac.advertising.com": "INACTIVE",
+            "ssp.advg.jp": "INACTIVE",
+            "vse-spravki.bid": "INACTIVE",
+            "www.coinhive.com": "INACTIVE",
+            "www.d269y12mnftu9c.cloudfront.net": "INACTIVE",
+            "www.franecki.net": "INACTIVE",
+            "www.magento-analytics.com": "INACTIVE",
+            "www.onetag-sys.com": "INACTIVE",
+            "www.onshowit.com": "INACTIVE",
+            "www.ppdxyz.info": "INACTIVE",
+            "www.zbnfhsk.com": "INACTIVE"
         }
     }
 }
