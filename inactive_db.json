@@ -69,7 +69,6 @@
             "d.a1comm.co.kr": "",
             "d1swklt9res5jr.cloudfront.net": "",
             "delivery.c.switchadhub.com": "",
-            "dev.ezadsystem.com": "",
             "exttag.about.co.kr": "",
             "fm1.jssearch.net": "",
             "get.keywordsconnect.com": "",
@@ -198,7 +197,6 @@
             "adtag.asiaone.com": "INACTIVE",
             "ak-gb.marketgid.com": "INACTIVE",
             "celeb.nann.co.kr": "INACTIVE",
-            "dev.ezadsystem.com": "INACTIVE",
             "guide.allblet.net": "INACTIVE",
             "inv-t-node.admixer.net": "INACTIVE",
             "lightad.co.kr": "INACTIVE",
@@ -388,6 +386,30 @@
             "www.surgeprice.com": "INACTIVE",
             "www.tsyndicate.com": "INACTIVE",
             "www.vse-spravki.bid": "INACTIVE"
+        },
+        "1562342244": {
+            "a.komoona.com": "INACTIVE",
+            "ad.ad-ya.net": "INACTIVE",
+            "ad.aeonad.co.kr": "INACTIVE",
+            "ad.afy11.net": "INACTIVE",
+            "adimg1.adinc.co.kr": "INACTIVE",
+            "creative.wwwpromoter.com": "INACTIVE",
+            "dev.ezadsystem.com": "INACTIVE",
+            "lightad.co.kr": "INACTIVE",
+            "mymyad.co.kr": "INACTIVE",
+            "ppdxyz.info": "INACTIVE",
+            "script.keywordlink.co.kr": "INACTIVE",
+            "secure.uac.advertising.com": "INACTIVE",
+            "vse-spravki.bid": "INACTIVE",
+            "www.adixs.net": "INACTIVE",
+            "www.amazon-adsystem.com": "INACTIVE",
+            "www.d269y12mnftu9c.cloudfront.net": "INACTIVE",
+            "www.d3u5zn5k9864p0.cloudfront.net": "INACTIVE",
+            "www.franecki.net": "INACTIVE",
+            "www.polltest.azurewebsites.net": "INACTIVE",
+            "www.ppdxyz.info": "INACTIVE",
+            "www.surgeprice.com": "INACTIVE",
+            "www.tsyndicate.com": "INACTIVE"
         }
     }
 }
