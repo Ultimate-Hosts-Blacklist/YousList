@@ -31,7 +31,6 @@
             "ad.daum.net": "",
             "ad.ingfac.co.kr": "",
             "ad.nsonmedia.com": "",
-            "ad.openmatch.co.kr": "",
             "ad.vkoad.com": "",
             "adcreative.hani.naver.net": "",
             "adcrm.co.kr": "",
@@ -458,6 +457,28 @@
             "www.onetag-sys.com": "INACTIVE",
             "www.onshowit.com": "INACTIVE",
             "www.vse-spravki.bid": "INACTIVE"
+        },
+        "1562775066": {
+            "a.komoona.com": "INACTIVE",
+            "ad.ad-ya.net": "INACTIVE",
+            "ad.aeonad.co.kr": "INACTIVE",
+            "ad.afy11.net": "INACTIVE",
+            "ad.openmatch.co.kr": "INACTIVE",
+            "adv.segye.com": "INACTIVE",
+            "d.a1comm.co.kr": "INACTIVE",
+            "script.adsquare.co.kr": "INACTIVE",
+            "ssp.advg.jp": "INACTIVE",
+            "www.am15.net": "INACTIVE",
+            "www.amazon-adsystem.com": "INACTIVE",
+            "www.d2v02itv0y9u9t.cloudfront.net": "INACTIVE",
+            "www.d3oep4gb91kpuv.cloudfront.net": "INACTIVE",
+            "www.d3pkae9owd2lcf.cloudfront.net": "INACTIVE",
+            "www.edgecastcdn.net": "INACTIVE",
+            "www.mediarichad.com": "INACTIVE",
+            "www.onetag-sys.com": "INACTIVE",
+            "www.ppdxyz.info": "INACTIVE",
+            "www.vse-spravki.bid": "INACTIVE",
+            "www.zbnfhsk.com": "INACTIVE"
         }
     }
 }
