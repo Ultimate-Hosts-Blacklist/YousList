@@ -285,7 +285,6 @@
         "1561737949": {
             "ad.ad-ya.net": "INACTIVE",
             "ad.aeonad.co.kr": "INACTIVE",
-            "ad.afy11.net": "INACTIVE",
             "ad.nsonmedia.com": "INACTIVE",
             "adserver.uniqube.tv": "INACTIVE",
             "ak-gb.marketgid.com": "INACTIVE",
@@ -313,7 +312,6 @@
         "1561910527": {
             "ad.ad-ya.net": "INACTIVE",
             "ad.aeonad.co.kr": "INACTIVE",
-            "ad.afy11.net": "INACTIVE",
             "ad.nsonmedia.com": "INACTIVE",
             "adserver.uniqube.tv": "INACTIVE",
             "inv-t-node.admixer.net": "INACTIVE",
@@ -388,7 +386,6 @@
             "a.komoona.com": "INACTIVE",
             "ad.ad-ya.net": "INACTIVE",
             "ad.aeonad.co.kr": "INACTIVE",
-            "ad.afy11.net": "INACTIVE",
             "adimg1.adinc.co.kr": "INACTIVE",
             "creative.wwwpromoter.com": "INACTIVE",
             "dev.ezadsystem.com": "INACTIVE",
@@ -440,7 +437,6 @@
             "a.komoona.com": "INACTIVE",
             "ad.ad-ya.net": "INACTIVE",
             "ad.aeonad.co.kr": "INACTIVE",
-            "ad.afy11.net": "INACTIVE",
             "adixs-ad.co.kr": "INACTIVE",
             "adx.bibl.uk": "INACTIVE",
             "care-health.co.kr": "INACTIVE",
@@ -462,7 +458,6 @@
             "a.komoona.com": "INACTIVE",
             "ad.ad-ya.net": "INACTIVE",
             "ad.aeonad.co.kr": "INACTIVE",
-            "ad.afy11.net": "INACTIVE",
             "ad.openmatch.co.kr": "INACTIVE",
             "adv.segye.com": "INACTIVE",
             "d.a1comm.co.kr": "INACTIVE",
@@ -478,6 +473,28 @@
             "www.onetag-sys.com": "INACTIVE",
             "www.ppdxyz.info": "INACTIVE",
             "www.vse-spravki.bid": "INACTIVE",
+            "www.zbnfhsk.com": "INACTIVE"
+        },
+        "1562947611": {
+            "ad.ad-ya.net": "INACTIVE",
+            "ad.aeonad.co.kr": "INACTIVE",
+            "ad.afy11.net": "INACTIVE",
+            "adixs.net": "INACTIVE",
+            "ads1.playforum.net": "INACTIVE",
+            "adserver.uniqube.tv": "INACTIVE",
+            "creative.wwwpromoter.com": "INACTIVE",
+            "dev.ezadsystem.com": "INACTIVE",
+            "inv-t-node.admixer.net": "INACTIVE",
+            "lightad.co.kr": "INACTIVE",
+            "mymyad.co.kr": "INACTIVE",
+            "ppdxyz.info": "INACTIVE",
+            "script.adsquare.co.kr": "INACTIVE",
+            "scripts.chitika.net": "INACTIVE",
+            "www.adtag.cc": "INACTIVE",
+            "www.ebdr3.com": "INACTIVE",
+            "www.mediarichad.com": "INACTIVE",
+            "www.ppdxyz.info": "INACTIVE",
+            "www.surgeprice.com": "INACTIVE",
             "www.zbnfhsk.com": "INACTIVE"
         }
     }
