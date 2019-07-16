@@ -473,7 +473,6 @@
         "1562947611": {
             "ad.ad-ya.net": "INACTIVE",
             "ad.aeonad.co.kr": "INACTIVE",
-            "ad.afy11.net": "INACTIVE",
             "adixs.net": "INACTIVE",
             "ads1.playforum.net": "INACTIVE",
             "adserver.uniqube.tv": "INACTIVE",
@@ -495,7 +494,6 @@
         "1563120544": {
             "ad.ad-ya.net": "INACTIVE",
             "ad.aeonad.co.kr": "INACTIVE",
-            "ad.afy11.net": "INACTIVE",
             "adixs.net": "INACTIVE",
             "longkeyone.co.kr": "INACTIVE",
             "mediarichad.com": "INACTIVE",
@@ -507,6 +505,25 @@
             "www.franecki.net": "INACTIVE",
             "www.polltest.azurewebsites.net": "INACTIVE",
             "www.surgeprice.com": "INACTIVE",
+            "www.zbnfhsk.com": "INACTIVE"
+        },
+        "1563293167": {
+            "ad.ad-ya.net": "INACTIVE",
+            "ad.afy11.net": "INACTIVE",
+            "adixs.net": "INACTIVE",
+            "care-health.co.kr": "INACTIVE",
+            "mediarichad.com": "INACTIVE",
+            "script.adsquare.co.kr": "INACTIVE",
+            "www.am15.net": "INACTIVE",
+            "www.d269y12mnftu9c.cloudfront.net": "INACTIVE",
+            "www.d2v02itv0y9u9t.cloudfront.net": "INACTIVE",
+            "www.ebdr3.com": "INACTIVE",
+            "www.edgecastcdn.net": "INACTIVE",
+            "www.lightad.co.kr": "INACTIVE",
+            "www.longkeyone.co.kr": "INACTIVE",
+            "www.polltest.azurewebsites.net": "INACTIVE",
+            "www.tsyndicate.com": "INACTIVE",
+            "www.vse-spravki.bid": "INACTIVE",
             "www.zbnfhsk.com": "INACTIVE"
         }
     }
