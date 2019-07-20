@@ -64,7 +64,6 @@
             "creative.wwwpromoter.com": "",
             "cwdata.itplay.co.kr": "",
             "cwdata.itsearch.co.kr": "",
-            "d.a1comm.co.kr": "",
             "d1swklt9res5jr.cloudfront.net": "",
             "delivery.c.switchadhub.com": "",
             "exttag.about.co.kr": "",
@@ -214,7 +213,6 @@
             "ads.ad7942.co.kr": "INACTIVE",
             "adserver.uniqube.tv": "INACTIVE",
             "adtag.asiaone.com": "INACTIVE",
-            "d.a1comm.co.kr": "INACTIVE",
             "d1swklt9res5jr.cloudfront.net": "INACTIVE",
             "joy-adstore.co.kr": "INACTIVE",
             "mobi.luxad.net": "INACTIVE",
@@ -283,7 +281,6 @@
             "adserver.uniqube.tv": "INACTIVE",
             "ak-gb.marketgid.com": "INACTIVE",
             "cdn.kixer.com": "INACTIVE",
-            "d.a1comm.co.kr": "INACTIVE",
             "lightad.co.kr": "INACTIVE",
             "mymyad.co.kr": "INACTIVE",
             "scripts.chitika.net": "INACTIVE",
@@ -451,7 +448,6 @@
             "ad.aeonad.co.kr": "INACTIVE",
             "ad.openmatch.co.kr": "INACTIVE",
             "adv.segye.com": "INACTIVE",
-            "d.a1comm.co.kr": "INACTIVE",
             "script.adsquare.co.kr": "INACTIVE",
             "ssp.advg.jp": "INACTIVE",
             "www.am15.net": "INACTIVE",
@@ -548,6 +544,25 @@
             "www.onshowit.com": "INACTIVE",
             "www.ppdxyz.info": "INACTIVE",
             "www.zbnfhsk.com": "INACTIVE"
+        },
+        "1563639377": {
+            "ad.ad-ya.net": "INACTIVE",
+            "ad.aeonad.co.kr": "INACTIVE",
+            "ad.nsonmedia.com": "INACTIVE",
+            "ads.mangouni.com": "INACTIVE",
+            "adv.mediakeep.co.kr": "INACTIVE",
+            "candy.ad9.kr": "INACTIVE",
+            "care-health.co.kr": "INACTIVE",
+            "d.a1comm.co.kr": "INACTIVE",
+            "mobi.luxad.net": "INACTIVE",
+            "mymyad.co.kr": "INACTIVE",
+            "www.adixs.net": "INACTIVE",
+            "www.adtag.cc": "INACTIVE",
+            "www.coinhive.com": "INACTIVE",
+            "www.d3oep4gb91kpuv.cloudfront.net": "INACTIVE",
+            "www.d3pkae9owd2lcf.cloudfront.net": "INACTIVE",
+            "www.polltest.azurewebsites.net": "INACTIVE",
+            "www.surgeprice.com": "INACTIVE"
         }
     }
 }
