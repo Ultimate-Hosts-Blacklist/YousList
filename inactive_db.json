@@ -487,7 +487,6 @@
             "ad.ad-ya.net": "INACTIVE",
             "ad.aeonad.co.kr": "INACTIVE",
             "adixs.net": "INACTIVE",
-            "longkeyone.co.kr": "INACTIVE",
             "mediarichad.com": "INACTIVE",
             "mymyad.co.kr": "INACTIVE",
             "secure.uac.advertising.com": "INACTIVE",
@@ -563,6 +562,29 @@
             "www.d3pkae9owd2lcf.cloudfront.net": "INACTIVE",
             "www.polltest.azurewebsites.net": "INACTIVE",
             "www.surgeprice.com": "INACTIVE"
+        },
+        "1563812017": {
+            "ad.ad-ya.net": "INACTIVE",
+            "ad.aeonad.co.kr": "INACTIVE",
+            "ad.aeonad.net": "INACTIVE",
+            "ad.afy11.net": "INACTIVE",
+            "adneo.encock.com": "INACTIVE",
+            "adv.segye.com": "INACTIVE",
+            "longkeyone.co.kr": "INACTIVE",
+            "quick.1rtl.info": "INACTIVE",
+            "script.adsquare.co.kr": "INACTIVE",
+            "secure.uac.advertising.com": "INACTIVE",
+            "www.adixs.net": "INACTIVE",
+            "www.adtag.cc": "INACTIVE",
+            "www.amazon-adsystem.com": "INACTIVE",
+            "www.d3oep4gb91kpuv.cloudfront.net": "INACTIVE",
+            "www.d3pkae9owd2lcf.cloudfront.net": "INACTIVE",
+            "www.d3u5zn5k9864p0.cloudfront.net": "INACTIVE",
+            "www.mediarichad.com": "INACTIVE",
+            "www.onetag-sys.com": "INACTIVE",
+            "www.onshowit.com": "INACTIVE",
+            "www.surgeprice.com": "INACTIVE",
+            "www.vse-spravki.bid": "INACTIVE"
         }
     }
 }
