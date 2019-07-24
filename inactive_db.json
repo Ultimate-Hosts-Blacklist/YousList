@@ -81,7 +81,6 @@
             "mobi.luxad.kr": "",
             "mobi.luxad.net": "",
             "myvip.feeldmc.com": "",
-            "op.neoad.co.kr": "",
             "ppdxyz.info": "",
             "pub.adpnut.com": "",
             "qmca.qrobo.com": "",
@@ -526,7 +525,6 @@
             "d1swklt9res5jr.cloudfront.net": "INACTIVE",
             "inv-t-node.admixer.net": "INACTIVE",
             "mymyad.co.kr": "INACTIVE",
-            "op.neoad.co.kr": "INACTIVE",
             "quick.1rtl.info": "INACTIVE",
             "ra.ntwoad.co.kr": "INACTIVE",
             "scripts.chitika.net": "INACTIVE",
@@ -585,6 +583,27 @@
             "www.onshowit.com": "INACTIVE",
             "www.surgeprice.com": "INACTIVE",
             "www.vse-spravki.bid": "INACTIVE"
+        },
+        "1563984983": {
+            "ad.ad-ya.net": "INACTIVE",
+            "ad.aeonad.co.kr": "INACTIVE",
+            "ads.mangouni.com": "INACTIVE",
+            "adx.bibl.uk": "INACTIVE",
+            "api.wiseclick.co.kr": "INACTIVE",
+            "care-health.co.kr": "INACTIVE",
+            "dev.ezadsystem.com": "INACTIVE",
+            "joy-adstore.co.kr": "INACTIVE",
+            "mediarichad.com": "INACTIVE",
+            "mymyad.co.kr": "INACTIVE",
+            "op.neoad.co.kr": "INACTIVE",
+            "secure.uac.advertising.com": "INACTIVE",
+            "www.adtag.cc": "INACTIVE",
+            "www.d269y12mnftu9c.cloudfront.net": "INACTIVE",
+            "www.d2v02itv0y9u9t.cloudfront.net": "INACTIVE",
+            "www.ebdr3.com": "INACTIVE",
+            "www.mediarichad.com": "INACTIVE",
+            "www.onshowit.com": "INACTIVE",
+            "www.ppdxyz.info": "INACTIVE"
         }
     }
 }
