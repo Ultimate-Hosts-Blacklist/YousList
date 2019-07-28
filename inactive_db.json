@@ -51,7 +51,6 @@
             "ak-gb.marketgid.com": "",
             "alea.adam.ad.daum.net": "",
             "amsv2.daum.net": "",
-            "api.wiseclick.co.kr": "",
             "candy.ad9.kr": "",
             "care-health.co.kr": "",
             "cdn.kixer.com": "",
@@ -135,7 +134,6 @@
             "ad.ad-ya.net": "INACTIVE",
             "ad.aeonad.co.kr": "INACTIVE",
             "ads.mangouni.com": "INACTIVE",
-            "api.wiseclick.co.kr": "INACTIVE",
             "d1swklt9res5jr.cloudfront.net": "INACTIVE",
             "inv-t-node.admixer.net": "INACTIVE",
             "lightad.co.kr": "INACTIVE",
@@ -581,7 +579,6 @@
             "ad.aeonad.co.kr": "INACTIVE",
             "ads.mangouni.com": "INACTIVE",
             "adx.bibl.uk": "INACTIVE",
-            "api.wiseclick.co.kr": "INACTIVE",
             "care-health.co.kr": "INACTIVE",
             "dev.ezadsystem.com": "INACTIVE",
             "joy-adstore.co.kr": "INACTIVE",
@@ -612,6 +609,23 @@
             "www.magento-analytics.com": "INACTIVE",
             "www.onetag-sys.com": "INACTIVE",
             "www.tsyndicate.com": "INACTIVE"
+        },
+        "1564330691": {
+            "ad.aeonad.co.kr": "INACTIVE",
+            "ad.afy11.net": "INACTIVE",
+            "adixs-ad.co.kr": "INACTIVE",
+            "api.wiseclick.co.kr": "INACTIVE",
+            "joy-adstore.co.kr": "INACTIVE",
+            "mediarichad.com": "INACTIVE",
+            "quick.1rtl.info": "INACTIVE",
+            "www.amazon-adsystem.com": "INACTIVE",
+            "www.coinhive.com": "INACTIVE",
+            "www.d2v02itv0y9u9t.cloudfront.net": "INACTIVE",
+            "www.d3u5zn5k9864p0.cloudfront.net": "INACTIVE",
+            "www.ebdr3.com": "INACTIVE",
+            "www.mediarichad.com": "INACTIVE",
+            "www.onshowit.com": "INACTIVE",
+            "www.ppdxyz.info": "INACTIVE"
         }
     }
 }
