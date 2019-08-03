@@ -49,7 +49,6 @@
             "alea.adam.ad.daum.net": "",
             "amsv2.daum.net": "",
             "candy.ad9.kr": "",
-            "care-health.co.kr": "",
             "cdn.kixer.com": "",
             "cdn03.sndkorea.co.kr": "",
             "cdn04.sndkorea.co.kr": "",
@@ -225,7 +224,6 @@
             "ad.aeonad.co.kr": "INACTIVE",
             "adn.adneo.co.kr": "INACTIVE",
             "adserver.uniqube.tv": "INACTIVE",
-            "care-health.co.kr": "INACTIVE",
             "d1swklt9res5jr.cloudfront.net": "INACTIVE",
             "mediarichad.com": "INACTIVE",
             "script.adsquare.co.kr": "INACTIVE",
@@ -314,7 +312,6 @@
             "ad.aeonad.co.kr": "INACTIVE",
             "adixs-ad.co.kr": "INACTIVE",
             "ads.mangouni.com": "INACTIVE",
-            "care-health.co.kr": "INACTIVE",
             "cwdata.itplay.co.kr": "INACTIVE",
             "script.adsquare.co.kr": "INACTIVE",
             "secure.uac.advertising.com": "INACTIVE",
@@ -335,7 +332,6 @@
             "ad.vkoad.com": "INACTIVE",
             "adtag.asiaone.com": "INACTIVE",
             "ak-gb.marketgid.com": "INACTIVE",
-            "care-health.co.kr": "INACTIVE",
             "cdn.scrollads.co.kr": "INACTIVE",
             "d1swklt9res5jr.cloudfront.net": "INACTIVE",
             "joy-adstore.co.kr": "INACTIVE",
@@ -402,7 +398,6 @@
             "ad.aeonad.co.kr": "INACTIVE",
             "adixs-ad.co.kr": "INACTIVE",
             "adx.bibl.uk": "INACTIVE",
-            "care-health.co.kr": "INACTIVE",
             "cdn.kixer.com": "INACTIVE",
             "mobs.luxad.kr": "INACTIVE",
             "scripts.chitika.net": "INACTIVE",
@@ -470,7 +465,6 @@
         "1563293167": {
             "ad.afy11.net": "INACTIVE",
             "adixs.net": "INACTIVE",
-            "care-health.co.kr": "INACTIVE",
             "mediarichad.com": "INACTIVE",
             "script.adsquare.co.kr": "INACTIVE",
             "www.am15.net": "INACTIVE",
@@ -515,7 +509,6 @@
             "ads.mangouni.com": "INACTIVE",
             "adv.mediakeep.co.kr": "INACTIVE",
             "candy.ad9.kr": "INACTIVE",
-            "care-health.co.kr": "INACTIVE",
             "d.a1comm.co.kr": "INACTIVE",
             "mobi.luxad.net": "INACTIVE",
             "www.adixs.net": "INACTIVE",
@@ -552,7 +545,6 @@
             "ad.aeonad.co.kr": "INACTIVE",
             "ads.mangouni.com": "INACTIVE",
             "adx.bibl.uk": "INACTIVE",
-            "care-health.co.kr": "INACTIVE",
             "dev.ezadsystem.com": "INACTIVE",
             "joy-adstore.co.kr": "INACTIVE",
             "mediarichad.com": "INACTIVE",
@@ -626,6 +618,17 @@
             "adx.bibl.uk": "INACTIVE",
             "joy-adstore.co.kr": "INACTIVE",
             "www.ppdxyz.info": "INACTIVE"
+        },
+        "1564848956": {
+            "ad.ad-ya.net": "INACTIVE",
+            "ad.aeonad.co.kr": "INACTIVE",
+            "ad.afy11.net": "INACTIVE",
+            "adn.nsmartad.com": "INACTIVE",
+            "care-health.co.kr": "INACTIVE",
+            "cjmooter.xcache.kinxcdn.com": "INACTIVE",
+            "www.lightad.co.kr": "INACTIVE",
+            "www.mediarichad.com": "INACTIVE",
+            "www.tsyndicate.com": "INACTIVE"
         }
     }
 }
