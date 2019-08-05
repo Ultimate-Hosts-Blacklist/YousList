@@ -151,7 +151,6 @@
         "1560959703": {
             "ad.aeonad.co.kr": "INACTIVE",
             "ad.nsonmedia.com": "INACTIVE",
-            "adixs-ad.co.kr": "INACTIVE",
             "d1swklt9res5jr.cloudfront.net": "INACTIVE",
             "mediarichad.com": "INACTIVE",
             "ppdxyz.info": "INACTIVE",
@@ -310,7 +309,6 @@
         "1562085207": {
             "ad.adop.co.kr": "INACTIVE",
             "ad.aeonad.co.kr": "INACTIVE",
-            "adixs-ad.co.kr": "INACTIVE",
             "ads.mangouni.com": "INACTIVE",
             "cwdata.itplay.co.kr": "INACTIVE",
             "script.adsquare.co.kr": "INACTIVE",
@@ -372,7 +370,6 @@
             "ad.aeonad.co.kr": "INACTIVE",
             "ad.nsonmedia.com": "INACTIVE",
             "ad.vkoad.com": "INACTIVE",
-            "adixs-ad.co.kr": "INACTIVE",
             "ads.mangouni.com": "INACTIVE",
             "adv.mediakeep.co.kr": "INACTIVE",
             "adv.segye.com": "INACTIVE",
@@ -396,7 +393,6 @@
         "1562601940": {
             "a.komoona.com": "INACTIVE",
             "ad.aeonad.co.kr": "INACTIVE",
-            "adixs-ad.co.kr": "INACTIVE",
             "adx.bibl.uk": "INACTIVE",
             "cdn.kixer.com": "INACTIVE",
             "mobs.luxad.kr": "INACTIVE",
@@ -577,7 +573,6 @@
         "1564330691": {
             "ad.aeonad.co.kr": "INACTIVE",
             "ad.afy11.net": "INACTIVE",
-            "adixs-ad.co.kr": "INACTIVE",
             "api.wiseclick.co.kr": "INACTIVE",
             "joy-adstore.co.kr": "INACTIVE",
             "mediarichad.com": "INACTIVE",
@@ -594,7 +589,6 @@
         "1564503250": {
             "ad.aeonad.co.kr": "INACTIVE",
             "ad.afy11.net": "INACTIVE",
-            "adixs-ad.co.kr": "INACTIVE",
             "d1swklt9res5jr.cloudfront.net": "INACTIVE",
             "joy-adstore.co.kr": "INACTIVE",
             "script.adsquare.co.kr": "INACTIVE",
@@ -629,6 +623,17 @@
             "www.lightad.co.kr": "INACTIVE",
             "www.mediarichad.com": "INACTIVE",
             "www.tsyndicate.com": "INACTIVE"
+        },
+        "1565022301": {
+            "ad.afy11.net": "INACTIVE",
+            "adixs-ad.co.kr": "INACTIVE",
+            "dev.ezadsystem.com": "INACTIVE",
+            "js.mtburn.com": "INACTIVE",
+            "lightad.co.kr": "INACTIVE",
+            "longkeyone.co.kr": "INACTIVE",
+            "www.adtag.cc": "INACTIVE",
+            "www.amazon-adsystem.com": "INACTIVE",
+            "www.mediarichad.com": "INACTIVE"
         }
     }
 }
