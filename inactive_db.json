@@ -57,7 +57,6 @@
             "cm2.jssearch.net": "",
             "cm3.jssearch.net": "",
             "creative.wwwpromoter.com": "",
-            "cwdata.itplay.co.kr": "",
             "cwdata.itsearch.co.kr": "",
             "d1swklt9res5jr.cloudfront.net": "",
             "exttag.about.co.kr": "",
@@ -310,7 +309,6 @@
             "ad.adop.co.kr": "INACTIVE",
             "ad.aeonad.co.kr": "INACTIVE",
             "ads.mangouni.com": "INACTIVE",
-            "cwdata.itplay.co.kr": "INACTIVE",
             "script.adsquare.co.kr": "INACTIVE",
             "secure.uac.advertising.com": "INACTIVE",
             "ssp.advg.jp": "INACTIVE",
@@ -634,6 +632,24 @@
             "www.adtag.cc": "INACTIVE",
             "www.amazon-adsystem.com": "INACTIVE",
             "www.mediarichad.com": "INACTIVE"
+        },
+        "1565194417": {
+            "ad.ad-ya.net": "INACTIVE",
+            "ad.aeonad.co.kr": "INACTIVE",
+            "ad.afy11.net": "INACTIVE",
+            "cwdata.itplay.co.kr": "INACTIVE",
+            "dev.ezadsystem.com": "INACTIVE",
+            "longkeyone.co.kr": "INACTIVE",
+            "mymyad.co.kr": "INACTIVE",
+            "scripts.chitika.net": "INACTIVE",
+            "vse-spravki.bid": "INACTIVE",
+            "www.amazon-adsystem.com": "INACTIVE",
+            "www.d1jikhx1ssl81z.cloudfront.net": "INACTIVE",
+            "www.edgecastcdn.net": "INACTIVE",
+            "www.onshowit.com": "INACTIVE",
+            "www.polltest.azurewebsites.net": "INACTIVE",
+            "www.ppdxyz.info": "INACTIVE",
+            "www.vse-spravki.bid": "INACTIVE"
         }
     }
 }
