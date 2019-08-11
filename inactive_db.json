@@ -535,7 +535,6 @@
             "dev.ezadsystem.com": "INACTIVE",
             "joy-adstore.co.kr": "INACTIVE",
             "mediarichad.com": "INACTIVE",
-            "op.neoad.co.kr": "INACTIVE",
             "secure.uac.advertising.com": "INACTIVE",
             "www.adtag.cc": "INACTIVE",
             "www.d269y12mnftu9c.cloudfront.net": "INACTIVE",
@@ -662,6 +661,22 @@
             "www.franecki.net": "INACTIVE",
             "www.magento-analytics.com": "INACTIVE",
             "www.onshowit.com": "INACTIVE"
+        },
+        "1565540117": {
+            "ad.ad-ya.net": "INACTIVE",
+            "ad.aeonad.co.kr": "INACTIVE",
+            "ad.afy11.net": "INACTIVE",
+            "adcrm.co.kr": "INACTIVE",
+            "adixs.net": "INACTIVE",
+            "care-health.co.kr": "INACTIVE",
+            "d.a1comm.co.kr": "INACTIVE",
+            "mediarichad.com": "INACTIVE",
+            "op.neoad.co.kr": "INACTIVE",
+            "serv.ads.pixiv.org": "INACTIVE",
+            "www.adtradradservices.com": "INACTIVE",
+            "www.onetag-sys.com": "INACTIVE",
+            "www.onshowit.com": "INACTIVE",
+            "www.ppdxyz.info": "INACTIVE"
         }
     }
 }
