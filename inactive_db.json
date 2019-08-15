@@ -337,7 +337,6 @@
             "ad.aeonad.co.kr": "INACTIVE",
             "adimg1.adinc.co.kr": "INACTIVE",
             "creative.wwwpromoter.com": "INACTIVE",
-            "dev.ezadsystem.com": "INACTIVE",
             "ppdxyz.info": "INACTIVE",
             "script.keywordlink.co.kr": "INACTIVE",
             "secure.uac.advertising.com": "INACTIVE",
@@ -418,7 +417,6 @@
             "ads1.playforum.net": "INACTIVE",
             "adserver.uniqube.tv": "INACTIVE",
             "creative.wwwpromoter.com": "INACTIVE",
-            "dev.ezadsystem.com": "INACTIVE",
             "inv-t-node.admixer.net": "INACTIVE",
             "ppdxyz.info": "INACTIVE",
             "scripts.chitika.net": "INACTIVE",
@@ -523,7 +521,6 @@
             "ad.aeonad.co.kr": "INACTIVE",
             "ads.mangouni.com": "INACTIVE",
             "adx.bibl.uk": "INACTIVE",
-            "dev.ezadsystem.com": "INACTIVE",
             "joy-adstore.co.kr": "INACTIVE",
             "mediarichad.com": "INACTIVE",
             "secure.uac.advertising.com": "INACTIVE",
@@ -607,7 +604,6 @@
         "1565022301": {
             "ad.afy11.net": "INACTIVE",
             "adixs-ad.co.kr": "INACTIVE",
-            "dev.ezadsystem.com": "INACTIVE",
             "js.mtburn.com": "INACTIVE",
             "longkeyone.co.kr": "INACTIVE",
             "www.adtag.cc": "INACTIVE",
@@ -619,7 +615,6 @@
             "ad.aeonad.co.kr": "INACTIVE",
             "ad.afy11.net": "INACTIVE",
             "cwdata.itplay.co.kr": "INACTIVE",
-            "dev.ezadsystem.com": "INACTIVE",
             "longkeyone.co.kr": "INACTIVE",
             "mymyad.co.kr": "INACTIVE",
             "scripts.chitika.net": "INACTIVE",
@@ -686,6 +681,28 @@
             "www.onshowit.com": "INACTIVE",
             "www.ppdxyz.info": "INACTIVE",
             "www.zbnfhsk.com": "INACTIVE"
+        },
+        "1565885725": {
+            "ad.ad-ya.net": "INACTIVE",
+            "ad.aeonad.co.kr": "INACTIVE",
+            "ad.ingfac.co.kr": "INACTIVE",
+            "adserver.uniqube.tv": "INACTIVE",
+            "adv.mediakeep.co.kr": "INACTIVE",
+            "adv.segye.com": "INACTIVE",
+            "dev.ezadsystem.com": "INACTIVE",
+            "inv-t-node.admixer.net": "INACTIVE",
+            "tab2-cdn.rubiconproject.com": "INACTIVE",
+            "vse-spravki.bid": "INACTIVE",
+            "www.adclickservice.com": "INACTIVE",
+            "www.coinhive.com": "INACTIVE",
+            "www.d1jikhx1ssl81z.cloudfront.net": "INACTIVE",
+            "www.d1swklt9res5jr.cloudfront.net": "INACTIVE",
+            "www.d3oep4gb91kpuv.cloudfront.net": "INACTIVE",
+            "www.d3pkae9owd2lcf.cloudfront.net": "INACTIVE",
+            "www.edgecastcdn.net": "INACTIVE",
+            "www.franecki.net": "INACTIVE",
+            "www.surgeprice.com": "INACTIVE",
+            "www.tsyndicate.com": "INACTIVE"
         }
     }
 }
