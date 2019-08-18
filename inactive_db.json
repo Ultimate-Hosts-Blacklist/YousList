@@ -687,7 +687,6 @@
             "adserver.uniqube.tv": "INACTIVE",
             "adv.mediakeep.co.kr": "INACTIVE",
             "adv.segye.com": "INACTIVE",
-            "dev.ezadsystem.com": "INACTIVE",
             "inv-t-node.admixer.net": "INACTIVE",
             "tab2-cdn.rubiconproject.com": "INACTIVE",
             "vse-spravki.bid": "INACTIVE",
@@ -730,6 +729,19 @@
             "www.d1jikhx1ssl81z.cloudfront.net": "INACTIVE",
             "www.d3oep4gb91kpuv.cloudfront.net": "INACTIVE",
             "www.edgecastcdn.net": "INACTIVE"
+        },
+        "1566145320": {
+            "ad.ad-ya.net": "INACTIVE",
+            "ad.aeonad.co.kr": "INACTIVE",
+            "ad.afy11.net": "INACTIVE",
+            "creative.wwwpromoter.com": "INACTIVE",
+            "dev.ezadsystem.com": "INACTIVE",
+            "js.medi-8.net": "INACTIVE",
+            "longkeyone.co.kr": "INACTIVE",
+            "www.amazon-adsystem.com": "INACTIVE",
+            "www.d1swklt9res5jr.cloudfront.net": "INACTIVE",
+            "www.d269y12mnftu9c.cloudfront.net": "INACTIVE",
+            "www.magento-analytics.com": "INACTIVE"
         }
     }
 }
