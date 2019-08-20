@@ -396,7 +396,6 @@
         "1562775066": {
             "a.komoona.com": "INACTIVE",
             "ad.aeonad.co.kr": "INACTIVE",
-            "ad.openmatch.co.kr": "INACTIVE",
             "adv.segye.com": "INACTIVE",
             "ssp.advg.jp": "INACTIVE",
             "www.am15.net": "INACTIVE",
@@ -742,6 +741,18 @@
             "www.d1swklt9res5jr.cloudfront.net": "INACTIVE",
             "www.d269y12mnftu9c.cloudfront.net": "INACTIVE",
             "www.magento-analytics.com": "INACTIVE"
+        },
+        "1566318295": {
+            "ad.adop.co.kr": "INACTIVE",
+            "ad.aeonad.co.kr": "INACTIVE",
+            "ad.afy11.net": "INACTIVE",
+            "ad.openmatch.co.kr": "INACTIVE",
+            "adserver.uniqube.tv": "INACTIVE",
+            "adv.mediakeep.co.kr": "INACTIVE",
+            "cdn.kixer.com": "INACTIVE",
+            "www.adtag.cc": "INACTIVE",
+            "www.amazon-adsystem.com": "INACTIVE",
+            "www.d3u5zn5k9864p0.cloudfront.net": "INACTIVE"
         }
     }
 }
