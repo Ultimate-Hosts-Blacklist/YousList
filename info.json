@@ -1,8 +1,8 @@
 {
     "currently_under_test": "0",
     "days_until_next_test": 2,
-    "end_datetime": "Tue Aug 20 16:26:03 2019",
-    "end_epoch": 1566318363.95928,
+    "end_datetime": "Thu Aug 22 16:22:26 2019",
+    "end_epoch": 1566490946.062238,
     "last_autosave_datetime": "Sun Jun  9 15:55:59 2019",
     "last_autosave_epoch": 1560095759.622856,
     "name": "YousList",
@@ -20,6 +20,6 @@
         "whitelisted.list": 631
     },
     "raw_link": "https://raw.githubusercontent.com/yous/YousList/master/hosts.txt",
-    "start_datetime": "Tue Aug 20 16:22:24 2019",
-    "start_epoch": 1566318144.773073
+    "start_datetime": "Thu Aug 22 16:18:49 2019",
+    "start_epoch": 1566490729.032279
 }

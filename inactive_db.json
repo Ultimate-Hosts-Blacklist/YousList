@@ -632,7 +632,6 @@
             "ad.vkoad.com": "INACTIVE",
             "adcrm.co.kr": "INACTIVE",
             "adixs-ad.co.kr": "INACTIVE",
-            "lightad.co.kr": "INACTIVE",
             "longkeyone.co.kr": "INACTIVE",
             "mediarichad.com": "INACTIVE",
             "pub.adpnut.com": "INACTIVE",
@@ -668,7 +667,6 @@
             "ad.vkoad.com": "INACTIVE",
             "adcrm.co.kr": "INACTIVE",
             "d1swklt9res5jr.cloudfront.net": "INACTIVE",
-            "lightad.co.kr": "INACTIVE",
             "mymyad.co.kr": "INACTIVE",
             "ppdxyz.info": "INACTIVE",
             "www.adclickservice.com": "INACTIVE",
@@ -753,6 +751,21 @@
             "www.adtag.cc": "INACTIVE",
             "www.amazon-adsystem.com": "INACTIVE",
             "www.d3u5zn5k9864p0.cloudfront.net": "INACTIVE"
+        },
+        "1566490798": {
+            "ad.ad-ya.net": "INACTIVE",
+            "ad.aeonad.co.kr": "INACTIVE",
+            "ad.afy11.net": "INACTIVE",
+            "ak-gb.marketgid.com": "INACTIVE",
+            "cdn.kixer.com": "INACTIVE",
+            "cdn03.sndkorea.co.kr": "INACTIVE",
+            "cwdata.itplay.co.kr": "INACTIVE",
+            "lightad.co.kr": "INACTIVE",
+            "script.adsquare.co.kr": "INACTIVE",
+            "www.adixs.net": "INACTIVE",
+            "www.d1swklt9res5jr.cloudfront.net": "INACTIVE",
+            "www.d3pkae9owd2lcf.cloudfront.net": "INACTIVE",
+            "www.zbnfhsk.com": "INACTIVE"
         }
     }
 }
