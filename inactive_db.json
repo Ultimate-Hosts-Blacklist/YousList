@@ -594,7 +594,6 @@
             "ad.aeonad.co.kr": "INACTIVE",
             "ad.afy11.net": "INACTIVE",
             "adn.nsmartad.com": "INACTIVE",
-            "care-health.co.kr": "INACTIVE",
             "cjmooter.xcache.kinxcdn.com": "INACTIVE",
             "www.lightad.co.kr": "INACTIVE",
             "www.mediarichad.com": "INACTIVE",
@@ -650,7 +649,6 @@
             "ad.afy11.net": "INACTIVE",
             "adcrm.co.kr": "INACTIVE",
             "adixs.net": "INACTIVE",
-            "care-health.co.kr": "INACTIVE",
             "d.a1comm.co.kr": "INACTIVE",
             "mediarichad.com": "INACTIVE",
             "op.neoad.co.kr": "INACTIVE",
@@ -766,6 +764,22 @@
             "www.d1swklt9res5jr.cloudfront.net": "INACTIVE",
             "www.d3pkae9owd2lcf.cloudfront.net": "INACTIVE",
             "www.zbnfhsk.com": "INACTIVE"
+        },
+        "1566577697": {
+            "a.komoona.com": "INACTIVE",
+            "ad.ad-ya.net": "INACTIVE",
+            "ad.aeonad.co.kr": "INACTIVE",
+            "adixs.net": "INACTIVE",
+            "care-health.co.kr": "INACTIVE",
+            "cjmooter.xcache.kinxcdn.com": "INACTIVE",
+            "d1swklt9res5jr.cloudfront.net": "INACTIVE",
+            "ppdxyz.info": "INACTIVE",
+            "script.adsquare.co.kr": "INACTIVE",
+            "ssp.advg.jp": "INACTIVE",
+            "vse-spravki.bid": "INACTIVE",
+            "www.d3pkae9owd2lcf.cloudfront.net": "INACTIVE",
+            "www.franecki.net": "INACTIVE",
+            "www.surgeprice.com": "INACTIVE"
         }
     }
 }
