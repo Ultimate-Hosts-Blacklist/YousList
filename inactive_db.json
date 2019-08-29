@@ -78,7 +78,6 @@
             "qmca.qrobo.com": "",
             "quick.1rtl.info": "",
             "ra.ntwoad.co.kr": "",
-            "script.keywordlink.co.kr": "",
             "scripts.chitika.net": "",
             "secure.uac.advertising.com": "",
             "securepubads.g.doubleclick.net": "",
@@ -333,7 +332,6 @@
             "adimg1.adinc.co.kr": "INACTIVE",
             "creative.wwwpromoter.com": "INACTIVE",
             "ppdxyz.info": "INACTIVE",
-            "script.keywordlink.co.kr": "INACTIVE",
             "secure.uac.advertising.com": "INACTIVE",
             "vse-spravki.bid": "INACTIVE",
             "www.adixs.net": "INACTIVE",
@@ -793,6 +791,19 @@
             "mediarichad.com": "INACTIVE",
             "www.adtag.cc": "INACTIVE",
             "www.franecki.net": "INACTIVE"
+        },
+        "1567095944": {
+            "ad.aeonad.co.kr": "INACTIVE",
+            "adixs-ad.co.kr": "INACTIVE",
+            "adneo.encock.com": "INACTIVE",
+            "ak-gb.marketgid.com": "INACTIVE",
+            "mymyad.co.kr": "INACTIVE",
+            "script.keywordlink.co.kr": "INACTIVE",
+            "secure.uac.advertising.com": "INACTIVE",
+            "ssp.advg.jp": "INACTIVE",
+            "www.adclickservice.com": "INACTIVE",
+            "www.adixs.net": "INACTIVE",
+            "www.d3oep4gb91kpuv.cloudfront.net": "INACTIVE"
         }
     }
 }
