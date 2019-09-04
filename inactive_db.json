@@ -567,7 +567,6 @@
             "www.tsyndicate.com": "INACTIVE"
         },
         "1564676341": {
-            "ad.ad-ya.net": "INACTIVE",
             "ad.adlike.co.kr": "INACTIVE",
             "ad.aeonad.co.kr": "INACTIVE",
             "ad.afy11.net": "INACTIVE",
@@ -581,7 +580,6 @@
             "www.ppdxyz.info": "INACTIVE"
         },
         "1564848956": {
-            "ad.ad-ya.net": "INACTIVE",
             "ad.aeonad.co.kr": "INACTIVE",
             "ad.afy11.net": "INACTIVE",
             "adn.nsmartad.com": "INACTIVE",
@@ -599,7 +597,6 @@
             "www.mediarichad.com": "INACTIVE"
         },
         "1565194417": {
-            "ad.ad-ya.net": "INACTIVE",
             "ad.aeonad.co.kr": "INACTIVE",
             "ad.afy11.net": "INACTIVE",
             "cwdata.itplay.co.kr": "INACTIVE",
@@ -616,7 +613,6 @@
             "www.vse-spravki.bid": "INACTIVE"
         },
         "1565367293": {
-            "ad.ad-ya.net": "INACTIVE",
             "ad.aeonad.net": "INACTIVE",
             "ad.afy11.net": "INACTIVE",
             "ad.vkoad.com": "INACTIVE",
@@ -634,7 +630,6 @@
             "www.onshowit.com": "INACTIVE"
         },
         "1565540117": {
-            "ad.ad-ya.net": "INACTIVE",
             "ad.aeonad.co.kr": "INACTIVE",
             "ad.afy11.net": "INACTIVE",
             "adcrm.co.kr": "INACTIVE",
@@ -649,7 +644,6 @@
             "www.ppdxyz.info": "INACTIVE"
         },
         "1565713444": {
-            "ad.ad-ya.net": "INACTIVE",
             "ad.aeonad.co.kr": "INACTIVE",
             "ad.afy11.net": "INACTIVE",
             "ad.vkoad.com": "INACTIVE",
@@ -666,7 +660,6 @@
             "www.zbnfhsk.com": "INACTIVE"
         },
         "1565885725": {
-            "ad.ad-ya.net": "INACTIVE",
             "ad.aeonad.co.kr": "INACTIVE",
             "ad.ingfac.co.kr": "INACTIVE",
             "adserver.uniqube.tv": "INACTIVE",
@@ -686,7 +679,6 @@
             "www.tsyndicate.com": "INACTIVE"
         },
         "1565972174": {
-            "ad.ad-ya.net": "INACTIVE",
             "ad.aeonad.co.kr": "INACTIVE",
             "ad.afy11.net": "INACTIVE",
             "ad.ingfac.co.kr": "INACTIVE",
@@ -702,7 +694,6 @@
             "www.vse-spravki.bid": "INACTIVE"
         },
         "1566058697": {
-            "ad.ad-ya.net": "INACTIVE",
             "ad.adop.co.kr": "INACTIVE",
             "ad.aeonad.co.kr": "INACTIVE",
             "ad.afy11.net": "INACTIVE",
@@ -714,7 +705,6 @@
             "www.edgecastcdn.net": "INACTIVE"
         },
         "1566145320": {
-            "ad.ad-ya.net": "INACTIVE",
             "ad.aeonad.co.kr": "INACTIVE",
             "ad.afy11.net": "INACTIVE",
             "creative.wwwpromoter.com": "INACTIVE",
@@ -739,7 +729,6 @@
             "www.d3u5zn5k9864p0.cloudfront.net": "INACTIVE"
         },
         "1566490798": {
-            "ad.ad-ya.net": "INACTIVE",
             "ad.aeonad.co.kr": "INACTIVE",
             "ad.afy11.net": "INACTIVE",
             "ak-gb.marketgid.com": "INACTIVE",
@@ -754,7 +743,6 @@
         },
         "1566577697": {
             "a.komoona.com": "INACTIVE",
-            "ad.ad-ya.net": "INACTIVE",
             "ad.aeonad.co.kr": "INACTIVE",
             "adixs.net": "INACTIVE",
             "care-health.co.kr": "INACTIVE",
@@ -808,7 +796,6 @@
             "www.d3oep4gb91kpuv.cloudfront.net": "INACTIVE"
         },
         "1567268694": {
-            "ad.ad-ya.net": "INACTIVE",
             "ad.aeonad.co.kr": "INACTIVE",
             "ad.afy11.net": "INACTIVE",
             "adn.adneo.co.kr": "INACTIVE",
@@ -837,6 +824,22 @@
             "www.onshowit.com": "INACTIVE",
             "www.vse-spravki.bid": "INACTIVE",
             "www.zbnfhsk.com": "INACTIVE"
+        },
+        "1567614733": {
+            "ad.ad-ya.net": "INACTIVE",
+            "ad.aeonad.co.kr": "INACTIVE",
+            "ad.aeonad.net": "INACTIVE",
+            "ad.afy11.net": "INACTIVE",
+            "adixs-ad.co.kr": "INACTIVE",
+            "adserver.uniqube.tv": "INACTIVE",
+            "ak-gb.marketgid.com": "INACTIVE",
+            "joy-adstore.co.kr": "INACTIVE",
+            "lightad.co.kr": "INACTIVE",
+            "ppdxyz.info": "INACTIVE",
+            "www.adclickservice.com": "INACTIVE",
+            "www.d1jikhx1ssl81z.cloudfront.net": "INACTIVE",
+            "www.d2v02itv0y9u9t.cloudfront.net": "INACTIVE",
+            "www.ilikeview.com": "INACTIVE"
         }
     }
 }
