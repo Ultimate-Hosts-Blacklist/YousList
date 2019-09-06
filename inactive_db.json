@@ -538,7 +538,6 @@
         "1564330691": {
             "ad.aeonad.co.kr": "INACTIVE",
             "ad.afy11.net": "INACTIVE",
-            "api.wiseclick.co.kr": "INACTIVE",
             "joy-adstore.co.kr": "INACTIVE",
             "mediarichad.com": "INACTIVE",
             "quick.1rtl.info": "INACTIVE",
@@ -840,6 +839,23 @@
             "www.d1jikhx1ssl81z.cloudfront.net": "INACTIVE",
             "www.d2v02itv0y9u9t.cloudfront.net": "INACTIVE",
             "www.ilikeview.com": "INACTIVE"
+        },
+        "1567787499": {
+            "a.komoona.com": "INACTIVE",
+            "ad.aeonad.co.kr": "INACTIVE",
+            "ad.aeonad.net": "INACTIVE",
+            "ad.afy11.net": "INACTIVE",
+            "api.wiseclick.co.kr": "INACTIVE",
+            "care-health.co.kr": "INACTIVE",
+            "cjmooter.xcache.kinxcdn.com": "INACTIVE",
+            "d1swklt9res5jr.cloudfront.net": "INACTIVE",
+            "longkeyone.co.kr": "INACTIVE",
+            "www.adtradradservices.com": "INACTIVE",
+            "www.amazon-adsystem.com": "INACTIVE",
+            "www.d1swklt9res5jr.cloudfront.net": "INACTIVE",
+            "www.d2v02itv0y9u9t.cloudfront.net": "INACTIVE",
+            "www.d3u5zn5k9864p0.cloudfront.net": "INACTIVE",
+            "www.mediarichad.com": "INACTIVE"
         }
     }
 }
