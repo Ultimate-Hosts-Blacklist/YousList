@@ -292,7 +292,6 @@
             "www.vse-spravki.bid": "INACTIVE"
         },
         "1562085207": {
-            "ad.adop.co.kr": "INACTIVE",
             "ad.aeonad.co.kr": "INACTIVE",
             "ads.mangouni.com": "INACTIVE",
             "secure.uac.advertising.com": "INACTIVE",
@@ -693,7 +692,6 @@
             "www.vse-spravki.bid": "INACTIVE"
         },
         "1566058697": {
-            "ad.adop.co.kr": "INACTIVE",
             "ad.aeonad.co.kr": "INACTIVE",
             "ad.afy11.net": "INACTIVE",
             "cdn.kixer.com": "INACTIVE",
@@ -716,7 +714,6 @@
             "www.magento-analytics.com": "INACTIVE"
         },
         "1566318295": {
-            "ad.adop.co.kr": "INACTIVE",
             "ad.aeonad.co.kr": "INACTIVE",
             "ad.afy11.net": "INACTIVE",
             "ad.openmatch.co.kr": "INACTIVE",
@@ -856,6 +853,20 @@
             "www.d2v02itv0y9u9t.cloudfront.net": "INACTIVE",
             "www.d3u5zn5k9864p0.cloudfront.net": "INACTIVE",
             "www.mediarichad.com": "INACTIVE"
+        },
+        "1567960632": {
+            "ad.ad-ya.net": "INACTIVE",
+            "ad.adop.co.kr": "INACTIVE",
+            "ad.aeonad.co.kr": "INACTIVE",
+            "ad.afy11.net": "INACTIVE",
+            "adixs.net": "INACTIVE",
+            "adserver.uniqube.tv": "INACTIVE",
+            "longkeyone.co.kr": "INACTIVE",
+            "www.coinhive.com": "INACTIVE",
+            "www.d1jikhx1ssl81z.cloudfront.net": "INACTIVE",
+            "www.d269y12mnftu9c.cloudfront.net": "INACTIVE",
+            "www.franecki.net": "INACTIVE",
+            "www.ilikeview.com": "INACTIVE"
         }
     }
 }
