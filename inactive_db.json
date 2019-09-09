@@ -376,11 +376,16 @@
             "www.adixs.net": "INACTIVE",
             "www.amazon-adsystem.com": "INACTIVE",
             "www.d2v02itv0y9u9t.cloudfront.net": "INACTIVE",
+            "www.d3oep4gb91kpuv.cloudfront.net": "INACTIVE",
             "www.d3pkae9owd2lcf.cloudfront.net": "INACTIVE",
+            "www.edgecastcdn.net": "INACTIVE",
             "www.magento-analytics.com": "INACTIVE",
+            "www.mediarichad.com": "INACTIVE",
             "www.onetag-sys.com": "INACTIVE",
             "www.onshowit.com": "INACTIVE",
-            "www.vse-spravki.bid": "INACTIVE"
+            "www.ppdxyz.info": "INACTIVE",
+            "www.vse-spravki.bid": "INACTIVE",
+            "www.zbnfhsk.com": "INACTIVE"
         },
         "1562775066": {
             "a.komoona.com": "INACTIVE",
@@ -822,7 +827,6 @@
             "www.zbnfhsk.com": "INACTIVE"
         },
         "1567614733": {
-            "ad.ad-ya.net": "INACTIVE",
             "ad.aeonad.co.kr": "INACTIVE",
             "ad.aeonad.net": "INACTIVE",
             "ad.afy11.net": "INACTIVE",
@@ -861,12 +865,19 @@
             "ad.afy11.net": "INACTIVE",
             "adixs.net": "INACTIVE",
             "adserver.uniqube.tv": "INACTIVE",
+            "d.a1comm.co.kr": "INACTIVE",
             "longkeyone.co.kr": "INACTIVE",
+            "mymyad.co.kr": "INACTIVE",
+            "script.adsquare.co.kr": "INACTIVE",
+            "www.adtradradservices.com": "INACTIVE",
             "www.coinhive.com": "INACTIVE",
             "www.d1jikhx1ssl81z.cloudfront.net": "INACTIVE",
             "www.d269y12mnftu9c.cloudfront.net": "INACTIVE",
             "www.franecki.net": "INACTIVE",
-            "www.ilikeview.com": "INACTIVE"
+            "www.ilikeview.com": "INACTIVE",
+            "www.onetag-sys.com": "INACTIVE",
+            "www.onshowit.com": "INACTIVE",
+            "www.surgeprice.com": "INACTIVE"
         }
     }
 }
