@@ -571,7 +571,6 @@
             "ad.adlike.co.kr": "INACTIVE",
             "ad.aeonad.co.kr": "INACTIVE",
             "ad.afy11.net": "INACTIVE",
-            "adixs-ad.co.kr": "INACTIVE",
             "adv.segye.com": "INACTIVE",
             "adx.bibl.uk": "INACTIVE",
             "joy-adstore.co.kr": "INACTIVE",
@@ -591,7 +590,6 @@
         },
         "1565022301": {
             "ad.afy11.net": "INACTIVE",
-            "adixs-ad.co.kr": "INACTIVE",
             "longkeyone.co.kr": "INACTIVE",
             "www.adtag.cc": "INACTIVE",
             "www.amazon-adsystem.com": "INACTIVE",
@@ -618,7 +616,6 @@
             "ad.afy11.net": "INACTIVE",
             "ad.vkoad.com": "INACTIVE",
             "adcrm.co.kr": "INACTIVE",
-            "adixs-ad.co.kr": "INACTIVE",
             "longkeyone.co.kr": "INACTIVE",
             "mediarichad.com": "INACTIVE",
             "pub.adpnut.com": "INACTIVE",
@@ -756,7 +753,6 @@
         "1566750486": {
             "ad.aeonad.co.kr": "INACTIVE",
             "ad.afy11.net": "INACTIVE",
-            "adixs-ad.co.kr": "INACTIVE",
             "adserver.uniqube.tv": "INACTIVE",
             "adtag.asiaone.com": "INACTIVE",
             "joy-adstore.co.kr": "INACTIVE",
@@ -783,7 +779,6 @@
         },
         "1567095944": {
             "ad.aeonad.co.kr": "INACTIVE",
-            "adixs-ad.co.kr": "INACTIVE",
             "adneo.encock.com": "INACTIVE",
             "ak-gb.marketgid.com": "INACTIVE",
             "mymyad.co.kr": "INACTIVE",
@@ -828,7 +823,6 @@
             "ad.aeonad.co.kr": "INACTIVE",
             "ad.aeonad.net": "INACTIVE",
             "ad.afy11.net": "INACTIVE",
-            "adixs-ad.co.kr": "INACTIVE",
             "adserver.uniqube.tv": "INACTIVE",
             "ak-gb.marketgid.com": "INACTIVE",
             "joy-adstore.co.kr": "INACTIVE",
@@ -899,6 +893,16 @@
             "www.ebdr3.com": "INACTIVE",
             "www.edgecastcdn.net": "INACTIVE",
             "www.surgeprice.com": "INACTIVE"
+        },
+        "1568220923": {
+            "ad.aeonad.co.kr": "INACTIVE",
+            "adcrm.co.kr": "INACTIVE",
+            "adixs-ad.co.kr": "INACTIVE",
+            "candy.ad9.kr": "INACTIVE",
+            "cwdata.itsearch.co.kr": "INACTIVE",
+            "mymyad.co.kr": "INACTIVE",
+            "www.d1swklt9res5jr.cloudfront.net": "INACTIVE",
+            "www.d3u5zn5k9864p0.cloudfront.net": "INACTIVE"
         }
     }
 }
