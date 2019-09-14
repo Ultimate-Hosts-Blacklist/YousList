@@ -622,7 +622,6 @@
             "adixs.net": "INACTIVE",
             "d.a1comm.co.kr": "INACTIVE",
             "mediarichad.com": "INACTIVE",
-            "op.neoad.co.kr": "INACTIVE",
             "serv.ads.pixiv.org": "INACTIVE",
             "www.adtradradservices.com": "INACTIVE",
             "www.onetag-sys.com": "INACTIVE",
@@ -892,6 +891,15 @@
             "www.surgeprice.com": "INACTIVE",
             "www.vse-spravki.bid": "INACTIVE",
             "www.zbnfhsk.com": "INACTIVE"
+        },
+        "1568479722": {
+            "ad.afy11.net": "INACTIVE",
+            "adn.adneo.co.kr": "INACTIVE",
+            "h.adscope.co.kr": "INACTIVE",
+            "op.neoad.co.kr": "INACTIVE",
+            "ra.ntwoad.co.kr": "INACTIVE",
+            "www.adtag.cc": "INACTIVE",
+            "www.tsyndicate.com": "INACTIVE"
         }
     }
 }
