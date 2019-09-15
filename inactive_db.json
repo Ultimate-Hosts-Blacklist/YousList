@@ -42,7 +42,6 @@
             "ads3.adinc.co.kr": "",
             "adserver.uniqube.tv": "",
             "adtag.asiaone.com": "",
-            "adv.mediakeep.co.kr": "",
             "adx.bibl.uk": "",
             "agate.opap.co.kr": "",
             "ak-gb.marketgid.com": "",
@@ -346,7 +345,6 @@
             "ad.nsonmedia.com": "INACTIVE",
             "ad.vkoad.com": "INACTIVE",
             "ads.mangouni.com": "INACTIVE",
-            "adv.mediakeep.co.kr": "INACTIVE",
             "adv.segye.com": "INACTIVE",
             "celeb.nann.co.kr": "INACTIVE",
             "creative.wwwpromoter.com": "INACTIVE",
@@ -472,7 +470,6 @@
             "ad.aeonad.co.kr": "INACTIVE",
             "ad.nsonmedia.com": "INACTIVE",
             "ads.mangouni.com": "INACTIVE",
-            "adv.mediakeep.co.kr": "INACTIVE",
             "candy.ad9.kr": "INACTIVE",
             "d.a1comm.co.kr": "INACTIVE",
             "mobi.luxad.net": "INACTIVE",
@@ -647,7 +644,6 @@
             "ad.aeonad.co.kr": "INACTIVE",
             "ad.ingfac.co.kr": "INACTIVE",
             "adserver.uniqube.tv": "INACTIVE",
-            "adv.mediakeep.co.kr": "INACTIVE",
             "adv.segye.com": "INACTIVE",
             "inv-t-node.admixer.net": "INACTIVE",
             "tab2-cdn.rubiconproject.com": "INACTIVE",
@@ -700,7 +696,6 @@
             "ad.aeonad.co.kr": "INACTIVE",
             "ad.openmatch.co.kr": "INACTIVE",
             "adserver.uniqube.tv": "INACTIVE",
-            "adv.mediakeep.co.kr": "INACTIVE",
             "cdn.kixer.com": "INACTIVE",
             "www.adtag.cc": "INACTIVE",
             "www.amazon-adsystem.com": "INACTIVE",
@@ -900,6 +895,22 @@
             "ra.ntwoad.co.kr": "INACTIVE",
             "www.adtag.cc": "INACTIVE",
             "www.tsyndicate.com": "INACTIVE"
+        },
+        "1568587114": {
+            "ad.ad-ya.net": "INACTIVE",
+            "ad.aeonad.co.kr": "INACTIVE",
+            "ad.afy11.net": "INACTIVE",
+            "adixs.net": "INACTIVE",
+            "adv.mediakeep.co.kr": "INACTIVE",
+            "candy.ad9.kr": "INACTIVE",
+            "lightad.co.kr": "INACTIVE",
+            "securepubads.g.doubleclick.net": "INACTIVE",
+            "ssp.advg.jp": "INACTIVE",
+            "vse-spravki.bid": "INACTIVE",
+            "www.d269y12mnftu9c.cloudfront.net": "INACTIVE",
+            "www.onshowit.com": "INACTIVE",
+            "www.vse-spravki.bid": "INACTIVE",
+            "www.zbnfhsk.com": "INACTIVE"
         }
     }
 }
