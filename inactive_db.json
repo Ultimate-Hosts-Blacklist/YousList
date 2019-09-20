@@ -866,7 +866,6 @@
         },
         "1568369979": {
             "ad.aeonad.co.kr": "INACTIVE",
-            "ad.afy11.net": "INACTIVE",
             "adtag.asiaone.com": "INACTIVE",
             "cdn04.sndkorea.co.kr": "INACTIVE",
             "cwdata.itplay.co.kr": "INACTIVE",
@@ -880,7 +879,6 @@
             "www.zbnfhsk.com": "INACTIVE"
         },
         "1568479722": {
-            "ad.afy11.net": "INACTIVE",
             "adn.adneo.co.kr": "INACTIVE",
             "h.adscope.co.kr": "INACTIVE",
             "op.neoad.co.kr": "INACTIVE",
@@ -891,7 +889,6 @@
         "1568587114": {
             "ad.ad-ya.net": "INACTIVE",
             "ad.aeonad.co.kr": "INACTIVE",
-            "ad.afy11.net": "INACTIVE",
             "adixs.net": "INACTIVE",
             "adv.mediakeep.co.kr": "INACTIVE",
             "candy.ad9.kr": "INACTIVE",
@@ -907,7 +904,6 @@
         "1568715815": {
             "ad.ad-ya.net": "INACTIVE",
             "ad.aeonad.co.kr": "INACTIVE",
-            "ad.afy11.net": "INACTIVE",
             "ad.openmatch.co.kr": "INACTIVE",
             "adixs-ad.co.kr": "INACTIVE",
             "mymyad.co.kr": "INACTIVE",
@@ -924,7 +920,6 @@
         "1568824553": {
             "ad.ad-ya.net": "INACTIVE",
             "ad.aeonad.co.kr": "INACTIVE",
-            "ad.afy11.net": "INACTIVE",
             "adcrm.co.kr": "INACTIVE",
             "h.adscope.co.kr": "INACTIVE",
             "mymyad.co.kr": "INACTIVE",
@@ -937,6 +932,22 @@
             "www.magento-analytics.com": "INACTIVE",
             "www.mediarichad.com": "INACTIVE",
             "www.onetag-sys.com": "INACTIVE"
+        },
+        "1568998131": {
+            "ad.ad-ya.net": "INACTIVE",
+            "ad.aeonad.co.kr": "INACTIVE",
+            "ad.afy11.net": "INACTIVE",
+            "adexview.new-star.co.kr": "INACTIVE",
+            "adixs-ad.co.kr": "INACTIVE",
+            "ak-gb.marketgid.com": "INACTIVE",
+            "dreamsearch.or.kr": "INACTIVE",
+            "mymyad.co.kr": "INACTIVE",
+            "new.jshopbox.com": "INACTIVE",
+            "scripts.chitika.net": "INACTIVE",
+            "www.amazon-adsystem.com": "INACTIVE",
+            "www.d1swklt9res5jr.cloudfront.net": "INACTIVE",
+            "www.d3oep4gb91kpuv.cloudfront.net": "INACTIVE",
+            "www.ppdxyz.info": "INACTIVE"
         }
     }
 }
