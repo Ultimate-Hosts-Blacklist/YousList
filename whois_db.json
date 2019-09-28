@@ -215,8 +215,8 @@
         "state": "future"
     },
     "iicdn.com": {
-        "epoch": "1569542400",
-        "expiration_date": "27-sep-2019",
+        "epoch": 1601164800,
+        "expiration_date": "27-sep-2020",
         "state": "future"
     },
     "ilikeview.com": {
@@ -435,8 +435,8 @@
         "state": "future"
     },
     "urldelivery.com": {
-        "epoch": "1568851200",
-        "expiration_date": "19-sep-2019",
+        "epoch": 1600473600,
+        "expiration_date": "19-sep-2020",
         "state": "future"
     },
     "vhldwuv6om.com": {
