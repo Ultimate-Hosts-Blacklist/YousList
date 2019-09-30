@@ -680,7 +680,6 @@
         "1566145320": {
             "ad.aeonad.co.kr": "INACTIVE",
             "creative.wwwpromoter.com": "INACTIVE",
-            "dev.ezadsystem.com": "INACTIVE",
             "js.medi-8.net": "INACTIVE",
             "longkeyone.co.kr": "INACTIVE",
             "www.amazon-adsystem.com": "INACTIVE",
@@ -839,7 +838,6 @@
             "ad.nsonmedia.com": "INACTIVE",
             "ads.mangouni.com": "INACTIVE",
             "adtag.asiaone.com": "INACTIVE",
-            "dev.ezadsystem.com": "INACTIVE",
             "inv-t-node.admixer.net": "INACTIVE",
             "jshoppingbox.joinsmsn.com": "INACTIVE",
             "lightad.co.kr": "INACTIVE",
@@ -965,6 +963,20 @@
             "www.franecki.net": "INACTIVE",
             "www.polltest.azurewebsites.net": "INACTIVE",
             "www.ppdxyz.info": "INACTIVE",
+            "www.zbnfhsk.com": "INACTIVE"
+        },
+        "1569861911": {
+            "ad.aeonad.co.kr": "INACTIVE",
+            "ads.mangouni.com": "INACTIVE",
+            "celeb.nann.co.kr": "INACTIVE",
+            "dev.ezadsystem.com": "INACTIVE",
+            "joy-adstore.co.kr": "INACTIVE",
+            "mymyad.co.kr": "INACTIVE",
+            "script.adsquare.co.kr": "INACTIVE",
+            "tab2-cdn.rubiconproject.com": "INACTIVE",
+            "www.d269y12mnftu9c.cloudfront.net": "INACTIVE",
+            "www.d3oep4gb91kpuv.cloudfront.net": "INACTIVE",
+            "www.d3pkae9owd2lcf.cloudfront.net": "INACTIVE",
             "www.zbnfhsk.com": "INACTIVE"
         }
     }
