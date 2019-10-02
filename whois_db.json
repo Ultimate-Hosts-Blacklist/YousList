@@ -65,8 +65,8 @@
         "state": "future"
     },
     "adpick.co.kr": {
-        "epoch": 1569888000,
-        "expiration_date": "01-oct-2019",
+        "epoch": 1601510400,
+        "expiration_date": "01-oct-2020",
         "state": "future"
     },
     "adpingpong.co.kr": {
@@ -115,9 +115,9 @@
         "state": "future"
     },
     "bayabar.com": {
-        "epoch": "1569974400",
+        "epoch": 1569974400,
         "expiration_date": "02-oct-2019",
-        "state": "future"
+        "state": "past"
     },
     "bizon.kr": {
         "epoch": "1577836800",
@@ -170,8 +170,8 @@
         "state": "future"
     },
     "deloton.com": {
-        "epoch": "1569715200",
-        "expiration_date": "29-sep-2019",
+        "epoch": 1601337600,
+        "expiration_date": "29-sep-2020",
         "state": "future"
     },
     "dianomi.com": {

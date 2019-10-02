@@ -856,7 +856,6 @@
         "1568220923": {
             "ad.aeonad.co.kr": "INACTIVE",
             "adcrm.co.kr": "INACTIVE",
-            "adixs-ad.co.kr": "INACTIVE",
             "candy.ad9.kr": "INACTIVE",
             "cwdata.itsearch.co.kr": "INACTIVE",
             "www.d1swklt9res5jr.cloudfront.net": "INACTIVE",
@@ -903,7 +902,6 @@
             "ad.ad-ya.net": "INACTIVE",
             "ad.aeonad.co.kr": "INACTIVE",
             "ad.openmatch.co.kr": "INACTIVE",
-            "adixs-ad.co.kr": "INACTIVE",
             "ra.ntwoad.co.kr": "INACTIVE",
             "secure.uac.advertising.com": "INACTIVE",
             "serv.ads.pixiv.org": "INACTIVE",
@@ -933,7 +931,6 @@
             "ad.aeonad.co.kr": "INACTIVE",
             "ad.afy11.net": "INACTIVE",
             "adexview.new-star.co.kr": "INACTIVE",
-            "adixs-ad.co.kr": "INACTIVE",
             "ak-gb.marketgid.com": "INACTIVE",
             "dreamsearch.or.kr": "INACTIVE",
             "new.jshopbox.com": "INACTIVE",
@@ -978,6 +975,22 @@
             "www.d3oep4gb91kpuv.cloudfront.net": "INACTIVE",
             "www.d3pkae9owd2lcf.cloudfront.net": "INACTIVE",
             "www.zbnfhsk.com": "INACTIVE"
+        },
+        "1570034321": {
+            "ad.aeonad.co.kr": "INACTIVE",
+            "ad.aeonad.net": "INACTIVE",
+            "ad.afy11.net": "INACTIVE",
+            "adixs-ad.co.kr": "INACTIVE",
+            "ads.mangouni.com": "INACTIVE",
+            "adserver.uniqube.tv": "INACTIVE",
+            "api.wiseclick.co.kr": "INACTIVE",
+            "care-health.co.kr": "INACTIVE",
+            "script.adsquare.co.kr": "INACTIVE",
+            "scripts.chitika.net": "INACTIVE",
+            "securepubads.g.doubleclick.net": "INACTIVE",
+            "www.d269y12mnftu9c.cloudfront.net": "INACTIVE",
+            "www.ebdr3.com": "INACTIVE",
+            "www.vse-spravki.bid": "INACTIVE"
         }
     }
 }
