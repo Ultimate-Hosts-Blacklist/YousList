@@ -62,7 +62,6 @@
             "fm1.jssearch.net": "",
             "get.keywordsconnect.com": "",
             "get2.keywordsconnect.com": "",
-            "guide.allblet.net": "",
             "h.adscope.co.kr": "",
             "im.obel.kr": "",
             "inv-t-node.admixer.net": "",
@@ -167,7 +166,6 @@
             "adixs.net": "INACTIVE",
             "adtag.asiaone.com": "INACTIVE",
             "ak-gb.marketgid.com": "INACTIVE",
-            "guide.allblet.net": "INACTIVE",
             "inv-t-node.admixer.net": "INACTIVE",
             "securepubads.g.doubleclick.net": "INACTIVE",
             "www.adtag.cc": "INACTIVE",
@@ -231,7 +229,6 @@
             "adserver.uniqube.tv": "INACTIVE",
             "adv.segye.com": "INACTIVE",
             "ak-gb.marketgid.com": "INACTIVE",
-            "guide.allblet.net": "INACTIVE",
             "h.adscope.co.kr": "INACTIVE",
             "joy-adstore.co.kr": "INACTIVE",
             "securepubads.g.doubleclick.net": "INACTIVE",
@@ -347,7 +344,6 @@
             "adv.segye.com": "INACTIVE",
             "celeb.nann.co.kr": "INACTIVE",
             "creative.wwwpromoter.com": "INACTIVE",
-            "guide.allblet.net": "INACTIVE",
             "ppdxyz.info": "INACTIVE",
             "www.amazon-adsystem.com": "INACTIVE",
             "www.coinhive.com": "INACTIVE",
@@ -1008,9 +1004,15 @@
             "www.vse-spravki.bid": "INACTIVE"
         },
         "1570343064": {
+            "adin.ad4980.kr": "INACTIVE",
+            "guide.allblet.net": "INACTIVE",
+            "js.medi-8.net": "INACTIVE",
+            "mymyad.co.kr": "INACTIVE",
+            "vse-spravki.bid": "INACTIVE",
             "www.adtradradservices.com": "INACTIVE",
             "www.amazon-adsystem.com": "INACTIVE",
-            "www.franecki.net": "INACTIVE"
+            "www.franecki.net": "INACTIVE",
+            "www.vse-spravki.bid": "INACTIVE"
         }
     }
 }
