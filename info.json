@@ -1,19 +1,19 @@
 {
     "current_stats": {
-        "builds": 7,
+        "builds": 8,
         "counter": {
-            "down": 23,
+            "down": 32,
             "invalid": 0,
-            "tested": 548,
-            "up": 525
+            "tested": 654,
+            "up": 622
         }
     },
     "currently_under_test": "1",
     "days_until_next_test": 2,
     "end_datetime": "Mon Oct  7 04:24:54 2019",
     "end_epoch": 1570422294.106419,
-    "last_autosave_datetime": "Tue Oct  8 04:36:56 2019",
-    "last_autosave_epoch": 1570509416.523233,
+    "last_autosave_datetime": "Tue Oct  8 07:13:36 2019",
+    "last_autosave_epoch": 1570518816.114705,
     "name": "YousList",
     "previous_stats": {
         "builds": 11,
