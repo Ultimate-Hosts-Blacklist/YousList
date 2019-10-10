@@ -441,7 +441,6 @@
         },
         "1563466168": {
             "ad.aeonad.co.kr": "INACTIVE",
-            "adcrm.co.kr": "INACTIVE",
             "adserver.uniqube.tv": "INACTIVE",
             "d1swklt9res5jr.cloudfront.net": "INACTIVE",
             "inv-t-node.admixer.net": "INACTIVE",
@@ -589,7 +588,6 @@
         "1565367293": {
             "ad.aeonad.net": "INACTIVE",
             "ad.vkoad.com": "INACTIVE",
-            "adcrm.co.kr": "INACTIVE",
             "mediarichad.com": "INACTIVE",
             "pub.adpnut.com": "INACTIVE",
             "secure.uac.advertising.com": "INACTIVE",
@@ -602,7 +600,6 @@
         },
         "1565540117": {
             "ad.aeonad.co.kr": "INACTIVE",
-            "adcrm.co.kr": "INACTIVE",
             "adixs.net": "INACTIVE",
             "d.a1comm.co.kr": "INACTIVE",
             "mediarichad.com": "INACTIVE",
@@ -615,7 +612,6 @@
         "1565713444": {
             "ad.aeonad.co.kr": "INACTIVE",
             "ad.vkoad.com": "INACTIVE",
-            "adcrm.co.kr": "INACTIVE",
             "d1swklt9res5jr.cloudfront.net": "INACTIVE",
             "ppdxyz.info": "INACTIVE",
             "www.adclickservice.com": "INACTIVE",
@@ -838,7 +834,6 @@
         },
         "1568220923": {
             "ad.aeonad.co.kr": "INACTIVE",
-            "adcrm.co.kr": "INACTIVE",
             "candy.ad9.kr": "INACTIVE",
             "cwdata.itsearch.co.kr": "INACTIVE",
             "www.d1swklt9res5jr.cloudfront.net": "INACTIVE",
@@ -898,7 +893,6 @@
         "1568824553": {
             "ad.ad-ya.net": "INACTIVE",
             "ad.aeonad.co.kr": "INACTIVE",
-            "adcrm.co.kr": "INACTIVE",
             "h.adscope.co.kr": "INACTIVE",
             "securepubads.g.doubleclick.net": "INACTIVE",
             "www.adtradradservices.com": "INACTIVE",
@@ -1060,9 +1054,6 @@
             "www.longkeyone.co.kr": "INACTIVE",
             "www.ppdxyz.info": "INACTIVE"
         },
-        "1570670338": {
-            "adcrm.co.kr": "INACTIVE"
-        },
         "1570670342": {
             "adv.segye.com": "INACTIVE"
         },
@@ -1149,6 +1140,31 @@
         },
         "1570716449": {
             "ad1.sportsseoul.com": "INACTIVE"
+        },
+        "1570720559": {
+            "render.helios.ligatus.com": "INACTIVE"
+        },
+        "1570720569": {
+            "a.komoona.com": "INACTIVE",
+            "www.bayabar.com": "INACTIVE"
+        },
+        "1570720572": {
+            "adixs-ad.co.kr": "INACTIVE"
+        },
+        "1570720582": {
+            "ad.aeonad.co.kr": "INACTIVE"
+        },
+        "1570720586": {
+            "adpingpong2.co.kr": "INACTIVE"
+        },
+        "1570720717": {
+            "ppdxyz.info": "INACTIVE"
+        },
+        "1570720719": {
+            "ak-gb.marketgid.com": "INACTIVE"
+        },
+        "1570720721": {
+            "adcrm.co.kr": "INACTIVE"
         }
     }
 }
