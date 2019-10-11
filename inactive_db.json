@@ -62,7 +62,6 @@
             "fm1.jssearch.net": "",
             "get.keywordsconnect.com": "",
             "get2.keywordsconnect.com": "",
-            "h.adscope.co.kr": "",
             "im.obel.kr": "",
             "inv-t-node.admixer.net": "",
             "joy-adstore.co.kr": "",
@@ -229,7 +228,6 @@
             "adserver.uniqube.tv": "INACTIVE",
             "adv.segye.com": "INACTIVE",
             "ak-gb.marketgid.com": "INACTIVE",
-            "h.adscope.co.kr": "INACTIVE",
             "joy-adstore.co.kr": "INACTIVE",
             "securepubads.g.doubleclick.net": "INACTIVE",
             "serv.ads.pixiv.org": "INACTIVE",
@@ -845,7 +843,6 @@
             "cdn04.sndkorea.co.kr": "INACTIVE",
             "cwdata.itplay.co.kr": "INACTIVE",
             "d1swklt9res5jr.cloudfront.net": "INACTIVE",
-            "h.adscope.co.kr": "INACTIVE",
             "securepubads.g.doubleclick.net": "INACTIVE",
             "www.edgecastcdn.net": "INACTIVE",
             "www.franecki.net": "INACTIVE",
@@ -855,7 +852,6 @@
         },
         "1568479722": {
             "adn.adneo.co.kr": "INACTIVE",
-            "h.adscope.co.kr": "INACTIVE",
             "op.neoad.co.kr": "INACTIVE",
             "ra.ntwoad.co.kr": "INACTIVE",
             "www.adtag.cc": "INACTIVE",
@@ -893,7 +889,6 @@
         "1568824553": {
             "ad.ad-ya.net": "INACTIVE",
             "ad.aeonad.co.kr": "INACTIVE",
-            "h.adscope.co.kr": "INACTIVE",
             "securepubads.g.doubleclick.net": "INACTIVE",
             "www.adtradradservices.com": "INACTIVE",
             "www.coinhive.com": "INACTIVE",
@@ -1228,6 +1223,24 @@
         },
         "1570802310": {
             "dcd.adotsolution.com": "INACTIVE"
+        },
+        "1570806467": {
+            "a.bf-ad.net": "INACTIVE"
+        },
+        "1570806598": {
+            "imp.mklaud.com": "INACTIVE"
+        },
+        "1570806599": {
+            "b.a2gw.com": "INACTIVE"
+        },
+        "1570806729": {
+            "gsad.gameshot.net": "INACTIVE"
+        },
+        "1570806860": {
+            "ad1.sportsseoul.com": "INACTIVE"
+        },
+        "1570806862": {
+            "h.adscope.co.kr": "INACTIVE"
         }
     }
 }
