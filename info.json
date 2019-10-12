@@ -1,17 +1,8 @@
 {
-    "current_stats": {
-        "builds": 3,
-        "counter": {
-            "down": 162,
-            "invalid": 0,
-            "tested": 685,
-            "up": 523
-        }
-    },
-    "currently_under_test": "1",
+    "currently_under_test": "0",
     "days_until_next_test": 2,
-    "end_datetime": "Fri Oct 11 15:14:22 2019",
-    "end_epoch": 1570806862.896734,
+    "end_datetime": "Sat Oct 12 20:54:10 2019",
+    "end_epoch": 1570913650.756747,
     "last_autosave_datetime": "Sat Oct 12 19:47:00 2019",
     "last_autosave_epoch": 1570909620.483511,
     "name": "YousList",
@@ -19,12 +10,12 @@
         "builds": 4,
         "clean.list": 530,
         "counter": {
-            "down": 227,
+            "down": 228,
             "invalid": 0,
-            "tested": 757,
+            "tested": 758,
             "up": 530
         },
-        "domains.list": 757,
+        "domains.list": 758,
         "volatile.list": 525,
         "whitelisted.list": 525
     },

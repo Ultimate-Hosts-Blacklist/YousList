@@ -1031,9 +1031,6 @@
         "1570670195": {
             "ads.tlvmedia.com": "INACTIVE"
         },
-        "1570670327": {
-            "nads.lumieyes.com": "INACTIVE"
-        },
         "1570670329": {
             "www.adixs.net": "INACTIVE"
         },
@@ -1211,9 +1208,6 @@
         "1570801648": {
             "ads.stickyadstv.com": "INACTIVE"
         },
-        "1570801785": {
-            "nads.lumieyes.com": "INACTIVE"
-        },
         "1570801916": {
             "op.mmnneo.com": "INACTIVE"
         },
@@ -1288,6 +1282,29 @@
         },
         "1570909489": {
             "op.mmnneo.com": "INACTIVE"
+        },
+        "1570913253": {
+            "dcd.adotsolution.com": "INACTIVE"
+        },
+        "1570913384": {
+            "nad1.mklaud.com": "INACTIVE",
+            "tab2-cdn.rubiconproject.com": "INACTIVE"
+        },
+        "1570913515": {
+            "imp.mklaud.com": "INACTIVE"
+        },
+        "1570913516": {
+            "y.one.impact-ad.jp": "INACTIVE"
+        },
+        "1570913518": {
+            "www.care-health.co.kr": "INACTIVE"
+        },
+        "1570913650": {
+            "nads.lumieyes.com": "INACTIVE"
+        }
+    }
+}     "1570913650": {
+            "ad.pickple.net": "INACTIVE"
         }
     }
 }
