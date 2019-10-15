@@ -75,9 +75,6 @@
         "1570973442": {
             "www.onetag-sys.com": "INACTIVE"
         },
-        "1570973572": {
-            "ads.tlvmedia.com": "INACTIVE"
-        },
         "1570973573": {
             "new.jshopbox.com": "INACTIVE"
         },
@@ -248,6 +245,17 @@
         },
         "1571142254": {
             "gsad.gameshot.net": "INACTIVE"
+        },
+        "1571147698": {
+            "adtag.asiaone.com": "INACTIVE",
+            "bullseye.backbeatmedia.com": "INACTIVE",
+            "d.adroll.com": "INACTIVE"
+        },
+        "1571147831": {
+            "mp.mmnneo.com": "INACTIVE"
+        },
+        "1571147962": {
+            "ads.tlvmedia.com": "INACTIVE"
         }
     }
 }
