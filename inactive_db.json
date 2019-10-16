@@ -41,7 +41,6 @@
             "tags.expo9.exponential.com": "INACTIVE"
         },
         "1570969495": {
-            "mp.mmnneo.com": "INACTIVE",
             "www.mediarichad.com": "INACTIVE"
         },
         "1570969629": {
@@ -248,9 +247,6 @@
             "bullseye.backbeatmedia.com": "INACTIVE",
             "d.adroll.com": "INACTIVE"
         },
-        "1571147831": {
-            "mp.mmnneo.com": "INACTIVE"
-        },
         "1571147962": {
             "ads.tlvmedia.com": "INACTIVE"
         },
@@ -306,6 +302,30 @@
         },
         "1571230426": {
             "nad1.mklaud.com": "INACTIVE"
+        },
+        "1571235321": {
+            "pagead2.googlesyndication.com": "INACTIVE",
+            "www.adixs.net": "INACTIVE"
+        },
+        "1571235453": {
+            "nads.lumieyes.com": "INACTIVE"
+        },
+        "1571235454": {
+            "tab2-cdn.rubiconproject.com": "INACTIVE"
+        },
+        "1571235585": {
+            "ad.adkova.com": "INACTIVE",
+            "ad.aeonad.net": "INACTIVE",
+            "vse-spravki.bid": "INACTIVE"
+        },
+        "1571235715": {
+            "imp.mklaud.com": "INACTIVE"
+        },
+        "1571235716": {
+            "cdn.connatix.com": "INACTIVE"
+        },
+        "1571235846": {
+            "mp.mmnneo.com": "INACTIVE"
         }
     }
 }
