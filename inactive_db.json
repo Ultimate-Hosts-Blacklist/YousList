@@ -7,7 +7,6 @@
             "ad.pickple.net": "INACTIVE"
         },
         "1570964295": {
-            "vse-spravki.bid": "INACTIVE",
             "www.vse-spravki.bid": "INACTIVE"
         },
         "1570964427": {
@@ -308,8 +307,7 @@
         },
         "1571235585": {
             "ad.adkova.com": "INACTIVE",
-            "ad.aeonad.net": "INACTIVE",
-            "vse-spravki.bid": "INACTIVE"
+            "ad.aeonad.net": "INACTIVE"
         },
         "1571235715": {
             "imp.mklaud.com": "INACTIVE"
@@ -401,6 +399,17 @@
         },
         "1571272486": {
             "dcd.adotsolution.com": "INACTIVE"
+        },
+        "1571275504": {
+            "adtag.asiaone.com": "INACTIVE",
+            "www.adixs.net": "INACTIVE"
+        },
+        "1571275635": {
+            "ad.pickple.net": "INACTIVE",
+            "serv.ads.pixiv.org": "INACTIVE"
+        },
+        "1571275766": {
+            "vse-spravki.bid": "INACTIVE"
         }
     }
 }
