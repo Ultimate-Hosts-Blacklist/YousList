@@ -112,9 +112,6 @@
         "1571075380": {
             "imp.mklaud.com": "INACTIVE"
         },
-        "1571075643": {
-            "ad.adkova.com": "INACTIVE"
-        },
         "1571079177": {
             "ads2.contentabc.com": "INACTIVE",
             "quick.1rtl.info": "INACTIVE"
@@ -306,7 +303,6 @@
             "tab2-cdn.rubiconproject.com": "INACTIVE"
         },
         "1571235585": {
-            "ad.adkova.com": "INACTIVE",
             "ad.aeonad.net": "INACTIVE"
         },
         "1571235715": {
@@ -386,7 +382,6 @@
             "s.pubmine.com": "INACTIVE"
         },
         "1571272224": {
-            "ad.adkova.com": "INACTIVE",
             "adserver.uniqube.tv": "INACTIVE",
             "engine.adzerk.net": "INACTIVE"
         },
@@ -444,6 +439,42 @@
         },
         "1571310404": {
             "ad.ingfac.co.kr": "INACTIVE"
+        },
+        "1571314819": {
+            "ads.tenping.kr": "INACTIVE"
+        },
+        "1571314823": {
+            "secure.uac.advertising.com": "INACTIVE"
+        },
+        "1571314825": {
+            "care-health.co.kr": "INACTIVE"
+        },
+        "1571314956": {
+            "www.onedrive.su": "INACTIVE"
+        },
+        "1571315088": {
+            "www.site3.co.kr": "INACTIVE"
+        },
+        "1571315220": {
+            "adx-exchange.toast.com": "INACTIVE"
+        },
+        "1571315223": {
+            "apex.go.sonobi.com": "INACTIVE",
+            "longkeyone.co.kr": "INACTIVE"
+        },
+        "1571315225": {
+            "care-health.co.kr": "INACTIVE"
+        },
+        "1571315226": {
+            "ak-gb.marketgid.com": "INACTIVE",
+            "scdn.cxense.com": "INACTIVE",
+            "www.d1swklt9res5jr.cloudfront.net": "INACTIVE"
+        },
+        "1571315356": {
+            "ad.pickple.net": "INACTIVE"
+        },
+        "1571315487": {
+            "ad.adkova.com": "INACTIVE"
         }
     }
 }
