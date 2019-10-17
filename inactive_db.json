@@ -289,9 +289,6 @@
         "1571230164": {
             "cdn-sic.33across.com": "INACTIVE"
         },
-        "1571230426": {
-            "nad1.mklaud.com": "INACTIVE"
-        },
         "1571235321": {
             "pagead2.googlesyndication.com": "INACTIVE",
             "www.adixs.net": "INACTIVE"
@@ -475,6 +472,19 @@
         },
         "1571315487": {
             "ad.adkova.com": "INACTIVE"
+        },
+        "1571318848": {
+            "creative.wwwpromoter.com": "INACTIVE"
+        },
+        "1571318979": {
+            "cdn-sic.33across.com": "INACTIVE",
+            "nads.lumieyes.com": "INACTIVE"
+        },
+        "1571319111": {
+            "gsad.gameshot.net": "INACTIVE"
+        },
+        "1571319241": {
+            "nad1.mklaud.com": "INACTIVE"
         }
     }
 }
