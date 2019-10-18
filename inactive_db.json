@@ -222,7 +222,6 @@
             "serv.ads.pixiv.org": "INACTIVE"
         },
         "1571142117": {
-            "ad.osen.co.kr": "INACTIVE",
             "www.coinhive.com": "INACTIVE"
         },
         "1571142122": {
@@ -546,7 +545,6 @@
         },
         "1571393881": {
             "ad-js.chip.de": "INACTIVE",
-            "ad.osen.co.kr": "INACTIVE",
             "d.adroll.com": "INACTIVE",
             "pq-direct.revsci.net": "INACTIVE",
             "www.onshowit.com": "INACTIVE",
@@ -563,6 +561,71 @@
         },
         "1571393909": {
             "pv.ntomap.com": "INACTIVE"
+        },
+        "1571430241": {
+            "ads1.playforum.net": "INACTIVE"
+        },
+        "1571430253": {
+            "www.onetag-sys.com": "INACTIVE"
+        },
+        "1571430259": {
+            "www.adtag.cc": "INACTIVE",
+            "www.onedrive.su": "INACTIVE"
+        },
+        "1571430264": {
+            "www.site3.co.kr": "INACTIVE"
+        },
+        "1571430271": {
+            "www.zbnfhsk.com": "INACTIVE"
+        },
+        "1571430287": {
+            "dev.ezadsystem.com": "INACTIVE"
+        },
+        "1571430301": {
+            "www.bayabar.com": "INACTIVE"
+        },
+        "1571430309": {
+            "www.adnext.fr": "INACTIVE"
+        },
+        "1571430327": {
+            "adv.imadrep.co.kr": "INACTIVE"
+        },
+        "1571430333": {
+            "pv.tag.ntomap.com": "INACTIVE"
+        },
+        "1571430334": {
+            "cdn.scrollads.co.kr": "INACTIVE"
+        },
+        "1571430342": {
+            "gsad.gameshot.net": "INACTIVE",
+            "www.ppdxyz.info": "INACTIVE"
+        },
+        "1571430347": {
+            "www.amazon-adsystem.com": "INACTIVE"
+        },
+        "1571430357": {
+            "ad.aeonad.co.kr": "INACTIVE"
+        },
+        "1571430362": {
+            "cm1.joins.com": "INACTIVE"
+        },
+        "1571430363": {
+            "tags.expo9.exponential.com": "INACTIVE",
+            "vse-spravki.bid": "INACTIVE"
+        },
+        "1571430372": {
+            "ads.emetro.co.kr": "INACTIVE"
+        },
+        "1571430373": {
+            "ad.ad-ya.net": "INACTIVE",
+            "www.d1swklt9res5jr.cloudfront.net": "INACTIVE",
+            "www.onetag-sys.com": "INACTIVE"
+        },
+        "1571430378": {
+            "nad1.mklaud.com": "INACTIVE"
+        },
+        "1571430385": {
+            "ad.osen.co.kr": "INACTIVE"
         }
     }
 }
