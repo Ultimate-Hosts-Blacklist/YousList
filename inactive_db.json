@@ -47,9 +47,6 @@
             "ak-gb.marketgid.com": "INACTIVE",
             "s.spoutable.com": "INACTIVE"
         },
-        "1570969632": {
-            "pv.ntomap.com": "INACTIVE"
-        },
         "1570969633": {
             "pagead2.googlesyndication.com": "INACTIVE",
             "www.d269y12mnftu9c.cloudfront.net": "INACTIVE"
@@ -485,6 +482,87 @@
         },
         "1571319241": {
             "nad1.mklaud.com": "INACTIVE"
+        },
+        "1571393784": {
+            "cdn.interworksmedia.co.kr": "INACTIVE",
+            "securepubads.g.doubleclick.net": "INACTIVE"
+        },
+        "1571393786": {
+            "ads.stickyadstv.com": "INACTIVE"
+        },
+        "1571393799": {
+            "www.franecki.net": "INACTIVE"
+        },
+        "1571393802": {
+            "ads.mangouni.com": "INACTIVE"
+        },
+        "1571393807": {
+            "www.onedrive.su": "INACTIVE"
+        },
+        "1571393808": {
+            "www.d269y12mnftu9c.cloudfront.net": "INACTIVE"
+        },
+        "1571393821": {
+            "www.site3.co.kr": "INACTIVE"
+        },
+        "1571393822": {
+            "pub.adpnut.com": "INACTIVE"
+        },
+        "1571393835": {
+            "traffic.adxprts.com": "INACTIVE",
+            "www.surgeprice.com": "INACTIVE"
+        },
+        "1571393840": {
+            "www.zbnfhsk.com": "INACTIVE"
+        },
+        "1571393845": {
+            "www.clevernt.com": "INACTIVE"
+        },
+        "1571393846": {
+            "www.edgecastcdn.net": "INACTIVE"
+        },
+        "1571393848": {
+            "joy-adstore.co.kr": "INACTIVE"
+        },
+        "1571393849": {
+            "adtg.widerplanet.com": "INACTIVE"
+        },
+        "1571393859": {
+            "www.bayabar.com": "INACTIVE"
+        },
+        "1571393868": {
+            "scr.nsmartad.com": "INACTIVE"
+        },
+        "1571393869": {
+            "tags.expo9.exponential.com": "INACTIVE"
+        },
+        "1571393874": {
+            "ssp.advg.jp": "INACTIVE",
+            "www.adnext.fr": "INACTIVE"
+        },
+        "1571393875": {
+            "ppdxyz.info": "INACTIVE",
+            "prebid.districtm.ca": "INACTIVE"
+        },
+        "1571393881": {
+            "ad-js.chip.de": "INACTIVE",
+            "ad.osen.co.kr": "INACTIVE",
+            "d.adroll.com": "INACTIVE",
+            "pq-direct.revsci.net": "INACTIVE",
+            "www.onshowit.com": "INACTIVE",
+            "www.ppdxyz.info": "INACTIVE"
+        },
+        "1571393882": {
+            "ppdxyz.info": "INACTIVE"
+        },
+        "1571393887": {
+            "cm1.joins.com": "INACTIVE"
+        },
+        "1571393893": {
+            "imp.mklaud.com": "INACTIVE"
+        },
+        "1571393909": {
+            "pv.ntomap.com": "INACTIVE"
         }
     }
 }
