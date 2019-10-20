@@ -51,9 +51,6 @@
             "pagead2.googlesyndication.com": "INACTIVE",
             "www.d269y12mnftu9c.cloudfront.net": "INACTIVE"
         },
-        "1570969645": {
-            "ad.aeonad.co.kr": "INACTIVE"
-        },
         "1570969646": {
             "ad.vkoad.com": "INACTIVE"
         },
@@ -603,9 +600,6 @@
         "1571430347": {
             "www.amazon-adsystem.com": "INACTIVE"
         },
-        "1571430357": {
-            "ad.aeonad.co.kr": "INACTIVE"
-        },
         "1571430362": {
             "cm1.joins.com": "INACTIVE"
         },
@@ -626,6 +620,85 @@
         },
         "1571430385": {
             "ad.osen.co.kr": "INACTIVE"
+        },
+        "1571590959": {
+            "y.one.impact-ad.jp": "INACTIVE"
+        },
+        "1571590966": {
+            "ad1.adfarm1.adition.com": "INACTIVE"
+        },
+        "1571590971": {
+            "www.ebdr3.com": "INACTIVE"
+        },
+        "1571590973": {
+            "wr.catad5959.com": "INACTIVE"
+        },
+        "1571590987": {
+            "www.n162adserv.com": "INACTIVE"
+        },
+        "1571590995": {
+            "www.onedrive.su": "INACTIVE"
+        },
+        "1571591015": {
+            "www.bayabar.com": "INACTIVE"
+        },
+        "1571591025": {
+            "cast.imp.joins.com": "INACTIVE"
+        },
+        "1571591027": {
+            "ad.mediatoday.co.kr": "INACTIVE"
+        },
+        "1571591033": {
+            "www.adnext.fr": "INACTIVE"
+        },
+        "1571591035": {
+            "np-adkpf.newscloud.or.kr": "INACTIVE"
+        },
+        "1571591049": {
+            "nad1.mklaud.com": "INACTIVE",
+            "www.franecki.net": "INACTIVE"
+        },
+        "1571591059": {
+            "www.bayabar.com": "INACTIVE"
+        },
+        "1571591060": {
+            "b.a2gw.com": "INACTIVE",
+            "tab2-cdn.rubiconproject.com": "INACTIVE",
+            "www.coinhive.com": "INACTIVE"
+        },
+        "1571591066": {
+            "cdn.adrtx.net": "INACTIVE",
+            "search2.nuriclick.co.kr": "INACTIVE"
+        },
+        "1571591067": {
+            "ppdxyz.info": "INACTIVE",
+            "serv.ads.pixiv.org": "INACTIVE"
+        },
+        "1571591072": {
+            "ad.afy11.net": "INACTIVE",
+            "d.adroll.com": "INACTIVE",
+            "dcd.adotsolution.com": "INACTIVE"
+        },
+        "1571591073": {
+            "www.d3u5zn5k9864p0.cloudfront.net": "INACTIVE"
+        },
+        "1571591078": {
+            "ad.pickple.net": "INACTIVE"
+        },
+        "1571591084": {
+            "a.tribalfusion.com": "INACTIVE",
+            "nads.lumieyes.com": "INACTIVE",
+            "pub.adpnut.com": "INACTIVE"
+        },
+        "1571591085": {
+            "ad-js.chip.de": "INACTIVE",
+            "ad8.adfarm1.adition.com": "INACTIVE"
+        },
+        "1571591090": {
+            "gsad.gameshot.net": "INACTIVE"
+        },
+        "1571591106": {
+            "ad.aeonad.co.kr": "INACTIVE"
         }
     }
 }
