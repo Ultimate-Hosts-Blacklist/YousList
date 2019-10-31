@@ -1,25 +1,25 @@
 {
     "currently_under_test": "0",
     "days_until_next_test": 2,
-    "end_datetime": "Tue Oct 29 16:55:00 2019",
-    "end_epoch": 1572368100.429879,
+    "end_datetime": "Thu Oct 31 10:27:28 2019",
+    "end_epoch": 1572517648.172548,
     "last_autosave_datetime": "Thu Oct 17 12:31:27 2019",
     "last_autosave_epoch": 1571315487.456259,
     "name": "YousList",
     "previous_stats": {
         "builds": 1,
-        "clean.list": 526,
+        "clean.list": 523,
         "counter": {
-            "down": 234,
+            "down": 236,
             "invalid": 0,
-            "tested": 760,
-            "up": 526
+            "tested": 759,
+            "up": 523
         },
-        "domains.list": 760,
-        "volatile.list": 521,
-        "whitelisted.list": 521
+        "domains.list": 759,
+        "volatile.list": 518,
+        "whitelisted.list": 518
     },
     "raw_link": "https://raw.githubusercontent.com/yous/YousList/master/hosts.txt",
-    "start_datetime": "Tue Oct 29 16:52:31 2019",
-    "start_epoch": 1572367951.356403
+    "start_datetime": "Thu Oct 31 10:24:42 2019",
+    "start_epoch": 1572517482.184993
 }

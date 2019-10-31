@@ -18,7 +18,6 @@
             "www.coinhive.com": "INACTIVE"
         },
         "1570964560": {
-            "ad1.sportsseoul.com": "INACTIVE",
             "www.franecki.net": "INACTIVE"
         },
         "1570964691": {
@@ -886,9 +885,6 @@
         "1572195561": {
             "cdn.connatix.com": "INACTIVE"
         },
-        "1572195567": {
-            "ad1.sportsseoul.com": "INACTIVE"
-        },
         "1572195578": {
             "ad.aeonad.co.kr": "INACTIVE"
         },
@@ -968,7 +964,6 @@
             "www.d3oep4gb91kpuv.cloudfront.net": "INACTIVE"
         },
         "1572368082": {
-            "ad1.sportsseoul.com": "INACTIVE",
             "gfp.veta.naver.com": "INACTIVE"
         },
         "1572368088": {
@@ -981,6 +976,90 @@
         },
         "1572368100": {
             "na.mmnneo.com": "INACTIVE"
+        },
+        "1572517487": {
+            "js.keywordsconnect.com": "INACTIVE"
+        },
+        "1572517488": {
+            "st.keywordsconnect.com": "INACTIVE"
+        },
+        "1572517493": {
+            "www.onedrive.su": "INACTIVE"
+        },
+        "1572517509": {
+            "www.bayabar.com": "INACTIVE"
+        },
+        "1572517515": {
+            "ad.wowtv.co.kr": "INACTIVE",
+            "cdn1.smartadserver.com": "INACTIVE",
+            "www.edgecastcdn.net": "INACTIVE"
+        },
+        "1572517520": {
+            "www.adnext.fr": "INACTIVE"
+        },
+        "1572517523": {
+            "www.iicdn.com": "INACTIVE"
+        },
+        "1572517525": {
+            "ad1.sportschosun.com": "INACTIVE"
+        },
+        "1572517533": {
+            "nws.lumieyes.com": "INACTIVE"
+        },
+        "1572517549": {
+            "www.site3.co.kr": "INACTIVE"
+        },
+        "1572517572": {
+            "www.trafmag.com": "INACTIVE"
+        },
+        "1572517583": {
+            "d1swklt9res5jr.cloudfront.net": "INACTIVE",
+            "www.bayabar.com": "INACTIVE",
+            "www.zbnfhsk.com": "INACTIVE"
+        },
+        "1572517596": {
+            "a.tribalfusion.com": "INACTIVE",
+            "fastlane.rubiconproject.com": "INACTIVE",
+            "scr.nsmartad.com": "INACTIVE",
+            "securepubads.g.doubleclick.net": "INACTIVE"
+        },
+        "1572517606": {
+            "adneo.encock.com": "INACTIVE"
+        },
+        "1572517607": {
+            "cdn.stickyadstv.com": "INACTIVE"
+        },
+        "1572517612": {
+            "adtag.asiaone.com": "INACTIVE",
+            "ak-gb.marketgid.com": "INACTIVE",
+            "cm2.joins.com": "INACTIVE"
+        },
+        "1572517613": {
+            "ad8.adfarm1.adition.com": "INACTIVE"
+        },
+        "1572517618": {
+            "www.adnext.fr": "INACTIVE"
+        },
+        "1572517628": {
+            "ad.aeonad.co.kr": "INACTIVE"
+        },
+        "1572517629": {
+            "ad-js.chip.de": "INACTIVE",
+            "y.one.impact-ad.jp": "INACTIVE"
+        },
+        "1572517635": {
+            "ad.owra.net": "INACTIVE",
+            "tpc.googlesyndication.com": "INACTIVE"
+        },
+        "1572517636": {
+            "prebid.districtm.ca": "INACTIVE"
+        },
+        "1572517641": {
+            "ad.pitta.ne.jp": "INACTIVE",
+            "mediarichad.com": "INACTIVE"
+        },
+        "1572517647": {
+            "ad1.sportsseoul.com": "INACTIVE"
         }
     }
 }
