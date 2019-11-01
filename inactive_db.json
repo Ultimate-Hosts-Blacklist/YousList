@@ -262,9 +262,6 @@
         "1571229764": {
             "yads.c.yimg.jp": "INACTIVE"
         },
-        "1571229895": {
-            "search2.nuriclick.co.kr": "INACTIVE"
-        },
         "1571229898": {
             "adv.mediakeep.co.kr": "INACTIVE"
         },
@@ -659,8 +656,7 @@
             "www.coinhive.com": "INACTIVE"
         },
         "1571591066": {
-            "cdn.adrtx.net": "INACTIVE",
-            "search2.nuriclick.co.kr": "INACTIVE"
+            "cdn.adrtx.net": "INACTIVE"
         },
         "1571591067": {
             "ppdxyz.info": "INACTIVE",
@@ -806,9 +802,6 @@
         },
         "1571826972": {
             "ad.adkova.com": "INACTIVE"
-        },
-        "1571826978": {
-            "search2.nuriclick.co.kr": "INACTIVE"
         },
         "1571826985": {
             "a.komoona.com": "INACTIVE",
@@ -1060,6 +1053,75 @@
         },
         "1572517647": {
             "ad1.sportsseoul.com": "INACTIVE"
+        },
+        "1572628029": {
+            "ads.adjust-net.jp": "INACTIVE",
+            "www.onedrive.su": "INACTIVE"
+        },
+        "1572628038": {
+            "www.ad.altervista.org": "INACTIVE"
+        },
+        "1572628039": {
+            "www.iicdn.com": "INACTIVE"
+        },
+        "1572628058": {
+            "www.adnext.fr": "INACTIVE"
+        },
+        "1572628069": {
+            "www.site3.co.kr": "INACTIVE"
+        },
+        "1572628071": {
+            "im.obel.kr": "INACTIVE"
+        },
+        "1572628078": {
+            "www.pussl35.com": "INACTIVE"
+        },
+        "1572628084": {
+            "www.d269y12mnftu9c.cloudfront.net": "INACTIVE"
+        },
+        "1572628099": {
+            "www.bayabar.com": "INACTIVE"
+        },
+        "1572628107": {
+            "mobi.luxad.net": "INACTIVE",
+            "securepubads.g.doubleclick.net": "INACTIVE"
+        },
+        "1572628114": {
+            "ad.osen.co.kr": "INACTIVE"
+        },
+        "1572628124": {
+            "ad.aeonad.co.kr": "INACTIVE"
+        },
+        "1572628125": {
+            "cdn.scrollads.co.kr": "INACTIVE"
+        },
+        "1572628140": {
+            "www.zbnfhsk.com": "INACTIVE"
+        },
+        "1572628146": {
+            "ad.owra.net": "INACTIVE"
+        },
+        "1572628148": {
+            "www.lightad.co.kr": "INACTIVE"
+        },
+        "1572628149": {
+            "mediarichad.com": "INACTIVE"
+        },
+        "1572628155": {
+            "pagead2.googlesyndication.com": "INACTIVE",
+            "pv.ntomap.com": "INACTIVE"
+        },
+        "1572628165": {
+            "www.bayabar.com": "INACTIVE"
+        },
+        "1572628166": {
+            "adtag.asiaone.com": "INACTIVE"
+        },
+        "1572628171": {
+            "ad.pitta.ne.jp": "INACTIVE"
+        },
+        "1572628177": {
+            "search2.nuriclick.co.kr": "INACTIVE"
         }
     }
 }
