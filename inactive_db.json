@@ -1048,9 +1048,6 @@
         "1572628069": {
             "www.site3.co.kr": "INACTIVE"
         },
-        "1572628071": {
-            "im.obel.kr": "INACTIVE"
-        },
         "1572628078": {
             "www.pussl35.com": "INACTIVE"
         },
@@ -1434,6 +1431,77 @@
         },
         "1573182002": {
             "nad1.mklaud.com": "INACTIVE"
+        },
+        "1573294453": {
+            "www.magento-analytics.com": "INACTIVE"
+        },
+        "1573294475": {
+            "www.ad-playstore.com": "INACTIVE"
+        },
+        "1573294483": {
+            "www.adnext.fr": "INACTIVE"
+        },
+        "1573294488": {
+            "www.ad-unpack.com": "INACTIVE"
+        },
+        "1573294491": {
+            "www.polltest.azurewebsites.net": "INACTIVE"
+        },
+        "1573294497": {
+            "script.nowcall.co.kr": "INACTIVE"
+        },
+        "1573294514": {
+            "www.site3.co.kr": "INACTIVE"
+        },
+        "1573294523": {
+            "ad.afy11.net": "INACTIVE",
+            "s.spoutable.com": "INACTIVE"
+        },
+        "1573294529": {
+            "www.franecki.net": "INACTIVE"
+        },
+        "1573294539": {
+            "sgate.opap.co.kr": "INACTIVE"
+        },
+        "1573294545": {
+            "nad1.mklaud.com": "INACTIVE"
+        },
+        "1573294551": {
+            "ad.owra.net": "INACTIVE"
+        },
+        "1573294552": {
+            "static.criteo.net": "INACTIVE"
+        },
+        "1573294558": {
+            "op.mmnneo.com": "INACTIVE",
+            "tab2-cdn.rubiconproject.com": "INACTIVE",
+            "y.one.impact-ad.jp": "INACTIVE"
+        },
+        "1573294568": {
+            "ad.aeonad.co.kr": "INACTIVE"
+        },
+        "1573294569": {
+            "ads.stickyadstv.com": "INACTIVE"
+        },
+        "1573294579": {
+            "cm2.joins.com": "INACTIVE",
+            "www.onshowit.com": "INACTIVE"
+        },
+        "1573294589": {
+            "cast.imp.joins.com": "INACTIVE"
+        },
+        "1573294590": {
+            "mediarichad.com": "INACTIVE",
+            "www.amazon-adsystem.com": "INACTIVE"
+        },
+        "1573294595": {
+            "nads.lumieyes.com": "INACTIVE"
+        },
+        "1573294601": {
+            "ad1.sportsseoul.com": "INACTIVE"
+        },
+        "1573294602": {
+            "im.obel.kr": "INACTIVE"
         }
     }
 }
