@@ -365,9 +365,6 @@
         "1571272355": {
             "scripts.chitika.net": "INACTIVE"
         },
-        "1571272486": {
-            "dcd.adotsolution.com": "INACTIVE"
-        },
         "1571275504": {
             "adtag.asiaone.com": "INACTIVE",
             "www.adixs.net": "INACTIVE"
@@ -652,8 +649,7 @@
         },
         "1571591072": {
             "ad.afy11.net": "INACTIVE",
-            "d.adroll.com": "INACTIVE",
-            "dcd.adotsolution.com": "INACTIVE"
+            "d.adroll.com": "INACTIVE"
         },
         "1571591073": {
             "www.d3u5zn5k9864p0.cloudfront.net": "INACTIVE"
@@ -793,8 +789,7 @@
             "www.onshowit.com": "INACTIVE"
         },
         "1571826991": {
-            "b.a2gw.com": "INACTIVE",
-            "dcd.adotsolution.com": "INACTIVE"
+            "b.a2gw.com": "INACTIVE"
         },
         "1571827001": {
             "ad.aeonad.co.kr": "INACTIVE"
@@ -1403,9 +1398,6 @@
         "1573181948": {
             "ssp.advg.jp": "INACTIVE"
         },
-        "1573181953": {
-            "dcd.adotsolution.com": "INACTIVE"
-        },
         "1573181954": {
             "ads.adjust-net.jp": "INACTIVE",
             "prebid.districtm.ca": "INACTIVE"
@@ -1502,6 +1494,9 @@
         },
         "1573294602": {
             "im.obel.kr": "INACTIVE"
+        },
+        "1573407614": {
+            "securepubads.g.doubleclick.net": "INACTIVE"
         }
     }
 }
