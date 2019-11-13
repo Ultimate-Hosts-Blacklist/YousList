@@ -1,13 +1,13 @@
 {
     "currently_under_test": "0",
     "days_until_next_test": 2,
-    "end_datetime": "Tue Nov 12 18:41:24 2019",
-    "end_epoch": 1573584084.494749,
+    "end_datetime": "Wed Nov 13 22:30:14 2019",
+    "end_epoch": 1573684214.919339,
     "last_autosave_datetime": "Tue Nov 12 17:49:46 2019",
     "last_autosave_epoch": 1573580986.685506,
     "name": "YousList",
     "previous_stats": {
-        "builds": 2,
+        "builds": 1,
         "clean.list": 761,
         "counter": {
             "down": 1,
@@ -20,6 +20,6 @@
         "whitelisted.list": 756
     },
     "raw_link": "https://raw.githubusercontent.com/yous/YousList/master/hosts.txt",
-    "start_datetime": "Tue Nov 12 17:39:41 2019",
-    "start_epoch": 1573580381.143078
+    "start_datetime": "Wed Nov 13 22:20:18 2019",
+    "start_epoch": 1573683618.571597
 }

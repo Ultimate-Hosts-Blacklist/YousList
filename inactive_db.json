@@ -17,9 +17,6 @@
             "www.care-health.co.kr": "INACTIVE",
             "www.coinhive.com": "INACTIVE"
         },
-        "1570964560": {
-            "www.franecki.net": "INACTIVE"
-        },
         "1570964691": {
             "pd4-imp.revsci.net": "INACTIVE",
             "pq-direct.revsci.net": "INACTIVE"
@@ -262,9 +259,6 @@
         "1571230029": {
             "www.onetag-sys.com": "INACTIVE"
         },
-        "1571230160": {
-            "www.franecki.net": "INACTIVE"
-        },
         "1571230164": {
             "cdn-sic.33across.com": "INACTIVE"
         },
@@ -299,9 +293,6 @@
         },
         "1571267034": {
             "d.pixiv.org": "INACTIVE"
-        },
-        "1571267037": {
-            "www.franecki.net": "INACTIVE"
         },
         "1571267039": {
             "adexview.new-star.co.kr": "INACTIVE"
@@ -466,9 +457,6 @@
         "1571393786": {
             "ads.stickyadstv.com": "INACTIVE"
         },
-        "1571393799": {
-            "www.franecki.net": "INACTIVE"
-        },
         "1571393802": {
             "ads.mangouni.com": "INACTIVE"
         },
@@ -629,8 +617,7 @@
             "np-adkpf.newscloud.or.kr": "INACTIVE"
         },
         "1571591049": {
-            "nad1.mklaud.com": "INACTIVE",
-            "www.franecki.net": "INACTIVE"
+            "nad1.mklaud.com": "INACTIVE"
         },
         "1571591059": {
             "www.bayabar.com": "INACTIVE"
@@ -816,9 +803,6 @@
         },
         "1572195484": {
             "www.edgecastcdn.net": "INACTIVE"
-        },
-        "1572195490": {
-            "www.franecki.net": "INACTIVE"
         },
         "1572195491": {
             "a.t.webtracker.jp": "INACTIVE"
@@ -1176,9 +1160,6 @@
         "1572862790": {
             "www.bayabar.com": "INACTIVE"
         },
-        "1572862815": {
-            "www.franecki.net": "INACTIVE"
-        },
         "1572862835": {
             "www.site3.co.kr": "INACTIVE"
         },
@@ -1230,9 +1211,6 @@
         },
         "1572972812": {
             "keyword.ad4989.co.kr": "INACTIVE"
-        },
-        "1572972820": {
-            "www.franecki.net": "INACTIVE"
         },
         "1572972850": {
             "www.bayabar.com": "INACTIVE"
@@ -1377,9 +1355,6 @@
             "widget.barnebys.com": "INACTIVE",
             "www.bayabar.com": "INACTIVE"
         },
-        "1573181910": {
-            "www.franecki.net": "INACTIVE"
-        },
         "1573181927": {
             "api.wiseclick.co.kr": "INACTIVE"
         },
@@ -1446,9 +1421,6 @@
             "ad.afy11.net": "INACTIVE",
             "s.spoutable.com": "INACTIVE"
         },
-        "1573294529": {
-            "www.franecki.net": "INACTIVE"
-        },
         "1573294539": {
             "sgate.opap.co.kr": "INACTIVE"
         },
@@ -1493,6 +1465,9 @@
             "im.obel.kr": "INACTIVE"
         },
         "1573407614": {
+            "securepubads.g.doubleclick.net": "INACTIVE"
+        },
+        "1573684010": {
             "securepubads.g.doubleclick.net": "INACTIVE"
         }
     }
