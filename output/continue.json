@@ -752,7 +752,16 @@
         "serv.ads.pixiv.org",
         "ad.pitta.ne.jp",
         "js.newsmobile.co.kr",
-        "ads1.playforum.net"
+        "ads1.playforum.net",
+        "ax-d.pixfuture.net",
+        "inv-t-node.admixer.net",
+        "adixs-ad.co.kr",
+        "www.adixs-ad.co.kr",
+        "a.komoona.com",
+        "cdn1.smartadserver.com",
+        "js.mtburn.com",
+        "myvip.feeldmc.com",
+        "ads.stickyadstv.com"
     ],
     "INACTIVE": [
         "securepubads.g.doubleclick.net"
