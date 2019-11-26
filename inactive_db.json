@@ -469,9 +469,6 @@
         "1571393846": {
             "www.edgecastcdn.net": "INACTIVE"
         },
-        "1571393848": {
-            "joy-adstore.co.kr": "INACTIVE"
-        },
         "1571393849": {
             "adtg.widerplanet.com": "INACTIVE"
         },
@@ -2035,9 +2032,6 @@
         "1574030560": {
             "ad.ad-ya.net": "INACTIVE"
         },
-        "1574030564": {
-            "joy-adstore.co.kr": "INACTIVE"
-        },
         "1574030568": {
             "alea.adam.ad.daum.net": "INACTIVE"
         },
@@ -2471,7 +2465,6 @@
             "adv.mediakeep.co.kr": "INACTIVE"
         },
         "1574165202": {
-            "joy-adstore.co.kr": "INACTIVE",
             "vse-spravki.bid": "INACTIVE"
         },
         "1574165206": {
@@ -2849,8 +2842,7 @@
             "www.ad4989.kr": "INACTIVE"
         },
         "1574273465": {
-            "ad.aeonad.net": "INACTIVE",
-            "joy-adstore.co.kr": "INACTIVE"
+            "ad.aeonad.net": "INACTIVE"
         },
         "1574273468": {
             "cjmooter.xcache.kinxcdn.com": "INACTIVE"
@@ -3263,9 +3255,6 @@
         "1574338578": {
             "www.mediarichad.com": "INACTIVE"
         },
-        "1574338582": {
-            "joy-adstore.co.kr": "INACTIVE"
-        },
         "1574338587": {
             "www.joy-adstore.co.kr": "INACTIVE"
         },
@@ -3668,9 +3657,6 @@
         "1574447110": {
             "adixs.net": "INACTIVE",
             "care-health.co.kr": "INACTIVE"
-        },
-        "1574447119": {
-            "joy-adstore.co.kr": "INACTIVE"
         },
         "1574447121": {
             "adv.segye.com": "INACTIVE"
@@ -4134,7 +4120,6 @@
             "ad.adop.co.kr": "INACTIVE"
         },
         "1574619057": {
-            "joy-adstore.co.kr": "INACTIVE",
             "quick.1rtl.info": "INACTIVE"
         },
         "1574619063": {
@@ -4476,9 +4461,6 @@
         "1574683433": {
             "cdn.scrollads.co.kr": "INACTIVE"
         },
-        "1574683436": {
-            "joy-adstore.co.kr": "INACTIVE"
-        },
         "1574683441": {
             "www.mymyad.co.kr": "INACTIVE"
         },
@@ -4772,6 +4754,106 @@
         },
         "1574789659": {
             "ad.imp.joins.com": "INACTIVE"
+        },
+        "1574791174": {
+            "www.mediarichad.com": "INACTIVE"
+        },
+        "1574791179": {
+            "www.longkeyone.co.kr": "INACTIVE"
+        },
+        "1574791182": {
+            "cdn04.sndkorea.co.kr": "INACTIVE"
+        },
+        "1574791187": {
+            "www.lightad.co.kr": "INACTIVE"
+        },
+        "1574791191": {
+            "lightad.co.kr": "INACTIVE"
+        },
+        "1574791195": {
+            "mobi.luxad.kr": "INACTIVE"
+        },
+        "1574791200": {
+            "ad.afy11.net": "INACTIVE"
+        },
+        "1574791207": {
+            "www.care-health.co.kr": "INACTIVE"
+        },
+        "1574791213": {
+            "ad.adixs.co.kr": "INACTIVE"
+        },
+        "1574791242": {
+            "cm2.joins.com": "INACTIVE"
+        },
+        "1574791246": {
+            "dev.ezadsystem.com": "INACTIVE"
+        },
+        "1574791247": {
+            "mediarichad.com": "INACTIVE"
+        },
+        "1574791253": {
+            "ads1.playforum.net": "INACTIVE"
+        },
+        "1574791258": {
+            "www.adpingpong2.co.kr": "INACTIVE"
+        },
+        "1574791259": {
+            "adserver.uniqube.tv": "INACTIVE"
+        },
+        "1574791263": {
+            "www.dreamsearch.or.kr": "INACTIVE"
+        },
+        "1574791266": {
+            "get2.keywordsconnect.com": "INACTIVE"
+        },
+        "1574791271": {
+            "www.joy-adstore.co.kr": "INACTIVE"
+        },
+        "1574791274": {
+            "www.adixs.net": "INACTIVE"
+        },
+        "1574791311": {
+            "www.adixs-ad.co.kr": "INACTIVE"
+        },
+        "1574791316": {
+            "longkeyone.co.kr": "INACTIVE"
+        },
+        "1574791321": {
+            "d1swklt9res5jr.cloudfront.net": "INACTIVE",
+            "www.mymyad.co.kr": "INACTIVE"
+        },
+        "1574791330": {
+            "alea.adam.ad.daum.net": "INACTIVE"
+        },
+        "1574791335": {
+            "ads.ad7942.co.kr": "INACTIVE"
+        },
+        "1574791339": {
+            "care-health.co.kr": "INACTIVE"
+        },
+        "1574791344": {
+            "render.helios.ligatus.com": "INACTIVE"
+        },
+        "1574791347": {
+            "myvip.feeldmc.com": "INACTIVE"
+        },
+        "1574791350": {
+            "adpingpong2.co.kr": "INACTIVE"
+        },
+        "1574791351": {
+            "adixs.net": "INACTIVE"
+        },
+        "1574791357": {
+            "cwdata.itsearch.co.kr": "INACTIVE"
+        },
+        "1574791362": {
+            "ad.ingfac.co.kr": "INACTIVE"
+        },
+        "1574791368": {
+            "www.adcrm.co.kr": "INACTIVE"
+        },
+        "1574791373": {
+            "joy-adstore.co.kr": "INACTIVE"
         }
     }
 }
