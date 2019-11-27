@@ -1414,9 +1414,6 @@
         "1573684010": {
             "securepubads.g.doubleclick.net": "INACTIVE"
         },
-        "1573926117": {
-            "www.franecki.net": "INACTIVE"
-        },
         "1573926135": {
             "www.tsyndicate.com": "INACTIVE"
         },
@@ -1781,9 +1778,6 @@
         "1574029982": {
             "www.magento-analytics.com": "INACTIVE"
         },
-        "1574030012": {
-            "www.franecki.net": "INACTIVE"
-        },
         "1574030022": {
             "qmca.qrobo.com": "INACTIVE"
         },
@@ -1890,9 +1884,6 @@
         },
         "1574030303": {
             "inv-t-node.admixer.net": "INACTIVE"
-        },
-        "1574030306": {
-            "www.franecki.net": "INACTIVE"
         },
         "1574030334": {
             "cm1.joins.com": "INACTIVE"
@@ -2184,9 +2175,6 @@
         },
         "1574158676": {
             "www.coin-hive.com": "INACTIVE"
-        },
-        "1574158691": {
-            "www.franecki.net": "INACTIVE"
         },
         "1574158700": {
             "www.edgecastcdn.net": "INACTIVE"
@@ -2574,9 +2562,6 @@
         },
         "1574271020": {
             "www.magento-analytics.com": "INACTIVE"
-        },
-        "1574271034": {
-            "www.franecki.net": "INACTIVE"
         },
         "1574271047": {
             "www.onedrive.su": "INACTIVE"
@@ -2966,9 +2951,6 @@
         "1574331742": {
             "www.bayabar.com": "INACTIVE"
         },
-        "1574331767": {
-            "www.franecki.net": "INACTIVE"
-        },
         "1574331771": {
             "www.adtag.cc": "INACTIVE"
         },
@@ -3181,7 +3163,6 @@
             "search2.nuriclick.co.kr": "INACTIVE"
         },
         "1574332186": {
-            "www.franecki.net": "INACTIVE",
             "www.pussl35.com": "INACTIVE"
         },
         "1574332189": {
@@ -3377,9 +3358,6 @@
         },
         "1574444238": {
             "www.onshowit.com": "INACTIVE"
-        },
-        "1574444257": {
-            "www.franecki.net": "INACTIVE"
         },
         "1574444269": {
             "www.tsyndicate.com": "INACTIVE"
@@ -3760,9 +3738,6 @@
         "1574616751": {
             "www.surgeprice.com": "INACTIVE"
         },
-        "1574616753": {
-            "www.franecki.net": "INACTIVE"
-        },
         "1574616761": {
             "www.d3u5zn5k9864p0.cloudfront.net": "INACTIVE"
         },
@@ -3829,8 +3804,7 @@
             "www.ad4989.kr": "INACTIVE"
         },
         "1574616918": {
-            "www.amazon-adsystem.com": "INACTIVE",
-            "www.franecki.net": "INACTIVE"
+            "www.amazon-adsystem.com": "INACTIVE"
         },
         "1574616919": {
             "www.bayabar.com": "INACTIVE"
@@ -4168,9 +4142,6 @@
         "1574679014": {
             "www.magento-analytics.com": "INACTIVE"
         },
-        "1574679023": {
-            "www.franecki.net": "INACTIVE"
-        },
         "1574679036": {
             "www.fam-ad.com": "INACTIVE"
         },
@@ -4507,9 +4478,6 @@
         "1574789091": {
             "www.amazon-adsystem.com": "INACTIVE"
         },
-        "1574789095": {
-            "www.franecki.net": "INACTIVE"
-        },
         "1574789108": {
             "www.d3pkae9owd2lcf.cloudfront.net": "INACTIVE"
         },
@@ -4730,9 +4698,6 @@
         "1574789597": {
             "www.mymyad.co.kr": "INACTIVE"
         },
-        "1574789601": {
-            "www.franecki.net": "INACTIVE"
-        },
         "1574789606": {
             "www.mymyad.co.kr": "INACTIVE"
         },
@@ -4854,6 +4819,264 @@
         },
         "1574791373": {
             "joy-adstore.co.kr": "INACTIVE"
+        },
+        "1574894298": {
+            "www.onetag-sys.com": "INACTIVE"
+        },
+        "1574894299": {
+            "www.ebdr3.com": "INACTIVE"
+        },
+        "1574894330": {
+            "www.d1jikhx1ssl81z.cloudfront.net": "INACTIVE"
+        },
+        "1574894337": {
+            "www.amazon-adsystem.com": "INACTIVE"
+        },
+        "1574894356": {
+            "www.d2v02itv0y9u9t.cloudfront.net": "INACTIVE"
+        },
+        "1574894383": {
+            "www.d3pkae9owd2lcf.cloudfront.net": "INACTIVE"
+        },
+        "1574894392": {
+            "www.am15.net": "INACTIVE"
+        },
+        "1574894400": {
+            "you.claremedia.co.kr": "INACTIVE"
+        },
+        "1574894406": {
+            "www.dezf3o8j9jdt6.cloudfront.net": "INACTIVE"
+        },
+        "1574894407": {
+            "www.d3oep4gb91kpuv.cloudfront.net": "INACTIVE"
+        },
+        "1574894409": {
+            "www.fam-ad.com": "INACTIVE"
+        },
+        "1574894424": {
+            "www.ad-unpack.com": "INACTIVE"
+        },
+        "1574894438": {
+            "www.d3u5zn5k9864p0.cloudfront.net": "INACTIVE"
+        },
+        "1574894439": {
+            "www.iicdn.com": "INACTIVE"
+        },
+        "1574894440": {
+            "www.coinhive.com": "INACTIVE"
+        },
+        "1574894443": {
+            "www.surgeprice.com": "INACTIVE"
+        },
+        "1574894444": {
+            "www.d269y12mnftu9c.cloudfront.net": "INACTIVE"
+        },
+        "1574894479": {
+            "www.zbnfhsk.com": "INACTIVE"
+        },
+        "1574894483": {
+            "www.pussl35.com": "INACTIVE"
+        },
+        "1574894496": {
+            "www.edgecastcdn.net": "INACTIVE"
+        },
+        "1574894507": {
+            "www.magento-analytics.com": "INACTIVE"
+        },
+        "1574894514": {
+            "www.bayabar.com": "INACTIVE"
+        },
+        "1574894516": {
+            "www.tsyndicate.com": "INACTIVE"
+        },
+        "1574894521": {
+            "www.onshowit.com": "INACTIVE",
+            "www.polltest.azurewebsites.net": "INACTIVE"
+        },
+        "1574894559": {
+            "cm2.cjmooter.com": "INACTIVE"
+        },
+        "1574894567": {
+            "adneo.encock.com": "INACTIVE"
+        },
+        "1574894569": {
+            "adstract.adk2x.com": "INACTIVE"
+        },
+        "1574894574": {
+            "adn.adneo.co.kr": "INACTIVE"
+        },
+        "1574894579": {
+            "www.adpingpong2.co.kr": "INACTIVE"
+        },
+        "1574894584": {
+            "www.care-health.co.kr": "INACTIVE",
+            "www.surgeprice.com": "INACTIVE"
+        },
+        "1574894589": {
+            "keyword.ad4989.co.kr": "INACTIVE"
+        },
+        "1574894590": {
+            "www.ebdr3.com": "INACTIVE"
+        },
+        "1574894594": {
+            "ad.adop.co.kr": "INACTIVE"
+        },
+        "1574894600": {
+            "www.ad-unpack.com": "INACTIVE"
+        },
+        "1574894601": {
+            "mobi.luxad.net": "INACTIVE"
+        },
+        "1574894602": {
+            "cdn.c-team.jp": "INACTIVE"
+        },
+        "1574894603": {
+            "ad.ad-ya.net": "INACTIVE"
+        },
+        "1574894634": {
+            "agate.opap.co.kr": "INACTIVE",
+            "www.adtag.cc": "INACTIVE"
+        },
+        "1574894635": {
+            "ad.vkoad.com": "INACTIVE",
+            "www.tsyndicate.com": "INACTIVE"
+        },
+        "1574894639": {
+            "mobs.luxad.kr": "INACTIVE"
+        },
+        "1574894641": {
+            "st.keywordsconnect.com": "INACTIVE"
+        },
+        "1574894648": {
+            "h.adscope.co.kr": "INACTIVE"
+        },
+        "1574894651": {
+            "adexview.new-star.co.kr": "INACTIVE"
+        },
+        "1574894652": {
+            "ppdxyz.info": "INACTIVE"
+        },
+        "1574894655": {
+            "ad.adlike.co.kr": "INACTIVE"
+        },
+        "1574894658": {
+            "get.keywordsconnect.com": "INACTIVE"
+        },
+        "1574894659": {
+            "www.am15.net": "INACTIVE"
+        },
+        "1574894660": {
+            "www.d3u5zn5k9864p0.cloudfront.net": "INACTIVE"
+        },
+        "1574894663": {
+            "ads3.adinc.co.kr": "INACTIVE"
+        },
+        "1574894670": {
+            "www.ad999.biz": "INACTIVE",
+            "www.adcrm.co.kr": "INACTIVE"
+        },
+        "1574894676": {
+            "www.joy-adstore.co.kr": "INACTIVE"
+        },
+        "1574894681": {
+            "www.lightad.co.kr": "INACTIVE"
+        },
+        "1574894686": {
+            "adcreative.hani.naver.net": "INACTIVE"
+        },
+        "1574894688": {
+            "www.ad.altervista.org": "INACTIVE"
+        },
+        "1574894691": {
+            "candy.ad9.kr": "INACTIVE"
+        },
+        "1574894696": {
+            "www.mymyad.co.kr": "INACTIVE"
+        },
+        "1574894701": {
+            "www.mymyad.co.kr": "INACTIVE"
+        },
+        "1574894702": {
+            "new.jshopbox.com": "INACTIVE",
+            "www.edgecastcdn.net": "INACTIVE"
+        },
+        "1574894709": {
+            "ad.adixs.co.kr": "INACTIVE"
+        },
+        "1574894710": {
+            "www.adixs.net": "INACTIVE"
+        },
+        "1574894714": {
+            "cdn03.sndkorea.co.kr": "INACTIVE"
+        },
+        "1574894719": {
+            "www.longkeyone.co.kr": "INACTIVE"
+        },
+        "1574894724": {
+            "www.longkeyone.co.kr": "INACTIVE"
+        },
+        "1574894728": {
+            "www.ad4989.kr": "INACTIVE"
+        },
+        "1574894758": {
+            "cm2.joins.com": "INACTIVE"
+        },
+        "1574894759": {
+            "www.mediarichad.com": "INACTIVE"
+        },
+        "1574894764": {
+            "ra.ntwoad.co.kr": "INACTIVE"
+        },
+        "1574894797": {
+            "ad.imp.joins.com": "INACTIVE"
+        },
+        "1574894802": {
+            "www.care-health.co.kr": "INACTIVE"
+        },
+        "1574894804": {
+            "www.amazon-adsystem.com": "INACTIVE"
+        },
+        "1574894835": {
+            "sgate.opap.co.kr": "INACTIVE"
+        },
+        "1574894845": {
+            "adimg1.adinc.co.kr": "INACTIVE"
+        },
+        "1574894846": {
+            "www.d3pkae9owd2lcf.cloudfront.net": "INACTIVE"
+        },
+        "1574894848": {
+            "www.fam-ad.com": "INACTIVE"
+        },
+        "1574894853": {
+            "ad.openmatch.co.kr": "INACTIVE"
+        },
+        "1574894858": {
+            "www.adixs-ad.co.kr": "INACTIVE"
+        },
+        "1574894863": {
+            "www.dreamsearch.or.kr": "INACTIVE"
+        },
+        "1574894868": {
+            "ad.afy11.net": "INACTIVE"
+        },
+        "1574894869": {
+            "www.pussl35.com": "INACTIVE"
+        },
+        "1574894874": {
+            "celeb.nann.co.kr": "INACTIVE"
+        },
+        "1574894877": {
+            "myvip.feeldmc.com": "INACTIVE"
+        },
+        "1574894882": {
+            "adv.mediakeep.co.kr": "INACTIVE"
+        },
+        "1574894885": {
+            "secure.uac.advertising.com": "INACTIVE"
+        },
+        "1574894897": {
+            "www.franecki.net": "INACTIVE"
         }
     }
 }
