@@ -207,9 +207,6 @@
             "bullseye.backbeatmedia.com": "INACTIVE",
             "d.adroll.com": "INACTIVE"
         },
-        "1571147962": {
-            "ads.tlvmedia.com": "INACTIVE"
-        },
         "1571223554": {
             "www.ebdr3.com": "INACTIVE"
         },
@@ -1608,9 +1605,6 @@
         "1573926499": {
             "wr.catad5959.com": "INACTIVE"
         },
-        "1573926504": {
-            "ads.tlvmedia.com": "INACTIVE"
-        },
         "1573926506": {
             "adcreative.hani.naver.net": "INACTIVE"
         },
@@ -2065,9 +2059,6 @@
         "1574033749": {
             "api.wiseclick.co.kr": "INACTIVE"
         },
-        "1574033755": {
-            "ads.tlvmedia.com": "INACTIVE"
-        },
         "1574033759": {
             "www.mymyad.co.kr": "INACTIVE"
         },
@@ -2347,9 +2338,6 @@
         },
         "1574159046": {
             "ad.adkova.com": "INACTIVE"
-        },
-        "1574159051": {
-            "ads.tlvmedia.com": "INACTIVE"
         },
         "1574159057": {
             "www.adixs-ad.co.kr": "INACTIVE"
@@ -2752,9 +2740,6 @@
         },
         "1574271500": {
             "www.lightad.co.kr": "INACTIVE"
-        },
-        "1574271505": {
-            "ads.tlvmedia.com": "INACTIVE"
         },
         "1574271506": {
             "cdn.scrollads.co.kr": "INACTIVE"
@@ -3188,7 +3173,6 @@
             "adv.imadrep.co.kr": "INACTIVE"
         },
         "1574338555": {
-            "ads.tlvmedia.com": "INACTIVE",
             "mobi.luxad.net": "INACTIVE"
         },
         "1574338558": {
@@ -3508,9 +3492,6 @@
         },
         "1574444625": {
             "h.adscope.co.kr": "INACTIVE"
-        },
-        "1574444631": {
-            "ads.tlvmedia.com": "INACTIVE"
         },
         "1574444632": {
             "www.bayabar.com": "INACTIVE"
@@ -5469,6 +5450,154 @@
         },
         "1575048512": {
             "cdn.c-team.jp": "INACTIVE"
+        },
+        "1575065983": {
+            "www.ad.altervista.org": "INACTIVE"
+        },
+        "1575065987": {
+            "www.pussl35.com": "INACTIVE"
+        },
+        "1575066011": {
+            "www.onshowit.com": "INACTIVE"
+        },
+        "1575066013": {
+            "www.iicdn.com": "INACTIVE"
+        },
+        "1575066017": {
+            "www.coinhive.com": "INACTIVE"
+        },
+        "1575066025": {
+            "www.ad-unpack.com": "INACTIVE"
+        },
+        "1575066036": {
+            "www.tsyndicate.com": "INACTIVE"
+        },
+        "1575066037": {
+            "www.d3pkae9owd2lcf.cloudfront.net": "INACTIVE"
+        },
+        "1575066053": {
+            "www.zbnfhsk.com": "INACTIVE"
+        },
+        "1575066060": {
+            "www.edgecastcdn.net": "INACTIVE"
+        },
+        "1575066073": {
+            "www.adtag.cc": "INACTIVE"
+        },
+        "1575066121": {
+            "www.onetag-sys.com": "INACTIVE"
+        },
+        "1575066148": {
+            "www.dezf3o8j9jdt6.cloudfront.net": "INACTIVE"
+        },
+        "1575066196": {
+            "www.bayabar.com": "INACTIVE"
+        },
+        "1575066218": {
+            "www.amazon-adsystem.com": "INACTIVE"
+        },
+        "1575066228": {
+            "www.fam-ad.com": "INACTIVE"
+        },
+        "1575066239": {
+            "www.magento-analytics.com": "INACTIVE"
+        },
+        "1575066284": {
+            "www.d269y12mnftu9c.cloudfront.net": "INACTIVE"
+        },
+        "1575066319": {
+            "www.am15.net": "INACTIVE"
+        },
+        "1575066363": {
+            "agate.opap.co.kr": "INACTIVE"
+        },
+        "1575066365": {
+            "ads.mangouni.com": "INACTIVE",
+            "www.fam-ad.com": "INACTIVE"
+        },
+        "1575066366": {
+            "www.onshowit.com": "INACTIVE"
+        },
+        "1575066370": {
+            "www.d1jikhx1ssl81z.cloudfront.net": "INACTIVE"
+        },
+        "1575066373": {
+            "www.ad4989.kr": "INACTIVE"
+        },
+        "1575066375": {
+            "ad.afy11.net": "INACTIVE"
+        },
+        "1575066382": {
+            "www.adtag.cc": "INACTIVE"
+        },
+        "1575066393": {
+            "www.joy-adstore.co.kr": "INACTIVE"
+        },
+        "1575066396": {
+            "keyword.ad4989.co.kr": "INACTIVE"
+        },
+        "1575066407": {
+            "m.adtc.daum.net": "INACTIVE"
+        },
+        "1575066412": {
+            "www.adpingpong2.co.kr": "INACTIVE"
+        },
+        "1575066415": {
+            "get2.keywordsconnect.com": "INACTIVE"
+        },
+        "1575066422": {
+            "www.vse-spravki.bid": "INACTIVE"
+        },
+        "1575066424": {
+            "ak-gb.marketgid.com": "INACTIVE",
+            "www.edgecastcdn.net": "INACTIVE",
+            "www.zbnfhsk.com": "INACTIVE"
+        },
+        "1575066430": {
+            "celeb.nann.co.kr": "INACTIVE"
+        },
+        "1575066436": {
+            "ssp.advg.jp": "INACTIVE",
+            "www.ad4989.kr": "INACTIVE"
+        },
+        "1575066441": {
+            "www.adcrm.co.kr": "INACTIVE"
+        },
+        "1575066442": {
+            "www.coinhive.com": "INACTIVE"
+        },
+        "1575066472": {
+            "ad.aeonad.co.kr": "INACTIVE"
+        },
+        "1575066475": {
+            "ads1.playforum.net": "INACTIVE"
+        },
+        "1575066480": {
+            "cdn03.sndkorea.co.kr": "INACTIVE"
+        },
+        "1575066483": {
+            "ad.adop.co.kr": "INACTIVE"
+        },
+        "1575066490": {
+            "www.adixs-ad.co.kr": "INACTIVE"
+        },
+        "1575066493": {
+            "adv.segye.com": "INACTIVE"
+        },
+        "1575066500": {
+            "www.franecki.net": "INACTIVE"
+        },
+        "1575066503": {
+            "myvip.feeldmc.com": "INACTIVE"
+        },
+        "1575066541": {
+            "cm2.joins.com": "INACTIVE"
+        },
+        "1575066542": {
+            "inv-t-node.admixer.net": "INACTIVE"
+        },
+        "1575066548": {
+            "www.d2v02itv0y9u9t.cloudfront.net": "INACTIVE"
         }
     }
 }
