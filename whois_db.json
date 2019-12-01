@@ -170,9 +170,9 @@
         "state": "future"
     },
     "coinhive.com": {
-        "epoch": "1575158400",
+        "epoch": 1575158400.0,
         "expiration_date": "01-dec-2019",
-        "state": "future"
+        "state": "past"
     },
     "deloton.com": {
         "epoch": 1601337600,
