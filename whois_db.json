@@ -434,6 +434,11 @@
         "expiration_date": "30-oct-2020",
         "state": "future"
     },
+    "unse4u.com": {
+        "epoch": 1612051200.0,
+        "expiration_date": "31-jan-2021",
+        "state": "future"
+    },
     "uplus.kr": {
         "epoch": "1585267200",
         "expiration_date": "27-mar-2020",
