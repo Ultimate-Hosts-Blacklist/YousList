@@ -290,7 +290,6 @@
             "cjmooter.xcache.kinxcdn.com": "INACTIVE"
         },
         "1571267255": {
-            "adpingpong2.co.kr": "INACTIVE",
             "www.edgecastcdn.net": "INACTIVE",
             "www.onshowit.com": "INACTIVE"
         },
@@ -791,9 +790,6 @@
         "1572195593": {
             "adcrm.co.kr": "INACTIVE"
         },
-        "1572195602": {
-            "adpingpong2.co.kr": "INACTIVE"
-        },
         "1572195612": {
             "as.dc.impact-ad.jp": "INACTIVE",
             "www.bayabar.com": "INACTIVE",
@@ -1078,9 +1074,6 @@
         },
         "1572800391": {
             "cdn.stickyadstv.com": "INACTIVE"
-        },
-        "1572800402": {
-            "adpingpong2.co.kr": "INACTIVE"
         },
         "1572800403": {
             "apex.go.sonobi.com": "INACTIVE",
@@ -1536,9 +1529,6 @@
         },
         "1573926456": {
             "www.ppdxyz.info": "INACTIVE"
-        },
-        "1573926458": {
-            "adpingpong2.co.kr": "INACTIVE"
         },
         "1573926459": {
             "adn.inven.co.kr": "INACTIVE"
@@ -2431,9 +2421,6 @@
         "1574165257": {
             "longkeyone.co.kr": "INACTIVE"
         },
-        "1574165261": {
-            "adpingpong2.co.kr": "INACTIVE"
-        },
         "1574165265": {
             "cwdata.itsearch.co.kr": "INACTIVE"
         },
@@ -3132,9 +3119,6 @@
         "1574338543": {
             "www.dreamsearch.or.kr": "INACTIVE"
         },
-        "1574338548": {
-            "adpingpong2.co.kr": "INACTIVE"
-        },
         "1574338549": {
             "adv.imadrep.co.kr": "INACTIVE"
         },
@@ -3572,9 +3556,6 @@
         "1574447176": {
             "www.adixs-ad.co.kr": "INACTIVE"
         },
-        "1574447179": {
-            "adpingpong2.co.kr": "INACTIVE"
-        },
         "1574447184": {
             "www.care-health.co.kr": "INACTIVE"
         },
@@ -3937,9 +3918,6 @@
         "1574618982": {
             "lightad.co.kr": "INACTIVE"
         },
-        "1574618986": {
-            "adpingpong2.co.kr": "INACTIVE"
-        },
         "1574618989": {
             "cwdata.itplay.co.kr": "INACTIVE"
         },
@@ -4294,9 +4272,6 @@
         },
         "1574683409": {
             "adexview.new-star.co.kr": "INACTIVE"
-        },
-        "1574683413": {
-            "adpingpong2.co.kr": "INACTIVE"
         },
         "1574683415": {
             "ad.ad-ya.net": "INACTIVE"
@@ -4674,9 +4649,6 @@
         "1574791347": {
             "myvip.feeldmc.com": "INACTIVE"
         },
-        "1574791350": {
-            "adpingpong2.co.kr": "INACTIVE"
-        },
         "1574791351": {
             "adixs.net": "INACTIVE"
         },
@@ -5038,9 +5010,6 @@
         "1574897229": {
             "ad.ingfac.co.kr": "INACTIVE"
         },
-        "1574897233": {
-            "adpingpong2.co.kr": "INACTIVE"
-        },
         "1574897238": {
             "www.dreamsearch.or.kr": "INACTIVE"
         },
@@ -5327,9 +5296,6 @@
         },
         "1575048390": {
             "sgate.opap.co.kr": "INACTIVE"
-        },
-        "1575048395": {
-            "adpingpong2.co.kr": "INACTIVE"
         },
         "1575048399": {
             "care-health.co.kr": "INACTIVE"
@@ -5743,9 +5709,6 @@
         },
         "1575733058": {
             "alea.adam.ad.daum.net": "INACTIVE"
-        },
-        "1575733062": {
-            "adpingpong2.co.kr": "INACTIVE"
         },
         "1575733067": {
             "www.longkeyone.co.kr": "INACTIVE"
@@ -6397,6 +6360,130 @@
         },
         "1575807608": {
             "longkeyone.co.kr": "INACTIVE"
+        },
+        "1575913979": {
+            "www.pussl35.com": "INACTIVE"
+        },
+        "1575914007": {
+            "www.edgecastcdn.net": "INACTIVE"
+        },
+        "1575914037": {
+            "www.bayabar.com": "INACTIVE"
+        },
+        "1575914058": {
+            "www.ad-unpack.com": "INACTIVE"
+        },
+        "1575914067": {
+            "www.d3u5zn5k9864p0.cloudfront.net": "INACTIVE"
+        },
+        "1575914117": {
+            "www.coinhive.com": "INACTIVE"
+        },
+        "1575914122": {
+            "www.onshowit.com": "INACTIVE"
+        },
+        "1575914165": {
+            "www.amazon-adsystem.com": "INACTIVE"
+        },
+        "1575914167": {
+            "www.onetag-sys.com": "INACTIVE"
+        },
+        "1575914192": {
+            "www.tsyndicate.com": "INACTIVE"
+        },
+        "1575914198": {
+            "www.fam-ad.com": "INACTIVE"
+        },
+        "1575914241": {
+            "www.iicdn.com": "INACTIVE"
+        },
+        "1575914253": {
+            "www.franecki.net": "INACTIVE"
+        },
+        "1575914300": {
+            "www.ad.altervista.org": "INACTIVE"
+        },
+        "1575914316": {
+            "www.surgeprice.com": "INACTIVE"
+        },
+        "1575914320": {
+            "www.d1jikhx1ssl81z.cloudfront.net": "INACTIVE"
+        },
+        "1575914332": {
+            "www.magento-analytics.com": "INACTIVE"
+        },
+        "1575914343": {
+            "www.am15.net": "INACTIVE"
+        },
+        "1575914346": {
+            "mobi.luxad.net": "INACTIVE"
+        },
+        "1575914350": {
+            "adcreative.hani.naver.net": "INACTIVE"
+        },
+        "1575914354": {
+            "mobi.luxad.kr": "INACTIVE"
+        },
+        "1575914373": {
+            "cm1.icontact.kr": "INACTIVE"
+        },
+        "1575914379": {
+            "m.adtc.daum.net": "INACTIVE"
+        },
+        "1575914380": {
+            "new.jshopbox.com": "INACTIVE"
+        },
+        "1575914385": {
+            "www.dreamsearch.or.kr": "INACTIVE"
+        },
+        "1575914388": {
+            "st.keywordsconnect.com": "INACTIVE"
+        },
+        "1575914392": {
+            "www.mymyad.co.kr": "INACTIVE"
+        },
+        "1575914393": {
+            "www.pussl35.com": "INACTIVE"
+        },
+        "1575914399": {
+            "adv.mediakeep.co.kr": "INACTIVE"
+        },
+        "1575914436": {
+            "agate.opap.co.kr": "INACTIVE"
+        },
+        "1575914440": {
+            "adexview.new-star.co.kr": "INACTIVE"
+        },
+        "1575914442": {
+            "www.fam-ad.com": "INACTIVE"
+        },
+        "1575914445": {
+            "www.ad4989.kr": "INACTIVE"
+        },
+        "1575914481": {
+            "cast.imp.joins.com": "INACTIVE"
+        },
+        "1575914506": {
+            "keyword.ad4989.co.kr": "INACTIVE",
+            "www.bayabar.com": "INACTIVE"
+        },
+        "1575914537": {
+            "ad.imp.joins.com": "INACTIVE"
+        },
+        "1575914540": {
+            "www.ad4989.kr": "INACTIVE"
+        },
+        "1575914543": {
+            "amsv2.daum.net": "INACTIVE"
+        },
+        "1575914544": {
+            "www.franecki.net": "INACTIVE"
+        },
+        "1575914546": {
+            "www.adixs.net": "INACTIVE"
+        },
+        "1575914576": {
+            "adpingpong2.co.kr": "INACTIVE"
         }
     }
 }
