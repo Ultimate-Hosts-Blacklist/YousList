@@ -6820,9 +6820,6 @@
         "1576147165": {
             "secure.uac.advertising.com": "INACTIVE"
         },
-        "1576147196": {
-            "sgate.opap.co.kr": "INACTIVE"
-        },
         "1576153295": {
             "cjmooter.xcache.kinxcdn.com": "INACTIVE"
         },
@@ -7077,9 +7074,6 @@
         },
         "1576429545": {
             "www.lightad.co.kr": "INACTIVE"
-        },
-        "1576429575": {
-            "sgate.opap.co.kr": "INACTIVE"
         },
         "1576429578": {
             "www.ad4989.kr": "INACTIVE"
@@ -7445,9 +7439,6 @@
         "1576497427": {
             "alea.adam.ad.daum.net": "INACTIVE"
         },
-        "1576497457": {
-            "sgate.opap.co.kr": "INACTIVE"
-        },
         "1576497470": {
             "d.a1comm.co.kr": "INACTIVE"
         },
@@ -7712,9 +7703,6 @@
         },
         "1576542882": {
             "ad.ad-ya.net": "INACTIVE"
-        },
-        "1576542912": {
-            "sgate.opap.co.kr": "INACTIVE"
         },
         "1576542917": {
             "script.keywordlink.co.kr": "INACTIVE"
@@ -8201,9 +8189,6 @@
         },
         "1576711148": {
             "p.lumieyes.com": "INACTIVE"
-        },
-        "1576711180": {
-            "sgate.opap.co.kr": "INACTIVE"
         },
         "1576711210": {
             "cm2.joins.com": "INACTIVE"
@@ -8843,9 +8828,6 @@
         "1576888253": {
             "www.dreamsearch.or.kr": "INACTIVE"
         },
-        "1576888283": {
-            "sgate.opap.co.kr": "INACTIVE"
-        },
         "1576888295": {
             "adcreative.hani.naver.net": "INACTIVE"
         },
@@ -8962,9 +8944,6 @@
         },
         "1577035552": {
             "www.adixs-ad.co.kr": "INACTIVE"
-        },
-        "1577035582": {
-            "sgate.opap.co.kr": "INACTIVE"
         },
         "1577035589": {
             "www.dreamsearch.or.kr": "INACTIVE"
@@ -9213,9 +9192,6 @@
         },
         "1577097338": {
             "you.claremedia.co.kr": "INACTIVE"
-        },
-        "1577097368": {
-            "sgate.opap.co.kr": "INACTIVE"
         },
         "1577097377": {
             "cdn04.sndkorea.co.kr": "INACTIVE"
@@ -9557,6 +9533,151 @@
         },
         "1577141570": {
             "www.care-health.co.kr": "INACTIVE"
+        },
+        "1577144965": {
+            "www.adixs-ad.co.kr": "INACTIVE"
+        },
+        "1577144966": {
+            "www.ppdxyz.info": "INACTIVE"
+        },
+        "1577144970": {
+            "longkeyone.co.kr": "INACTIVE"
+        },
+        "1577144974": {
+            "candy.ad9.kr": "INACTIVE"
+        },
+        "1577144984": {
+            "cjmooter.xcache.kinxcdn.com": "INACTIVE"
+        },
+        "1577144989": {
+            "keyword.ad4989.co.kr": "INACTIVE"
+        },
+        "1577144996": {
+            "ads.ad7942.co.kr": "INACTIVE"
+        },
+        "1577145002": {
+            "js.mtburn.com": "INACTIVE"
+        },
+        "1577145008": {
+            "www.mymyad.co.kr": "INACTIVE"
+        },
+        "1577145011": {
+            "ra.ntwoad.co.kr": "INACTIVE"
+        },
+        "1577145041": {
+            "ad.imp.joins.com": "INACTIVE"
+        },
+        "1577145045": {
+            "adixs-ad.co.kr": "INACTIVE"
+        },
+        "1577145075": {
+            "ad.aeonad.co.kr": "INACTIVE"
+        },
+        "1577145121": {
+            "ads1.playforum.net": "INACTIVE"
+        },
+        "1577145127": {
+            "api.wiseclick.co.kr": "INACTIVE"
+        },
+        "1577145130": {
+            "ad.ad-ya.net": "INACTIVE"
+        },
+        "1577145150": {
+            "www.dreamsearch.or.kr": "INACTIVE"
+        },
+        "1577145156": {
+            "you.claremedia.co.kr": "INACTIVE"
+        },
+        "1577145168": {
+            "www.joy-adstore.co.kr": "INACTIVE"
+        },
+        "1577145173": {
+            "d.a1comm.co.kr": "INACTIVE"
+        },
+        "1577145183": {
+            "www.lightad.co.kr": "INACTIVE"
+        },
+        "1577145187": {
+            "cm1.icontact.kr": "INACTIVE"
+        },
+        "1577145226": {
+            "ads.mangouni.com": "INACTIVE",
+            "cm1.joins.com": "INACTIVE"
+        },
+        "1577145238": {
+            "script.keywordlink.co.kr": "INACTIVE"
+        },
+        "1577145246": {
+            "adcrm.co.kr": "INACTIVE"
+        },
+        "1577145253": {
+            "m.adtc.daum.net": "INACTIVE"
+        },
+        "1577145283": {
+            "www.joy-adstore.co.kr": "INACTIVE"
+        },
+        "1577145285": {
+            "get2.keywordsconnect.com": "INACTIVE"
+        },
+        "1577145286": {
+            "inv-t-node.admixer.net": "INACTIVE"
+        },
+        "1577145290": {
+            "adimg1.adinc.co.kr": "INACTIVE"
+        },
+        "1577145294": {
+            "www.longkeyone.co.kr": "INACTIVE"
+        },
+        "1577145299": {
+            "www.mymyad.co.kr": "INACTIVE"
+        },
+        "1577145318": {
+            "adn.nsmartad.com": "INACTIVE"
+        },
+        "1577145321": {
+            "cdn.c-team.jp": "INACTIVE"
+        },
+        "1577145338": {
+            "ad.afy11.net": "INACTIVE"
+        },
+        "1577145344": {
+            "adn.adneo.co.kr": "INACTIVE"
+        },
+        "1577145349": {
+            "www.adcrm.co.kr": "INACTIVE"
+        },
+        "1577145353": {
+            "api.adns.contentlink.co.kr": "INACTIVE"
+        },
+        "1577145358": {
+            "www.adpingpong2.co.kr": "INACTIVE"
+        },
+        "1577145374": {
+            "cwdata.itplay.co.kr": "INACTIVE"
+        },
+        "1577145383": {
+            "www.adpingpong2.co.kr": "INACTIVE"
+        },
+        "1577145396": {
+            "adexview.new-star.co.kr": "INACTIVE"
+        },
+        "1577145401": {
+            "www.d1swklt9res5jr.cloudfront.net": "INACTIVE"
+        },
+        "1577145408": {
+            "cwdata.itsearch.co.kr": "INACTIVE"
+        },
+        "1577145449": {
+            "qmca.qrobo.com": "INACTIVE"
+        },
+        "1577145468": {
+            "ad.openmatch.co.kr": "INACTIVE"
+        },
+        "1577145469": {
+            "new.jshopbox.com": "INACTIVE"
+        },
+        "1577145499": {
+            "sgate.opap.co.kr": "INACTIVE"
         }
     }
 }
