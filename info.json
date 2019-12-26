@@ -1,17 +1,8 @@
 {
-    "current_stats": {
-        "builds": 1,
-        "counter": {
-            "down": 58,
-            "invalid": 0,
-            "tested": 633,
-            "up": 575
-        }
-    },
-    "currently_under_test": "1",
+    "currently_under_test": "0",
     "days_until_next_test": 2,
-    "end_datetime": "Wed Dec 25 18:28:55 2019",
-    "end_epoch": 1577298535.452243,
+    "end_datetime": "Thu Dec 26 23:46:31 2019",
+    "end_epoch": 1577403991.1044,
     "last_autosave_datetime": "Thu Dec 26 22:57:00 2019",
     "last_autosave_epoch": 1577401020.555875,
     "name": "YousList",
