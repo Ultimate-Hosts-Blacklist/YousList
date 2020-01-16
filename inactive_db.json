@@ -636,9 +636,6 @@
         "1571827024": {
             "mp.mmnneo.com": "INACTIVE"
         },
-        "1571827030": {
-            "op.mmnneo.com": "INACTIVE"
-        },
         "1572195484": {
             "www.edgecastcdn.net": "INACTIVE"
         },
@@ -893,7 +890,6 @@
             "pagead2.googlesyndication.com": "INACTIVE"
         },
         "1572800369": {
-            "op.mmnneo.com": "INACTIVE",
             "www.mediarichad.com": "INACTIVE",
             "y.one.impact-ad.jp": "INACTIVE"
         },
@@ -1042,9 +1038,6 @@
             "inv-t-node.admixer.net": "INACTIVE",
             "www.onedrive.su": "INACTIVE"
         },
-        "1573122129": {
-            "op.mmnneo.com": "INACTIVE"
-        },
         "1573122134": {
             "imp.mklaud.com": "INACTIVE"
         },
@@ -1114,7 +1107,6 @@
             "static.criteo.net": "INACTIVE"
         },
         "1573294558": {
-            "op.mmnneo.com": "INACTIVE",
             "tab2-cdn.rubiconproject.com": "INACTIVE",
             "y.one.impact-ad.jp": "INACTIVE"
         },
@@ -1223,8 +1215,7 @@
             "apex.go.sonobi.com": "INACTIVE"
         },
         "1573926407": {
-            "ad.aeonad.net": "INACTIVE",
-            "op.mmnneo.com": "INACTIVE"
+            "ad.aeonad.net": "INACTIVE"
         },
         "1573926419": {
             "search2.nuriclick.co.kr": "INACTIVE"
@@ -1561,9 +1552,6 @@
         "1574030431": {
             "adexview.new-star.co.kr": "INACTIVE",
             "www.adixs.net": "INACTIVE"
-        },
-        "1574030437": {
-            "op.mmnneo.com": "INACTIVE"
         },
         "1574030443": {
             "adneo.encock.com": "INACTIVE"
@@ -1928,9 +1916,6 @@
         "1574165175": {
             "cwdata.itplay.co.kr": "INACTIVE"
         },
-        "1574165182": {
-            "op.mmnneo.com": "INACTIVE"
-        },
         "1574165184": {
             "ra.ntwoad.co.kr": "INACTIVE"
         },
@@ -2171,9 +2156,6 @@
             "vse-spravki.bid": "INACTIVE",
             "www.site3.co.kr": "INACTIVE"
         },
-        "1574271453": {
-            "op.mmnneo.com": "INACTIVE"
-        },
         "1574271460": {
             "www.d3pkae9owd2lcf.cloudfront.net": "INACTIVE"
         },
@@ -2364,9 +2346,6 @@
         },
         "1574331953": {
             "ads3.adinc.co.kr": "INACTIVE"
-        },
-        "1574331960": {
-            "op.mmnneo.com": "INACTIVE"
         },
         "1574331984": {
             "cast.imp.joins.com": "INACTIVE"
@@ -2857,9 +2836,6 @@
         },
         "1574447207": {
             "mymyad.co.kr": "INACTIVE"
-        },
-        "1574447214": {
-            "op.mmnneo.com": "INACTIVE"
         },
         "1574447220": {
             "cm1.icontact.kr": "INACTIVE"
@@ -13383,6 +13359,57 @@
         },
         "1579096737": {
             "www.adixs.net": "INACTIVE"
+        },
+        "1579196151": {
+            "www.ad.altervista.org": "INACTIVE"
+        },
+        "1579196164": {
+            "www.edgecastcdn.net": "INACTIVE"
+        },
+        "1579196170": {
+            "www.n162adserv.com": "INACTIVE"
+        },
+        "1579196207": {
+            "www.magento-analytics.com": "INACTIVE"
+        },
+        "1579196231": {
+            "www.amazon-adsystem.com": "INACTIVE"
+        },
+        "1579196308": {
+            "www.ebdr3.com": "INACTIVE"
+        },
+        "1579196330": {
+            "www.pussl35.com": "INACTIVE"
+        },
+        "1579196340": {
+            "www.ad-unpack.com": "INACTIVE"
+        },
+        "1579196495": {
+            "www.coinhive.com": "INACTIVE"
+        },
+        "1579196510": {
+            "www.tsyndicate.com": "INACTIVE"
+        },
+        "1579196521": {
+            "www.d3u5zn5k9864p0.cloudfront.net": "INACTIVE"
+        },
+        "1579196543": {
+            "www.am15.net": "INACTIVE"
+        },
+        "1579196579": {
+            "www.d3oep4gb91kpuv.cloudfront.net": "INACTIVE"
+        },
+        "1579196591": {
+            "www.fam-ad.com": "INACTIVE"
+        },
+        "1579196649": {
+            "www.franecki.net": "INACTIVE"
+        },
+        "1579196669": {
+            "www.longkeyone.co.kr": "INACTIVE"
+        },
+        "1579196675": {
+            "dev.ezadsystem.com": "INACTIVE"
         }
     }
 }
