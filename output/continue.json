@@ -623,7 +623,17 @@
         "nscreen.neoebiz.co.kr",
         "interface.interworksmedia.co.kr",
         "fastlane.rubiconproject.com",
-        "nws.lumieyes.com"
+        "nws.lumieyes.com",
+        "ad.osen.co.kr",
+        "bullseye.backbeatmedia.com",
+        "securepubads.g.doubleclick.net",
+        "apex.go.sonobi.com",
+        "ad1.adfarm1.adition.com",
+        "exttag.about.co.kr",
+        "ads.adjust-net.jp",
+        "cdn1.smartadserver.com",
+        "gfp.veta.naver.com",
+        "static.criteo.net"
     ],
     "INACTIVE": [
         "www.magento-analytics.com",
@@ -749,6 +759,21 @@
         "ads.mangouni.com",
         "ad.daum.net",
         "ad.ingfac.co.kr",
-        "script.adsquare.co.kr"
+        "script.adsquare.co.kr",
+        "ssp.advg.jp",
+        "secure.uac.advertising.com",
+        "adixs-ad.co.kr",
+        "www.adixs-ad.co.kr",
+        "get.keywordsconnect.com",
+        "ad4989.kr",
+        "dev.ezadsystem.com",
+        "www.ad4989.kr",
+        "ak-gb.marketgid.com",
+        "script.keywordlink.co.kr",
+        "myvip.feeldmc.com",
+        "cdn.kixer.com",
+        "cjmooter.xcache.kinxcdn.com",
+        "adn.adneo.co.kr",
+        "api.adns.contentlink.co.kr"
     ]
 }

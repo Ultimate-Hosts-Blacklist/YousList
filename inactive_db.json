@@ -580,9 +580,6 @@
         "1571826883": {
             "www.d269y12mnftu9c.cloudfront.net": "INACTIVE"
         },
-        "1571826885": {
-            "static.criteo.net": "INACTIVE"
-        },
         "1571826896": {
             "www.d3oep4gb91kpuv.cloudfront.net": "INACTIVE"
         },
@@ -916,7 +913,6 @@
             "script.adsquare.co.kr": "INACTIVE"
         },
         "1572862872": {
-            "static.criteo.net": "INACTIVE",
             "www.d269y12mnftu9c.cloudfront.net": "INACTIVE"
         },
         "1572862878": {
@@ -1094,9 +1090,6 @@
         },
         "1573294551": {
             "ad.owra.net": "INACTIVE"
-        },
-        "1573294552": {
-            "static.criteo.net": "INACTIVE"
         },
         "1573294558": {
             "tab2-cdn.rubiconproject.com": "INACTIVE",
@@ -14244,6 +14237,90 @@
         },
         "1579433300": {
             "script.adsquare.co.kr": "INACTIVE"
+        },
+        "1579435137": {
+            "care-health.co.kr": "INACTIVE"
+        },
+        "1579435139": {
+            "ssp.advg.jp": "INACTIVE"
+        },
+        "1579435143": {
+            "lightad.co.kr": "INACTIVE"
+        },
+        "1579435148": {
+            "mediarichad.com": "INACTIVE"
+        },
+        "1579435149": {
+            "adixs.net": "INACTIVE"
+        },
+        "1579435154": {
+            "secure.uac.advertising.com": "INACTIVE"
+        },
+        "1579435160": {
+            "www.dreamsearch.or.kr": "INACTIVE"
+        },
+        "1579435165": {
+            "www.joy-adstore.co.kr": "INACTIVE"
+        },
+        "1579435174": {
+            "www.lightad.co.kr": "INACTIVE"
+        },
+        "1579435179": {
+            "www.adixs-ad.co.kr": "INACTIVE"
+        },
+        "1579435185": {
+            "get.keywordsconnect.com": "INACTIVE"
+        },
+        "1579435191": {
+            "www.adixs-ad.co.kr": "INACTIVE"
+        },
+        "1579435198": {
+            "adcrm.co.kr": "INACTIVE"
+        },
+        "1579435205": {
+            "joy-adstore.co.kr": "INACTIVE"
+        },
+        "1579435209": {
+            "adpingpong2.co.kr": "INACTIVE"
+        },
+        "1579435214": {
+            "www.ad4989.kr": "INACTIVE"
+        },
+        "1579435218": {
+            "www.ad4989.kr": "INACTIVE"
+        },
+        "1579435224": {
+            "vse-spravki.bid": "INACTIVE"
+        },
+        "1579435235": {
+            "script.keywordlink.co.kr": "INACTIVE"
+        },
+        "1579435249": {
+            "myvip.feeldmc.com": "INACTIVE"
+        },
+        "1579435254": {
+            "mymyad.co.kr": "INACTIVE"
+        },
+        "1579435261": {
+            "www.adpingpong2.co.kr": "INACTIVE"
+        },
+        "1579435267": {
+            "www.longkeyone.co.kr": "INACTIVE"
+        },
+        "1579435270": {
+            "ppdxyz.info": "INACTIVE"
+        },
+        "1579435277": {
+            "cdn.kixer.com": "INACTIVE"
+        },
+        "1579435285": {
+            "longkeyone.co.kr": "INACTIVE"
+        },
+        "1579435291": {
+            "adn.adneo.co.kr": "INACTIVE"
+        },
+        "1579435298": {
+            "api.adns.contentlink.co.kr": "INACTIVE"
         }
     }
 }
