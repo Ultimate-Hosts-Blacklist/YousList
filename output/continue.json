@@ -633,7 +633,11 @@
         "cdn-sic.33across.com",
         "img2.keywordsconnect.com",
         "ads.adjust-net.jp",
-        "advimg.ad-mapps.com"
+        "advimg.ad-mapps.com",
+        "tags.expo9.exponential.com",
+        "d.adroll.com",
+        "go.pub2srv.com",
+        "d.pixiv.org"
     ],
     "INACTIVE": [
         "www.onetag-sys.com",
@@ -768,6 +772,8 @@
         "adv.mediakeep.co.kr",
         "get.keywordsconnect.com",
         "ad.openmatch.co.kr",
-        "op.neoad.co.kr"
+        "op.neoad.co.kr",
+        "dev.ezadsystem.com",
+        "adserver.uniqube.tv"
     ]
 }
