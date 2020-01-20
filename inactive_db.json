@@ -97,9 +97,6 @@
         "1571079327": {
             "dreamsearch.or.kr": "INACTIVE"
         },
-        "1571079330": {
-            "b.a2gw.com": "INACTIVE"
-        },
         "1571079462": {
             "inv-t-node.admixer.net": "INACTIVE"
         },
@@ -495,7 +492,6 @@
             "www.bayabar.com": "INACTIVE"
         },
         "1571591060": {
-            "b.a2gw.com": "INACTIVE",
             "tab2-cdn.rubiconproject.com": "INACTIVE",
             "www.coinhive.com": "INACTIVE"
         },
@@ -607,9 +603,6 @@
         "1571826985": {
             "a.komoona.com": "INACTIVE",
             "www.onshowit.com": "INACTIVE"
-        },
-        "1571826991": {
-            "b.a2gw.com": "INACTIVE"
         },
         "1571827012": {
             "www.bayabar.com": "INACTIVE",
@@ -1279,9 +1272,6 @@
         },
         "1573926486": {
             "ad.owra.net": "INACTIVE"
-        },
-        "1573926492": {
-            "b.a2gw.com": "INACTIVE"
         },
         "1573926493": {
             "ad-js.chip.de": "INACTIVE"
@@ -14390,6 +14380,237 @@
         },
         "1579516866": {
             "www.zbnfhsk.com": "INACTIVE"
+        },
+        "1579520801": {
+            "m.adtc.daum.net": "INACTIVE"
+        },
+        "1579520806": {
+            "dev.ezadsystem.com": "INACTIVE"
+        },
+        "1579520810": {
+            "cm1.icontact.kr": "INACTIVE"
+        },
+        "1579520812": {
+            "ak-gb.marketgid.com": "INACTIVE"
+        },
+        "1579520820": {
+            "www.adpingpong2.co.kr": "INACTIVE"
+        },
+        "1579520826": {
+            "www.dreamsearch.or.kr": "INACTIVE"
+        },
+        "1579520833": {
+            "ad.adixs.co.kr": "INACTIVE"
+        },
+        "1579520841": {
+            "www.mymyad.co.kr": "INACTIVE"
+        },
+        "1579520847": {
+            "api.adns.contentlink.co.kr": "INACTIVE"
+        },
+        "1579520851": {
+            "myvip.feeldmc.com": "INACTIVE"
+        },
+        "1579520853": {
+            "www.adixs.net": "INACTIVE"
+        },
+        "1579520859": {
+            "www.mymyad.co.kr": "INACTIVE"
+        },
+        "1579520866": {
+            "ad.ingfac.co.kr": "INACTIVE"
+        },
+        "1579520867": {
+            "inv-t-node.admixer.net": "INACTIVE"
+        },
+        "1579520869": {
+            "ad.vkoad.com": "INACTIVE"
+        },
+        "1579520876": {
+            "adneo.encock.com": "INACTIVE"
+        },
+        "1579520882": {
+            "alea.adam.ad.daum.net": "INACTIVE"
+        },
+        "1579520886": {
+            "adn.nsmartad.com": "INACTIVE"
+        },
+        "1579520892": {
+            "adcreative.hani.naver.net": "INACTIVE"
+        },
+        "1579520895": {
+            "op.neoad.co.kr": "INACTIVE"
+        },
+        "1579520904": {
+            "www.mediarichad.com": "INACTIVE"
+        },
+        "1579520915": {
+            "adv.mediakeep.co.kr": "INACTIVE"
+        },
+        "1579520916": {
+            "ad.ad-ya.net": "INACTIVE"
+        },
+        "1579520924": {
+            "www.lightad.co.kr": "INACTIVE"
+        },
+        "1579520932": {
+            "ads1.playforum.net": "INACTIVE"
+        },
+        "1579520938": {
+            "ad.adop.co.kr": "INACTIVE"
+        },
+        "1579520943": {
+            "js.mtburn.com": "INACTIVE"
+        },
+        "1579520945": {
+            "ad.daum.net": "INACTIVE"
+        },
+        "1579520955": {
+            "get.keywordsconnect.com": "INACTIVE"
+        },
+        "1579520962": {
+            "ra.ntwoad.co.kr": "INACTIVE"
+        },
+        "1579520966": {
+            "im.obel.kr": "INACTIVE"
+        },
+        "1579520973": {
+            "www.adcrm.co.kr": "INACTIVE"
+        },
+        "1579520981": {
+            "www.care-health.co.kr": "INACTIVE"
+        },
+        "1579520993": {
+            "mktag.mt.co.kr": "INACTIVE"
+        },
+        "1579520998": {
+            "mobs.luxad.kr": "INACTIVE"
+        },
+        "1579521009": {
+            "adimg1.adinc.co.kr": "INACTIVE"
+        },
+        "1579521016": {
+            "www.lightad.co.kr": "INACTIVE"
+        },
+        "1579521022": {
+            "d.a1comm.co.kr": "INACTIVE"
+        },
+        "1579521026": {
+            "api.ficm.contentlink.co.kr": "INACTIVE"
+        },
+        "1579521064": {
+            "ad.aeonad.co.kr": "INACTIVE"
+        },
+        "1579521070": {
+            "www.adcrm.co.kr": "INACTIVE"
+        },
+        "1579521075": {
+            "adexview.new-star.co.kr": "INACTIVE"
+        },
+        "1579521078": {
+            "cwdata.itplay.co.kr": "INACTIVE"
+        },
+        "1579521084": {
+            "www.adixs-ad.co.kr": "INACTIVE"
+        },
+        "1579521087": {
+            "h.adscope.co.kr": "INACTIVE"
+        },
+        "1579521093": {
+            "www.ad4989.kr": "INACTIVE"
+        },
+        "1579521113": {
+            "qmca.qrobo.com": "INACTIVE"
+        },
+        "1579521118": {
+            "www.ad4989.kr": "INACTIVE"
+        },
+        "1579521123": {
+            "keyword.ad4989.co.kr": "INACTIVE"
+        },
+        "1579521124": {
+            "ppdxyz.info": "INACTIVE"
+        },
+        "1579521127": {
+            "www.mediarichad.com": "INACTIVE"
+        },
+        "1579521129": {
+            "www.vse-spravki.bid": "INACTIVE"
+        },
+        "1579521136": {
+            "script.keywordlink.co.kr": "INACTIVE"
+        },
+        "1579521140": {
+            "adv.segye.com": "INACTIVE"
+        },
+        "1579521146": {
+            "www.joy-adstore.co.kr": "INACTIVE"
+        },
+        "1579521159": {
+            "you.claremedia.co.kr": "INACTIVE"
+        },
+        "1579521165": {
+            "www.dreamsearch.or.kr": "INACTIVE"
+        },
+        "1579521167": {
+            "www.d1swklt9res5jr.cloudfront.net": "INACTIVE"
+        },
+        "1579521170": {
+            "get2.keywordsconnect.com": "INACTIVE"
+        },
+        "1579521176": {
+            "www.longkeyone.co.kr": "INACTIVE"
+        },
+        "1579521182": {
+            "cwdata.itsearch.co.kr": "INACTIVE"
+        },
+        "1579521190": {
+            "render.helios.ligatus.com": "INACTIVE"
+        },
+        "1579521191": {
+            "www.vse-spravki.bid": "INACTIVE"
+        },
+        "1579521214": {
+            "www.d1swklt9res5jr.cloudfront.net": "INACTIVE"
+        },
+        "1579521219": {
+            "mobi.luxad.kr": "INACTIVE"
+        },
+        "1579521220": {
+            "ppdxyz.info": "INACTIVE"
+        },
+        "1579521241": {
+            "www.longkeyone.co.kr": "INACTIVE"
+        },
+        "1579521247": {
+            "www.care-health.co.kr": "INACTIVE"
+        },
+        "1579521253": {
+            "www.adpingpong2.co.kr": "INACTIVE"
+        },
+        "1579521255": {
+            "adstract.adk2x.com": "INACTIVE"
+        },
+        "1579521261": {
+            "ad.openmatch.co.kr": "INACTIVE"
+        },
+        "1579521265": {
+            "p.lumieyes.com": "INACTIVE"
+        },
+        "1579521291": {
+            "ad.afy11.net": "INACTIVE"
+        },
+        "1579521296": {
+            "www.joy-adstore.co.kr": "INACTIVE"
+        },
+        "1579521301": {
+            "tab2-cdn.rubiconproject.com": "INACTIVE"
+        },
+        "1579521308": {
+            "adn.adneo.co.kr": "INACTIVE"
+        },
+        "1579521311": {
+            "agate.opap.co.kr": "INACTIVE"
         }
     }
 }
