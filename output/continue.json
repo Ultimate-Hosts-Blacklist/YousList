@@ -617,7 +617,21 @@
         "gfp.veta.naver.com",
         "ad.pickple.net",
         "cdn-sic.33across.com",
-        "ads2.contentabc.com"
+        "ads2.contentabc.com",
+        "d.adroll.com",
+        "ads.tenping.kr",
+        "ad.osen.co.kr",
+        "quick.1rtl.info",
+        "adn.inven.co.kr",
+        "apex.go.sonobi.com",
+        "securepubads.g.doubleclick.net",
+        "dcd.adotsolution.com",
+        "ext.apbox.nbp-corp.com",
+        "s.spoutable.com",
+        "interface.interworksmedia.co.kr",
+        "adx-exchange.toast.com",
+        "ad1.sportsseoul.com",
+        "pv.tag.ntomap.com"
     ],
     "INACTIVE": [
         "www.onshowit.com",
@@ -746,6 +760,22 @@
         "op.neoad.co.kr",
         "ad.vkoad.com",
         "ad.adlike.co.kr",
-        "ad.imp.joins.com"
+        "ad.imp.joins.com",
+        "cjmooter.xcache.kinxcdn.com",
+        "a.komoona.com",
+        "get.keywordsconnect.com",
+        "mobi.luxad.kr",
+        "cdn03.sndkorea.co.kr",
+        "new.jshopbox.com",
+        "keyword.ad4989.co.kr",
+        "serv.ads.pixiv.org",
+        "js.mtburn.com",
+        "creative.wwwpromoter.com",
+        "script.adsquare.co.kr",
+        "adx.bibl.uk",
+        "you.claremedia.co.kr",
+        "ad.adixs.co.kr",
+        "cm1.icontact.kr",
+        "ad.openmatch.co.kr"
     ]
 }
