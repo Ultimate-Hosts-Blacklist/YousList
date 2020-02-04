@@ -629,7 +629,13 @@
         "ads.stickyadstv.com",
         "cdn1.smartadserver.com",
         "interface.interworksmedia.co.kr",
-        "ad.osen.co.kr"
+        "ad.osen.co.kr",
+        "bullseye.backbeatmedia.com",
+        "adtg.widerplanet.com",
+        "exttag.about.co.kr",
+        "d.adroll.com",
+        "ad.mediatoday.co.kr",
+        "traffic.adxprts.com"
     ],
     "INACTIVE": [
         "www.magento-analytics.com",
@@ -766,6 +772,10 @@
         "cwdata.itplay.co.kr",
         "creative.wwwpromoter.com",
         "inv-t-node.admixer.net",
-        "cdn.scrollads.co.kr"
+        "cdn.scrollads.co.kr",
+        "ad.nsonmedia.com",
+        "render.helios.ligatus.com",
+        "adv.mediakeep.co.kr",
+        "st.keywordsconnect.com"
     ]
 }
