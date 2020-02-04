@@ -300,9 +300,9 @@
         "state": "future"
     },
     "n162adserv.com": {
-        "epoch": "1580774400",
+        "epoch": 1580774400.0,
         "expiration_date": "04-feb-2020",
-        "state": "future"
+        "state": "past"
     },
     "newsbanner.co.kr": {
         "epoch": 1590796800,
