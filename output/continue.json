@@ -617,7 +617,22 @@
         "mp.mmnneo.com",
         "scripts.chitika.net",
         "ad.jjang0u.com",
-        "static.escdn.co"
+        "static.escdn.co",
+        "cdn.adsolutions.nl",
+        "ad8.adfarm1.adition.com",
+        "adx-exchange.toast.com",
+        "ad.hooniad.com",
+        "ad.mediatoday.co.kr",
+        "ad.owra.net",
+        "gfp.veta.naver.com",
+        "widget.barnebys.com",
+        "a.adtng.com",
+        "cm2.cjmooter.com",
+        "ad.hankooki.com",
+        "sgate.opap.co.kr",
+        "scr.nsmartad.com",
+        "tags.mathtag.com",
+        "a.tribalfusion.com"
     ],
     "INACTIVE": [
         "www.pussl35.com",
@@ -749,6 +764,18 @@
         "a.komoona.com",
         "adcreative.hani.naver.net",
         "cdn.scrollads.co.kr",
-        "ad.imp.joins.com"
+        "ad.imp.joins.com",
+        "h.adscope.co.kr",
+        "adtag.asiaone.com",
+        "vse-spravki.bid",
+        "www.vse-spravki.bid",
+        "adn.nsmartad.com",
+        "ad.aeonad.net",
+        "ad.ad-ya.net",
+        "adv.segye.com",
+        "mobi.luxad.net",
+        "ad.adop.co.kr",
+        "ad.nsonmedia.com",
+        "get2.keywordsconnect.com"
     ]
 }
