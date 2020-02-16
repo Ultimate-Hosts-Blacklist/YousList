@@ -626,7 +626,12 @@
         "localhost",
         "scripts.chitika.net",
         "traffic.adxprts.com",
-        "adsvc2.wisenut.co.kr"
+        "adsvc2.wisenut.co.kr",
+        "exttag.about.co.kr",
+        "a.adtng.com",
+        "securepubads.g.doubleclick.net",
+        "interface.interworksmedia.co.kr",
+        "fastlane.rubiconproject.com"
     ],
     "INACTIVE": [
         "www.ebdr3.com",
@@ -764,6 +769,13 @@
         "cwdata.itplay.co.kr",
         "serv.ads.pixiv.org",
         "ssp.advg.jp",
-        "alea.adam.ad.daum.net"
+        "alea.adam.ad.daum.net",
+        "render.helios.ligatus.com",
+        "script.adsquare.co.kr",
+        "ad.ingfac.co.kr",
+        "ad.aeonad.co.kr",
+        "ak-gb.marketgid.com",
+        "ad.adop.co.kr",
+        "get2.keywordsconnect.com"
     ]
 }
