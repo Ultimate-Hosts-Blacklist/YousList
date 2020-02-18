@@ -734,9 +734,6 @@
             "ad.pitta.ne.jp": "INACTIVE",
             "mediarichad.com": "INACTIVE"
         },
-        "1572517647": {
-            "ad1.sportsseoul.com": "INACTIVE"
-        },
         "1572628029": {
             "ads.adjust-net.jp": "INACTIVE",
             "www.onedrive.su": "INACTIVE"
@@ -924,9 +921,6 @@
             "www.bayabar.com": "INACTIVE",
             "www.ppdxyz.info": "INACTIVE"
         },
-        "1572972960": {
-            "ad1.sportsseoul.com": "INACTIVE"
-        },
         "1573121963": {
             "www.onedrive.su": "INACTIVE"
         },
@@ -1028,9 +1022,6 @@
         "1573294590": {
             "mediarichad.com": "INACTIVE",
             "www.amazon-adsystem.com": "INACTIVE"
-        },
-        "1573294601": {
-            "ad1.sportsseoul.com": "INACTIVE"
         },
         "1573294602": {
             "im.obel.kr": "INACTIVE"
@@ -1209,9 +1200,6 @@
         },
         "1573926520": {
             "www.onedrive.su": "INACTIVE"
-        },
-        "1573926527": {
-            "ad1.sportsseoul.com": "INACTIVE"
         },
         "1573926533": {
             "www.iicdn.com": "INACTIVE"
@@ -1454,9 +1442,6 @@
         "1574033617": {
             "imp.mklaud.com": "INACTIVE"
         },
-        "1574033643": {
-            "ad1.sportsseoul.com": "INACTIVE"
-        },
         "1574033652": {
             "ad4989.kr": "INACTIVE"
         },
@@ -1682,7 +1667,6 @@
             "www.ebdr3.com": "INACTIVE"
         },
         "1574159076": {
-            "ad1.sportsseoul.com": "INACTIVE",
             "www.coin-hive.com": "INACTIVE",
             "www.d2v02itv0y9u9t.cloudfront.net": "INACTIVE"
         },
@@ -1994,9 +1978,6 @@
         },
         "1574273648": {
             "candy.ad9.kr": "INACTIVE"
-        },
-        "1574273657": {
-            "ad1.sportsseoul.com": "INACTIVE"
         },
         "1574273658": {
             "as.dc.impact-ad.jp": "INACTIVE",
@@ -2483,9 +2464,6 @@
         },
         "1574447220": {
             "cm1.icontact.kr": "INACTIVE"
-        },
-        "1574447226": {
-            "ad1.sportsseoul.com": "INACTIVE"
         },
         "1574447250": {
             "cm1.joins.com": "INACTIVE"
@@ -18183,6 +18161,72 @@
         },
         "1582054482": {
             "api.wiseclick.co.kr": "INACTIVE"
+        },
+        "1582065910": {
+            "www.ebdr3.com": "INACTIVE"
+        },
+        "1582065919": {
+            "www.am15.net": "INACTIVE"
+        },
+        "1582065965": {
+            "www.magento-analytics.com": "INACTIVE"
+        },
+        "1582066025": {
+            "www.fam-ad.com": "INACTIVE"
+        },
+        "1582066045": {
+            "www.d269y12mnftu9c.cloudfront.net": "INACTIVE"
+        },
+        "1582066079": {
+            "www.zbnfhsk.com": "INACTIVE"
+        },
+        "1582066093": {
+            "www.pussl35.com": "INACTIVE"
+        },
+        "1582066100": {
+            "www.onshowit.com": "INACTIVE"
+        },
+        "1582066116": {
+            "www.dreamsearch.or.kr": "INACTIVE"
+        },
+        "1582066127": {
+            "www.ad.altervista.org": "INACTIVE"
+        },
+        "1582066224": {
+            "www.franecki.net": "INACTIVE"
+        },
+        "1582066229": {
+            "www.coinhive.com": "INACTIVE"
+        },
+        "1582066249": {
+            "www.surgeprice.com": "INACTIVE"
+        },
+        "1582066277": {
+            "www.edgecastcdn.net": "INACTIVE"
+        },
+        "1582066281": {
+            "www.ad-unpack.com": "INACTIVE"
+        },
+        "1582066370": {
+            "www.amazon-adsystem.com": "INACTIVE"
+        },
+        "1582066383": {
+            "www.d2v02itv0y9u9t.cloudfront.net": "INACTIVE"
+        },
+        "1582066393": {
+            "www.d3oep4gb91kpuv.cloudfront.net": "INACTIVE"
+        },
+        "1582066426": {
+            "www.onetag-sys.com": "INACTIVE"
+        },
+        "1582066470": {
+            "www.d3u5zn5k9864p0.cloudfront.net": "INACTIVE"
+        },
+        "1582066481": {
+            "adx.bibl.uk": "INACTIVE"
+        },
+        "1582066482": {
+            "ak-gb.marketgid.com": "INACTIVE"
         }
     }
 }
