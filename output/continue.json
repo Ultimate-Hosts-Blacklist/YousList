@@ -629,7 +629,8 @@
         "securepubads.g.doubleclick.net",
         "dcd.adotsolution.com",
         "adv.imadrep.co.kr",
-        "t.mdn2015x1.com"
+        "t.mdn2015x1.com",
+        "pagead2.googlesyndication.com"
     ],
     "INACTIVE": [
         "www.surgeprice.com",
@@ -773,6 +774,8 @@
         "candy.ad9.kr",
         "ak-gb.marketgid.com",
         "secure.uac.advertising.com",
-        "get.keywordsconnect.com"
+        "get.keywordsconnect.com",
+        "adv.mediakeep.co.kr",
+        "get2.keywordsconnect.com"
     ]
 }
