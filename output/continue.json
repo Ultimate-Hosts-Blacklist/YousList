@@ -630,7 +630,8 @@
         "apex.go.sonobi.com",
         "scripts.chitika.net",
         "mp.mmnneo.com",
-        "partner.googleadservices.com"
+        "partner.googleadservices.com",
+        "cdn.stickyadstv.com"
     ],
     "INACTIVE": [
         "www.polltest.azurewebsites.net",
@@ -774,6 +775,7 @@
         "adn.nsmartad.com",
         "pd4-imp.revsci.net",
         "mobi.luxad.kr",
-        "ad.imp.joins.com"
+        "ad.imp.joins.com",
+        "ad.daum.net"
     ]
 }
