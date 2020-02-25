@@ -208,12 +208,14 @@
 0.0.0.0 brightadnetwork.com
 0.0.0.0 brightonclick.com
 0.0.0.0 bs.serving-sys.com
+0.0.0.0 bullseye.backbeatmedia.com
 0.0.0.0 c1.popads.net
 0.0.0.0 cache.ssend.microad.jp
 0.0.0.0 cad.donga.com
 0.0.0.0 cadvv.heraldm.com
 0.0.0.0 c.amazon-adsystem.com
 0.0.0.0 cas.criteo.com
+0.0.0.0 cast.imp.joins.com
 0.0.0.0 c.betrad.com
 0.0.0.0 cdn1.smartadserver.com
 0.0.0.0 cdn4.wibbitz.com
@@ -221,7 +223,9 @@
 0.0.0.0 cdn.ad.maist.jp
 0.0.0.0 cdn.admixer.net
 0.0.0.0 cdn.adpushup.com
+0.0.0.0 cdn.adrtx.net
 0.0.0.0 cdn.adsafeprotected.com
+0.0.0.0 cdn.adsolutions.nl
 0.0.0.0 cdn.adtive.com
 0.0.0.0 cdn.adtrue.com
 0.0.0.0 cdn-aitg.widerplanet.com
@@ -258,8 +262,8 @@
 0.0.0.0 cmbestsrv.com
 0.0.0.0 cm.interworksmedia.co.kr
 0.0.0.0 cm.keywordsconnect.com
-0.0.0.0 coin-hive.com
 0.0.0.0 coinhive.com
+0.0.0.0 coin-hive.com
 0.0.0.0 compass.adop.cc
 0.0.0.0 config.ad-brix.com
 0.0.0.0 contextual.media.net
@@ -275,6 +279,7 @@
 0.0.0.0 d3u5zn5k9864p0.cloudfront.net
 0.0.0.0 d.adand.co.kr
 0.0.0.0 d.adroll.com
+0.0.0.0 dcd.adotsolution.com
 0.0.0.0 delivery.amessagewithabottle.com
 0.0.0.0 delivery.c.switchadhub.com
 0.0.0.0 deliverys.n2s.co.kr
@@ -339,6 +344,7 @@
 0.0.0.0 imp.tradedoubler.com
 0.0.0.0 imp.valuepotion.com
 0.0.0.0 insight.adsrvr.org
+0.0.0.0 interface.interworksmedia.co.kr
 0.0.0.0 inv-nets.admixer.net
 0.0.0.0 io1.innorame.com
 0.0.0.0 jadserve.postrelease.com
@@ -384,6 +390,7 @@
 0.0.0.0 microbizit.com
 0.0.0.0 microopenpop.com
 0.0.0.0 minishop.linkprice.com
+0.0.0.0 mp.mmnneo.com
 0.0.0.0 mrelko.com
 0.0.0.0 msadsense.com
 0.0.0.0 mtag.mman.kr
@@ -400,6 +407,7 @@
 0.0.0.0 nex.163.com
 0.0.0.0 np-adkpf.newscloud.or.kr
 0.0.0.0 npttech.com
+0.0.0.0 nscreen.neoebiz.co.kr
 0.0.0.0 nvapi.feeldmc.com
 0.0.0.0 nv.veta.naver.com
 0.0.0.0 nw.realssp.co.kr
@@ -516,6 +524,7 @@
 0.0.0.0 thealarm2018.cafe24.com
 0.0.0.0 ti-center.co.kr
 0.0.0.0 tl.mmnneo.com
+0.0.0.0 t.mdn2015x1.com
 0.0.0.0 tm.interworksmedia.co.kr
 0.0.0.0 tpc.googlesyndication.com
 0.0.0.0 tracker.adbinead.com
