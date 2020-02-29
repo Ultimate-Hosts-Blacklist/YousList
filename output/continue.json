@@ -621,7 +621,17 @@
         "adtg.widerplanet.com",
         "bullseye.backbeatmedia.com",
         "scripts.chitika.net",
-        "exttag.about.co.kr"
+        "exttag.about.co.kr",
+        "cdn.stickyadstv.com",
+        "advimg.ad-mapps.com",
+        "js2.keywordsconnect.com",
+        "fastlane.rubiconproject.com",
+        "partner.googleadservices.com",
+        "ad.yieldlab.net",
+        "d.pixiv.org",
+        "ads.adjust-net.jp",
+        "cast.imp.joins.com",
+        "quick.1rtl.info"
     ],
     "INACTIVE": [
         "www.ebdr3.com",
@@ -762,6 +772,10 @@
         "cwdata.itplay.co.kr",
         "tab2-cdn.rubiconproject.com",
         "ads.ad7942.co.kr",
-        "sgate.opap.co.kr"
+        "sgate.opap.co.kr",
+        "adv.segye.com",
+        "mobs.luxad.kr",
+        "get.keywordsconnect.com",
+        "you.claremedia.co.kr"
     ]
 }
