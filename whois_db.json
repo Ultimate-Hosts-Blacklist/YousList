@@ -1,4 +1,19 @@
 {
+    "7fkm2r4pzi.com": {
+        "epoch": 1609113600.0,
+        "expiration_date": "28-dec-2020",
+        "state": "future"
+    },
+    "ad-first.co.kr": {
+        "epoch": 1587254400.0,
+        "expiration_date": "19-apr-2020",
+        "state": "future"
+    },
+    "ad-playstore.com": {
+        "epoch": 1615852800.0,
+        "expiration_date": "16-mar-2021",
+        "state": "future"
+    },
     "ad-unpack.com": {
         "epoch": 1595721600.0,
         "expiration_date": "26-jul-2020",
@@ -9,10 +24,60 @@
         "expiration_date": "15-may-2020",
         "state": "future"
     },
+    "adbiz.co.kr": {
+        "epoch": 1608508800.0,
+        "expiration_date": "21-dec-2020",
+        "state": "future"
+    },
+    "adbiz2.co.kr": {
+        "epoch": 1593388800.0,
+        "expiration_date": "29-jun-2020",
+        "state": "future"
+    },
+    "adclickservice.com": {
+        "epoch": 1600041600.0,
+        "expiration_date": "14-sep-2020",
+        "state": "future"
+    },
+    "adget.co.kr": {
+        "epoch": 1599264000.0,
+        "expiration_date": "05-sep-2020",
+        "state": "future"
+    },
+    "adinc.co.kr": {
+        "epoch": 1614124800.0,
+        "expiration_date": "24-feb-2021",
+        "state": "future"
+    },
+    "adnetworkperformance.com": {
+        "epoch": 1587945600.0,
+        "expiration_date": "27-apr-2020",
+        "state": "future"
+    },
+    "adnext.fr": {
+        "epoch": 1616112000.0,
+        "expiration_date": "19-mar-2021",
+        "state": "future"
+    },
+    "adpick.co.kr": {
+        "epoch": 1601510400.0,
+        "expiration_date": "01-oct-2020",
+        "state": "future"
+    },
     "adpingpong.co.kr": {
         "epoch": 1582934400.0,
         "expiration_date": "29-feb-2020",
         "state": "past"
+    },
+    "adpingpong1.co.kr": {
+        "epoch": 1583193600.0,
+        "expiration_date": "03-mar-2020",
+        "state": "future"
+    },
+    "ads-optima.com": {
+        "epoch": 1598054400.0,
+        "expiration_date": "22-aug-2020",
+        "state": "future"
     },
     "adtag.cc": {
         "epoch": 1597795200.0,
@@ -34,14 +99,54 @@
         "expiration_date": "16-sep-2024",
         "state": "future"
     },
+    "assoc-amazon.com": {
+        "epoch": 1721088000.0,
+        "expiration_date": "16-jul-2024",
+        "state": "future"
+    },
     "bayabar.com": {
         "epoch": 1608163200.0,
         "expiration_date": "17-dec-2020",
         "state": "future"
     },
+    "bizon.kr": {
+        "epoch": 1609459200.0,
+        "expiration_date": "01-jan-2021",
+        "state": "future"
+    },
+    "bnhtml.com": {
+        "epoch": 1586822400.0,
+        "expiration_date": "14-apr-2020",
+        "state": "future"
+    },
+    "brightadnetwork.com": {
+        "epoch": 1587945600.0,
+        "expiration_date": "27-apr-2020",
+        "state": "future"
+    },
+    "brightonclick.com": {
+        "epoch": 1587945600.0,
+        "expiration_date": "27-apr-2020",
+        "state": "future"
+    },
     "clevernt.com": {
         "epoch": 1592784000.0,
         "expiration_date": "22-jun-2020",
+        "state": "future"
+    },
+    "clkads.com": {
+        "epoch": 1612051200.0,
+        "expiration_date": "31-jan-2021",
+        "state": "future"
+    },
+    "clksite.com": {
+        "epoch": 1605830400.0,
+        "expiration_date": "20-nov-2020",
+        "state": "future"
+    },
+    "cmbestsrv.com": {
+        "epoch": 1657324800.0,
+        "expiration_date": "09-jul-2022",
         "state": "future"
     },
     "coin-hive.com": {
@@ -52,6 +157,21 @@
     "coinhive.com": {
         "epoch": 1606780800.0,
         "expiration_date": "01-dec-2020",
+        "state": "future"
+    },
+    "deloton.com": {
+        "epoch": 1601337600.0,
+        "expiration_date": "29-sep-2020",
+        "state": "future"
+    },
+    "dianomi.com": {
+        "epoch": 1639094400.0,
+        "expiration_date": "10-dec-2021",
+        "state": "future"
+    },
+    "disqusads.com": {
+        "epoch": 1639612800.0,
+        "expiration_date": "16-dec-2021",
         "state": "future"
     },
     "dreamsearch.or.kr": {
@@ -74,9 +194,19 @@
         "expiration_date": "07-apr-2020",
         "state": "future"
     },
+    "fam-ad.com": {
+        "epoch": 1786665600.0,
+        "expiration_date": "14-aug-2026",
+        "state": "future"
+    },
     "franecki.net": {
         "epoch": 1585526400.0,
         "expiration_date": "30-mar-2020",
+        "state": "future"
+    },
+    "iicdn.com": {
+        "epoch": 1601164800.0,
+        "expiration_date": "27-sep-2020",
         "state": "future"
     },
     "ilikeview.com": {
@@ -84,9 +214,34 @@
         "expiration_date": "29-sep-2020",
         "state": "future"
     },
+    "k77hof1z7k.com": {
+        "epoch": 1587772800.0,
+        "expiration_date": "25-apr-2020",
+        "state": "future"
+    },
+    "kodcad.kr": {
+        "epoch": 1599264000.0,
+        "expiration_date": "05-sep-2020",
+        "state": "future"
+    },
     "magento-analytics.com": {
         "epoch": 1589241600.0,
         "expiration_date": "12-may-2020",
+        "state": "future"
+    },
+    "mainclc.com": {
+        "epoch": 1596499200.0,
+        "expiration_date": "04-aug-2020",
+        "state": "future"
+    },
+    "marketingking.co.kr": {
+        "epoch": 1618963200.0,
+        "expiration_date": "21-apr-2021",
+        "state": "future"
+    },
+    "mediacategory.com": {
+        "epoch": 1856563200.0,
+        "expiration_date": "31-oct-2028",
         "state": "future"
     },
     "mediamixad.com": {
@@ -94,14 +249,74 @@
         "expiration_date": "05-feb-2021",
         "state": "future"
     },
+    "mediaview.co.kr": {
+        "epoch": 1672358400.0,
+        "expiration_date": "30-dec-2022",
+        "state": "future"
+    },
+    "microbizit.com": {
+        "epoch": 1595030400.0,
+        "expiration_date": "18-jul-2020",
+        "state": "future"
+    },
+    "microopenpop.com": {
+        "epoch": 1606521600.0,
+        "expiration_date": "28-nov-2020",
+        "state": "future"
+    },
+    "mrelko.com": {
+        "epoch": 1589760000.0,
+        "expiration_date": "18-may-2020",
+        "state": "future"
+    },
+    "msadsense.com": {
+        "epoch": 1594080000.0,
+        "expiration_date": "07-jul-2020",
+        "state": "future"
+    },
     "mxttrf.com": {
         "epoch": 1605571200.0,
         "expiration_date": "17-nov-2020",
         "state": "future"
     },
+    "mycdn.co": {
+        "epoch": 1602115200.0,
+        "expiration_date": "08-oct-2020",
+        "state": "future"
+    },
     "n162adserv.com": {
         "epoch": 1612396800.0,
         "expiration_date": "04-feb-2021",
+        "state": "future"
+    },
+    "newsbanner.co.kr": {
+        "epoch": 1590796800.0,
+        "expiration_date": "30-may-2020",
+        "state": "future"
+    },
+    "oload.cloud": {
+        "epoch": 1600732800.0,
+        "expiration_date": "22-sep-2020",
+        "state": "future"
+    },
+    "oload.tv": {
+        "epoch": 1659484800.0,
+        "expiration_date": "03-aug-2022",
+        "state": "future"
+    },
+    "onclickads.net": {
+        "epoch": 1591142400.0,
+        "expiration_date": "03-jun-2020",
+        "state": "future"
+    },
+    "onclicktop.com": {
+        "epoch": 1587945600.0,
+        "expiration_date": "27-apr-2020",
+        "state": "future"
+    },
+    "onclkds.com": {
+        "epoch": 1603670400.0,
+        "expiration_date": "26-oct-2020",
         "state": "future"
     },
     "onetag-sys.com": {
@@ -114,9 +329,59 @@
         "expiration_date": "10-sep-2020",
         "state": "future"
     },
+    "prwidgets.com": {
+        "epoch": 1604707200.0,
+        "expiration_date": "07-nov-2020",
+        "state": "future"
+    },
+    "pureadexchange.com": {
+        "epoch": 1587945600.0,
+        "expiration_date": "27-apr-2020",
+        "state": "future"
+    },
+    "rebevengwas.com": {
+        "epoch": 1604102400.0,
+        "expiration_date": "31-oct-2020",
+        "state": "future"
+    },
+    "recreativ.ru": {
+        "epoch": 1605744000.0,
+        "expiration_date": "19-nov-2020",
+        "state": "future"
+    },
+    "searchmaster.pro": {
+        "epoch": 1584748800.0,
+        "expiration_date": "21-mar-2020",
+        "state": "future"
+    },
     "site3.co.kr": {
         "epoch": 1825286400.0,
         "expiration_date": "04-nov-2027",
+        "state": "future"
+    },
+    "smartadserver.com": {
+        "epoch": 1591747200.0,
+        "expiration_date": "10-jun-2020",
+        "state": "future"
+    },
+    "smartposting.net": {
+        "epoch": 1586822400.0,
+        "expiration_date": "14-apr-2020",
+        "state": "future"
+    },
+    "sunnyworks.co.kr": {
+        "epoch": 1587081600.0,
+        "expiration_date": "17-apr-2020",
+        "state": "future"
+    },
+    "surgeprice.com": {
+        "epoch": 1616544000.0,
+        "expiration_date": "24-mar-2021",
+        "state": "future"
+    },
+    "ti-center.co.kr": {
+        "epoch": 1605916800.0,
+        "expiration_date": "21-nov-2020",
         "state": "future"
     },
     "trafmag.com": {
@@ -127,6 +392,41 @@
     "tsyndicate.com": {
         "epoch": 1843084800.0,
         "expiration_date": "28-may-2028",
+        "state": "future"
+    },
+    "udmserve.net": {
+        "epoch": 1682294400.0,
+        "expiration_date": "24-apr-2023",
+        "state": "future"
+    },
+    "unionpress.co.kr": {
+        "epoch": 1604016000.0,
+        "expiration_date": "30-oct-2020",
+        "state": "future"
+    },
+    "unse4u.com": {
+        "epoch": 1612051200.0,
+        "expiration_date": "31-jan-2021",
+        "state": "future"
+    },
+    "uplus.kr": {
+        "epoch": 1616803200.0,
+        "expiration_date": "27-mar-2021",
+        "state": "future"
+    },
+    "urldelivery.com": {
+        "epoch": 1600473600.0,
+        "expiration_date": "19-sep-2020",
+        "state": "future"
+    },
+    "vhldwuv6om.com": {
+        "epoch": 1587772800.0,
+        "expiration_date": "25-apr-2020",
+        "state": "future"
+    },
+    "wec.co.kr": {
+        "epoch": 1637020800.0,
+        "expiration_date": "16-nov-2021",
         "state": "future"
     },
     "zbnfhsk.com": {
