@@ -618,7 +618,21 @@
         "ad1.adfarm1.adition.com",
         "engine.adzerk.net",
         "securepubads.g.doubleclick.net",
-        "nscreen.neoebiz.co.kr"
+        "nscreen.neoebiz.co.kr",
+        "prebid.districtm.ca",
+        "pagead2.googlesyndication.com",
+        "interface.interworksmedia.co.kr",
+        "cdn-sic.33across.com",
+        "d.adroll.com",
+        "as.dc.impact-ad.jp",
+        "ads.tenping.kr",
+        "ads.adjust-net.jp",
+        "cm2.joins.com",
+        "cdn.stickyadstv.com",
+        "ad.hankooki.com",
+        "cdn.adsolutions.nl",
+        "ad.yieldlab.net",
+        "pq-direct.revsci.net"
     ],
     "INACTIVE": [
         "www.onshowit.com",
@@ -755,6 +769,13 @@
         "adv.segye.com",
         "get2.keywordsconnect.com",
         "adixs-ad.co.kr",
-        "www.adixs-ad.co.kr"
+        "www.adixs-ad.co.kr",
+        "ad.daum.net",
+        "mobs.luxad.kr",
+        "you.claremedia.co.kr",
+        "inv-t-node.admixer.net",
+        "script.adsquare.co.kr",
+        "ad.ad-ya.net",
+        "script.nowcall.co.kr"
     ]
 }

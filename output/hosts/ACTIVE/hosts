@@ -61,6 +61,7 @@
 0.0.0.0 adget.co.kr
 0.0.0.0 ad.gogovid.net
 0.0.0.0 adgrp1.ad4989.co.kr
+0.0.0.0 ad.hankooki.com
 0.0.0.0 ad.hankookilbo.com
 0.0.0.0 ad.hooniad.com
 0.0.0.0 ad.idnad.co.kr
@@ -106,6 +107,7 @@
 0.0.0.0 ads2.contentabc.com
 0.0.0.0 ads3.tenping.kr
 0.0.0.0 ads.acrosspf.com
+0.0.0.0 ads.adjust-net.jp
 0.0.0.0 ads.admaru.com
 0.0.0.0 ads.adthrive.com
 0.0.0.0 ads.adverline.com
@@ -143,6 +145,7 @@
 0.0.0.0 ads.stickyadstv.com
 0.0.0.0 ads.supplyframe.com
 0.0.0.0 ads.tapzin.com
+0.0.0.0 ads.tenping.kr
 0.0.0.0 ads.theporndb.com
 0.0.0.0 ads.tlvmedia.com
 0.0.0.0 adsvc2.wisenut.co.kr
@@ -173,6 +176,7 @@
 0.0.0.0 adx.mocoplex.com
 0.0.0.0 adx.naonmedia.net
 0.0.0.0 adx.turl.co.kr
+0.0.0.0 ad.yieldlab.net
 0.0.0.0 ad.yieldmanager.com
 0.0.0.0 aka-cdn.adtechus.com
 0.0.0.0 aka-cdn-ns.adtechus.com
@@ -187,6 +191,7 @@
 0.0.0.0 apis.piclick.me
 0.0.0.0 ap.lijit.com
 0.0.0.0 ap.tnkfactory.com
+0.0.0.0 as.dc.impact-ad.jp
 0.0.0.0 assoc-amazon.com
 0.0.0.0 async01.admantx.com
 0.0.0.0 at.atwola.com
@@ -219,6 +224,7 @@
 0.0.0.0 cdn.adpushup.com
 0.0.0.0 cdn.adrtx.net
 0.0.0.0 cdn.adsafeprotected.com
+0.0.0.0 cdn.adsolutions.nl
 0.0.0.0 cdn.adtive.com
 0.0.0.0 cdn.adtrue.com
 0.0.0.0 cdn-aitg.widerplanet.com
@@ -238,6 +244,8 @@
 0.0.0.0 cdn.megadata.co.kr
 0.0.0.0 cdn.optmd.com
 0.0.0.0 cdn.popmyads.com
+0.0.0.0 cdn-sic.33across.com
+0.0.0.0 cdn.stickyadstv.com
 0.0.0.0 cdn.targetpush.co.kr
 0.0.0.0 cdn.teads.tv
 0.0.0.0 cdn.tsyndicate.com
@@ -248,6 +256,7 @@
 0.0.0.0 clksite.com
 0.0.0.0 cm1.jssearch.net
 0.0.0.0 cm2.cjmooter.com
+0.0.0.0 cm2.joins.com
 0.0.0.0 cm2.jssearch.net
 0.0.0.0 cm3.jssearch.net
 0.0.0.0 cmbestsrv.com
@@ -269,6 +278,7 @@
 0.0.0.0 d3pkae9owd2lcf.cloudfront.net
 0.0.0.0 d3u5zn5k9864p0.cloudfront.net
 0.0.0.0 d.adand.co.kr
+0.0.0.0 d.adroll.com
 0.0.0.0 dcd.adotsolution.com
 0.0.0.0 delivery.amessagewithabottle.com
 0.0.0.0 delivery.c.switchadhub.com
@@ -334,6 +344,7 @@
 0.0.0.0 imp.tradedoubler.com
 0.0.0.0 imp.valuepotion.com
 0.0.0.0 insight.adsrvr.org
+0.0.0.0 interface.interworksmedia.co.kr
 0.0.0.0 inv-nets.admixer.net
 0.0.0.0 io1.innorame.com
 0.0.0.0 jadserve.postrelease.com
@@ -412,6 +423,7 @@
 0.0.0.0 op.mmnneo.com
 0.0.0.0 optimized-by.4wnetwork.com
 0.0.0.0 outbanner.hu.co.kr
+0.0.0.0 pagead2.googlesyndication.com
 0.0.0.0 partner.googleadservices.com
 0.0.0.0 pd4-imp.revsci.net
 0.0.0.0 pixel.adsafeprotected.com
@@ -421,6 +433,8 @@
 0.0.0.0 plug.plufdsb.com
 0.0.0.0 polltest.azurewebsites.net
 0.0.0.0 pop.site3.co.kr
+0.0.0.0 pq-direct.revsci.net
+0.0.0.0 prebid.districtm.ca
 0.0.0.0 prism.pandora.tv
 0.0.0.0 prwidgets.com
 0.0.0.0 ps.ns-cdn.com
