@@ -7,8 +7,8 @@
     "last_autosave_epoch": 1583233970.122705,
     "name": "YousList",
     "previous_stats": {
-        "builds": 4,
-        "clean_list": 632,
+        "builds": 1,
+        "clean_list": 628,
         "counter": {
             "down": 0,
             "invalid": 0,
@@ -19,10 +19,10 @@
             "valid": 0
         },
         "domains.list": 666,
-        "volatile.list": 627,
-        "whitelisted.list": 627
+        "volatile.list": 623,
+        "whitelisted.list": 623
     },
     "raw_link": "https://raw.githubusercontent.com/yous/YousList/master/hosts.txt",
-    "start_datetime": "2020-03-04T10:58:10.672730",
-    "start_epoch": 1583319490.67273
+    "start_datetime": "2020-03-04T23:10:59.931687",
+    "start_epoch": 1583363459.931687
 }
