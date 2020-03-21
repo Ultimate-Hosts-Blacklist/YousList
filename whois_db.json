@@ -365,9 +365,9 @@
         "state": "future"
     },
     "searchmaster.pro": {
-        "epoch": 1584748800.0,
-        "expiration_date": "21-mar-2020",
-        "state": "past"
+        "epoch": 1616284800.0,
+        "expiration_date": "21-mar-2021",
+        "state": "future"
     },
     "site3.co.kr": {
         "epoch": 1825286400.0,
