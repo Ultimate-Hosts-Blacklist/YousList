@@ -1,6 +1,6 @@
 {
     "current_stats": {
-        "builds": 1,
+        "builds": 2,
         "counter": {
             "down": 0,
             "invalid": 0,
@@ -17,11 +17,11 @@
     "days_until_next_test": 2,
     "end_datetime": "2020-03-04T10:58:08.698218",
     "end_epoch": 1583239042.079198,
+    "issue_link": "https://github.com/yous/YousList/issues/new",
     "last_autosave_datetime": "2020-03-04T10:58:08.698238",
     "last_autosave_epoch": 1583233970.122705,
-    "name": "YousList",
     "link": "https://raw.githubusercontent.com/yous/YousList/master/hosts.txt",
-    "issue_link": "https://github.com/yous/YousList/issues/new",
+    "name": "YousList",
     "previous_stats": {
         "builds": 7,
         "clean_list": 633,
