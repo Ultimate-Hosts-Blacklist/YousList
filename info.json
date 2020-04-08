@@ -20,6 +20,8 @@
     "last_autosave_datetime": "2020-03-04T10:58:08.698238",
     "last_autosave_epoch": 1583233970.122705,
     "name": "YousList",
+    "link": "https://raw.githubusercontent.com/yous/YousList/master/hosts.txt",
+    "issue_link": "https://github.com/yous/YousList/issues/new",
     "previous_stats": {
         "builds": 7,
         "clean_list": 633,
