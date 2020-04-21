@@ -33826,6 +33826,21 @@
         },
         "1587474885": {
             "localhost": "INVALID"
+        },
+        "1587489032": {
+            "ad.imp.joins.com": "INACTIVE"
+        },
+        "1587489244": {
+            "cast.imp.joins.com": "INACTIVE"
+        },
+        "1587489288": {
+            "cm1.joins.com": "INACTIVE"
+        },
+        "1587489309": {
+            "cm2.joins.com": "INACTIVE"
+        },
+        "1587489576": {
+            "sgate.opap.co.kr": "INACTIVE"
         }
     }
 }
