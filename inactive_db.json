@@ -241,8 +241,8 @@
         "adfarm.mediaplex.com": {
             "included_at_epoch": 1588453400.0,
             "included_at_iso": "2020-05-02T21:03:20",
-            "last_retested_at_epoch": 1588453400.0,
-            "last_retested_at_iso": "2020-05-02T21:03:20",
+            "last_retested_at_epoch": 1588542990.773128,
+            "last_retested_at_iso": "2020-05-03T21:56:30.773128",
             "status": "INACTIVE"
         },
         "adimg1.adinc.co.kr": {
@@ -717,8 +717,8 @@
         "d1swklt9res5jr.cloudfront.net": {
             "included_at_epoch": 1588448794.0,
             "included_at_iso": "2020-05-02T19:46:34",
-            "last_retested_at_epoch": 1588448794.0,
-            "last_retested_at_iso": "2020-05-02T19:46:34",
+            "last_retested_at_epoch": 1588543173.991212,
+            "last_retested_at_iso": "2020-05-03T21:59:33.991212",
             "status": "INACTIVE"
         },
         "dev.ezadsystem.com": {
@@ -1256,8 +1256,8 @@
         "ww3.vidzi.tv": {
             "included_at_epoch": 1588453403.0,
             "included_at_iso": "2020-05-02T21:03:23",
-            "last_retested_at_epoch": 1588453403.0,
-            "last_retested_at_iso": "2020-05-02T21:03:23",
+            "last_retested_at_epoch": 1588543387.121589,
+            "last_retested_at_iso": "2020-05-03T22:03:07.121589",
             "status": "INACTIVE"
         },
         "www.ad-unpack.com": {
@@ -1410,8 +1410,8 @@
         "www.d1swklt9res5jr.cloudfront.net": {
             "included_at_epoch": 1588448794.0,
             "included_at_iso": "2020-05-02T19:46:34",
-            "last_retested_at_epoch": 1588448794.0,
-            "last_retested_at_iso": "2020-05-02T19:46:34",
+            "last_retested_at_epoch": 1588543173.940293,
+            "last_retested_at_iso": "2020-05-03T21:59:33.940293",
             "status": "INACTIVE"
         },
         "www.d269y12mnftu9c.cloudfront.net": {
@@ -1473,8 +1473,8 @@
         "www.edgecastcdn.net": {
             "included_at_epoch": 1588453528.0,
             "included_at_iso": "2020-05-02T21:05:28",
-            "last_retested_at_epoch": 1588453528.0,
-            "last_retested_at_iso": "2020-05-02T21:05:28",
+            "last_retested_at_epoch": 1588543010.058995,
+            "last_retested_at_iso": "2020-05-03T21:56:50.058995",
             "status": "INACTIVE"
         },
         "www.eto.co.kr": {
@@ -1683,8 +1683,8 @@
         "www.zbnfhsk.com": {
             "included_at_epoch": 1588453339.0,
             "included_at_iso": "2020-05-02T21:02:19",
-            "last_retested_at_epoch": 1588453339.0,
-            "last_retested_at_iso": "2020-05-02T21:02:19",
+            "last_retested_at_epoch": 1588543259.035893,
+            "last_retested_at_iso": "2020-05-03T22:00:59.035893",
             "status": "INACTIVE"
         },
         "y.one.impact-ad.jp": {
