@@ -129,8 +129,8 @@
         "ad.imp.joins.com": {
             "included_at_epoch": 1588444584.0,
             "included_at_iso": "2020-05-02T18:36:24",
-            "last_retested_at_epoch": 1588533638.540078,
-            "last_retested_at_iso": "2020-05-03T19:20:38.540078",
+            "last_retested_at_epoch": 1588630088.643023,
+            "last_retested_at_iso": "2020-05-04T22:08:08.643023",
             "status": "INACTIVE"
         },
         "ad.ingfac.co.kr": {
@@ -241,8 +241,8 @@
         "adfarm.mediaplex.com": {
             "included_at_epoch": 1588453400.0,
             "included_at_iso": "2020-05-02T21:03:20",
-            "last_retested_at_epoch": 1588542990.773128,
-            "last_retested_at_iso": "2020-05-03T21:56:30.773128",
+            "last_retested_at_epoch": 1588629985.229985,
+            "last_retested_at_iso": "2020-05-04T22:06:25.229985",
             "status": "INACTIVE"
         },
         "adimg1.adinc.co.kr": {
@@ -451,8 +451,8 @@
         "adx.bibl.uk": {
             "included_at_epoch": 1588444204.0,
             "included_at_iso": "2020-05-02T18:30:04",
-            "last_retested_at_epoch": 1588538746.52844,
-            "last_retested_at_iso": "2020-05-03T20:45:46.528440",
+            "last_retested_at_epoch": 1588629924.675964,
+            "last_retested_at_iso": "2020-05-04T22:05:24.675964",
             "status": "INACTIVE"
         },
         "agate.opap.co.kr": {
@@ -479,8 +479,8 @@
         "amsv2.daum.net": {
             "included_at_epoch": 1588448716.0,
             "included_at_iso": "2020-05-02T19:45:16",
-            "last_retested_at_epoch": 1588538760.437028,
-            "last_retested_at_iso": "2020-05-03T20:46:00.437028",
+            "last_retested_at_epoch": 1588629768.05274,
+            "last_retested_at_iso": "2020-05-04T22:02:48.052740",
             "status": "INACTIVE"
         },
         "apex.go.sonobi.com": {
@@ -542,8 +542,8 @@
         "cast.imp.joins.com": {
             "included_at_epoch": 1588444149.0,
             "included_at_iso": "2020-05-02T18:29:09",
-            "last_retested_at_epoch": 1588534122.953312,
-            "last_retested_at_iso": "2020-05-03T19:28:42.953312",
+            "last_retested_at_epoch": 1588630017.110577,
+            "last_retested_at_iso": "2020-05-04T22:06:57.110577",
             "status": "INACTIVE"
         },
         "cdn-sic.33across.com": {
@@ -654,8 +654,8 @@
         "cm2.joins.com": {
             "included_at_epoch": 1588444203.0,
             "included_at_iso": "2020-05-02T18:30:03",
-            "last_retested_at_epoch": 1588533733.525256,
-            "last_retested_at_iso": "2020-05-03T19:22:13.525256",
+            "last_retested_at_epoch": 1588629815.64657,
+            "last_retested_at_iso": "2020-05-04T22:03:35.646570",
             "status": "INACTIVE"
         },
         "cm2.jssearch.net": {
@@ -717,8 +717,8 @@
         "d1swklt9res5jr.cloudfront.net": {
             "included_at_epoch": 1588448794.0,
             "included_at_iso": "2020-05-02T19:46:34",
-            "last_retested_at_epoch": 1588543173.991212,
-            "last_retested_at_iso": "2020-05-03T21:59:33.991212",
+            "last_retested_at_epoch": 1588629835.208482,
+            "last_retested_at_iso": "2020-05-04T22:03:55.208482",
             "status": "INACTIVE"
         },
         "dev.ezadsystem.com": {
@@ -1410,8 +1410,8 @@
         "www.d1swklt9res5jr.cloudfront.net": {
             "included_at_epoch": 1588448794.0,
             "included_at_iso": "2020-05-02T19:46:34",
-            "last_retested_at_epoch": 1588543173.940293,
-            "last_retested_at_iso": "2020-05-03T21:59:33.940293",
+            "last_retested_at_epoch": 1588629835.502787,
+            "last_retested_at_iso": "2020-05-04T22:03:55.502787",
             "status": "INACTIVE"
         },
         "www.d269y12mnftu9c.cloudfront.net": {
@@ -1473,8 +1473,8 @@
         "www.edgecastcdn.net": {
             "included_at_epoch": 1588453528.0,
             "included_at_iso": "2020-05-02T21:05:28",
-            "last_retested_at_epoch": 1588543010.058995,
-            "last_retested_at_iso": "2020-05-03T21:56:50.058995",
+            "last_retested_at_epoch": 1588629657.570136,
+            "last_retested_at_iso": "2020-05-04T22:00:57.570136",
             "status": "INACTIVE"
         },
         "www.eto.co.kr": {
