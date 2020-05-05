@@ -1165,8 +1165,8 @@
         "sgate.opap.co.kr": {
             "included_at_epoch": 1588481607.0,
             "included_at_iso": "2020-05-03T04:53:27",
-            "last_retested_at_epoch": 1588573544.028812,
-            "last_retested_at_iso": "2020-05-04T06:25:44.028812",
+            "last_retested_at_epoch": 1588661101.087603,
+            "last_retested_at_iso": "2020-05-05T06:45:01.087603",
             "status": "INACTIVE"
         },
         "shopers.co.kr": {
