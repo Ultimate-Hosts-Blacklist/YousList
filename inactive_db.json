@@ -633,8 +633,8 @@
         "cm1.joins.com": {
             "included_at_epoch": 1588472767.0,
             "included_at_iso": "2020-05-03T02:26:07",
-            "last_retested_at_epoch": 1588563631.621323,
-            "last_retested_at_iso": "2020-05-04T03:40:31.621323",
+            "last_retested_at_epoch": 1588652128.728836,
+            "last_retested_at_iso": "2020-05-05T04:15:28.728836",
             "status": "INACTIVE"
         },
         "cm1.jssearch.net": {
