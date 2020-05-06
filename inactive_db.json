@@ -87,8 +87,8 @@
         "ad.aeonad.net": {
             "included_at_epoch": 1588453340.0,
             "included_at_iso": "2020-05-02T21:02:20",
-            "last_retested_at_epoch": 1588634868.051725,
-            "last_retested_at_iso": "2020-05-04T23:27:48.051725",
+            "last_retested_at_epoch": 1588725927.21467,
+            "last_retested_at_iso": "2020-05-06T00:45:27.214670",
             "status": "INACTIVE"
         },
         "ad.afy11.net": {
@@ -542,8 +542,8 @@
         "cast.imp.joins.com": {
             "included_at_epoch": 1588444149.0,
             "included_at_iso": "2020-05-02T18:29:09",
-            "last_retested_at_epoch": 1588630017.110577,
-            "last_retested_at_iso": "2020-05-04T22:06:57.110577",
+            "last_retested_at_epoch": 1588726093.498627,
+            "last_retested_at_iso": "2020-05-06T00:48:13.498627",
             "status": "INACTIVE"
         },
         "cdn-sic.33across.com": {
