@@ -682,8 +682,8 @@
         "cwdata.itplay.co.kr": {
             "included_at_epoch": 1588526607.0,
             "included_at_iso": "2020-05-03T17:23:27",
-            "last_retested_at_epoch": 1588702581.390615,
-            "last_retested_at_iso": "2020-05-05T18:16:21.390615",
+            "last_retested_at_epoch": 1588790432.631758,
+            "last_retested_at_iso": "2020-05-06T18:40:32.631758",
             "status": "INACTIVE"
         },
         "cwdata.itsearch.co.kr": {
@@ -920,8 +920,8 @@
         "mediarichad.com": {
             "included_at_epoch": 1588526337.0,
             "included_at_iso": "2020-05-03T17:18:57",
-            "last_retested_at_epoch": 1588702579.996284,
-            "last_retested_at_iso": "2020-05-05T18:16:19.996284",
+            "last_retested_at_epoch": 1588790478.575534,
+            "last_retested_at_iso": "2020-05-06T18:41:18.575534",
             "status": "INACTIVE"
         },
         "mktag.mt.co.kr": {
@@ -1655,8 +1655,8 @@
         "www.surgeprice.com": {
             "included_at_epoch": 1588526650.0,
             "included_at_iso": "2020-05-03T17:24:10",
-            "last_retested_at_epoch": 1588702577.399905,
-            "last_retested_at_iso": "2020-05-05T18:16:17.399905",
+            "last_retested_at_epoch": 1588790634.037896,
+            "last_retested_at_iso": "2020-05-06T18:43:54.037896",
             "status": "INACTIVE"
         },
         "www.trafmag.com": {
