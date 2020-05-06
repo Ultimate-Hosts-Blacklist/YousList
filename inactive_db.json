@@ -633,8 +633,8 @@
         "cm1.joins.com": {
             "included_at_epoch": 1588472767.0,
             "included_at_iso": "2020-05-03T02:26:07",
-            "last_retested_at_epoch": 1588652128.728836,
-            "last_retested_at_iso": "2020-05-05T04:15:28.728836",
+            "last_retested_at_epoch": 1588752884.208183,
+            "last_retested_at_iso": "2020-05-06T08:14:44.208183",
             "status": "INACTIVE"
         },
         "cm1.jssearch.net": {
@@ -1165,8 +1165,8 @@
         "sgate.opap.co.kr": {
             "included_at_epoch": 1588481607.0,
             "included_at_iso": "2020-05-03T04:53:27",
-            "last_retested_at_epoch": 1588661101.087603,
-            "last_retested_at_iso": "2020-05-05T06:45:01.087603",
+            "last_retested_at_epoch": 1588752824.342103,
+            "last_retested_at_iso": "2020-05-06T08:13:44.342103",
             "status": "INACTIVE"
         },
         "shopers.co.kr": {
