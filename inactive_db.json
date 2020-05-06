@@ -10,8 +10,8 @@
         "None": {
             "included_at_epoch": 1587518278.0,
             "included_at_iso": "2020-04-22T01:17:58",
-            "last_retested_at_epoch": 1588634860.830835,
-            "last_retested_at_iso": "2020-05-04T23:27:40.830835",
+            "last_retested_at_epoch": 1588735906.058159,
+            "last_retested_at_iso": "2020-05-06T03:31:46.058159",
             "status": "INVALID"
         },
         "a.adtng.com": {
