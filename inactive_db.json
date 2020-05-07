@@ -129,8 +129,8 @@
         "ad.imp.joins.com": {
             "included_at_epoch": 1588444584.0,
             "included_at_iso": "2020-05-02T18:36:24",
-            "last_retested_at_epoch": 1588721377.218603,
-            "last_retested_at_iso": "2020-05-05T23:29:37.218603",
+            "last_retested_at_epoch": 1588820383.964555,
+            "last_retested_at_iso": "2020-05-07T02:59:43.964555",
             "status": "INACTIVE"
         },
         "ad.ingfac.co.kr": {
@@ -542,8 +542,8 @@
         "cast.imp.joins.com": {
             "included_at_epoch": 1588444149.0,
             "included_at_iso": "2020-05-02T18:29:09",
-            "last_retested_at_epoch": 1588726093.498627,
-            "last_retested_at_iso": "2020-05-06T00:48:13.498627",
+            "last_retested_at_epoch": 1588820586.561375,
+            "last_retested_at_iso": "2020-05-07T03:03:06.561375",
             "status": "INACTIVE"
         },
         "cdn-sic.33across.com": {
@@ -654,8 +654,8 @@
         "cm2.joins.com": {
             "included_at_epoch": 1588444203.0,
             "included_at_iso": "2020-05-02T18:30:03",
-            "last_retested_at_epoch": 1588721068.412295,
-            "last_retested_at_iso": "2020-05-05T23:24:28.412295",
+            "last_retested_at_epoch": 1588820151.107459,
+            "last_retested_at_iso": "2020-05-07T02:55:51.107459",
             "status": "INACTIVE"
         },
         "cm2.jssearch.net": {
@@ -1417,8 +1417,8 @@
         "www.d269y12mnftu9c.cloudfront.net": {
             "included_at_epoch": 1588458260.0,
             "included_at_iso": "2020-05-02T22:24:20",
-            "last_retested_at_epoch": 1588730726.825707,
-            "last_retested_at_iso": "2020-05-06T02:05:26.825707",
+            "last_retested_at_epoch": 1588820210.443636,
+            "last_retested_at_iso": "2020-05-07T02:56:50.443636",
             "status": "INACTIVE"
         },
         "www.d2v02itv0y9u9t.cloudfront.net": {
