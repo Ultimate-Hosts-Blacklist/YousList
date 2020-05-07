@@ -10,8 +10,8 @@
         "None": {
             "included_at_epoch": 1587518278.0,
             "included_at_iso": "2020-04-22T01:17:58",
-            "last_retested_at_epoch": 1588735906.058159,
-            "last_retested_at_iso": "2020-05-06T03:31:46.058159",
+            "last_retested_at_epoch": 1588879567.567571,
+            "last_retested_at_iso": "2020-05-07T19:26:07.567571",
             "status": "INVALID"
         },
         "a.adtng.com": {
@@ -682,8 +682,8 @@
         "cwdata.itplay.co.kr": {
             "included_at_epoch": 1588526607.0,
             "included_at_iso": "2020-05-03T17:23:27",
-            "last_retested_at_epoch": 1588790432.631758,
-            "last_retested_at_iso": "2020-05-06T18:40:32.631758",
+            "last_retested_at_epoch": 1588879511.830574,
+            "last_retested_at_iso": "2020-05-07T19:25:11.830574",
             "status": "INACTIVE"
         },
         "cwdata.itsearch.co.kr": {
@@ -920,8 +920,8 @@
         "mediarichad.com": {
             "included_at_epoch": 1588526337.0,
             "included_at_iso": "2020-05-03T17:18:57",
-            "last_retested_at_epoch": 1588790478.575534,
-            "last_retested_at_iso": "2020-05-06T18:41:18.575534",
+            "last_retested_at_epoch": 1588879429.192268,
+            "last_retested_at_iso": "2020-05-07T19:23:49.192268",
             "status": "INACTIVE"
         },
         "mktag.mt.co.kr": {
@@ -1655,8 +1655,8 @@
         "www.surgeprice.com": {
             "included_at_epoch": 1588526650.0,
             "included_at_iso": "2020-05-03T17:24:10",
-            "last_retested_at_epoch": 1588790634.037896,
-            "last_retested_at_iso": "2020-05-06T18:43:54.037896",
+            "last_retested_at_epoch": 1588879449.484191,
+            "last_retested_at_iso": "2020-05-07T19:24:09.484191",
             "status": "INACTIVE"
         },
         "www.trafmag.com": {
