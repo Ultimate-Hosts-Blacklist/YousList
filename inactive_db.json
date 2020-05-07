@@ -87,8 +87,8 @@
         "ad.aeonad.net": {
             "included_at_epoch": 1588453340.0,
             "included_at_iso": "2020-05-02T21:02:20",
-            "last_retested_at_epoch": 1588725927.21467,
-            "last_retested_at_iso": "2020-05-06T00:45:27.214670",
+            "last_retested_at_epoch": 1588812339.790671,
+            "last_retested_at_iso": "2020-05-07T00:45:39.790671",
             "status": "INACTIVE"
         },
         "ad.afy11.net": {
@@ -794,8 +794,8 @@
         "im.obel.kr": {
             "included_at_epoch": 1588448694.0,
             "included_at_iso": "2020-05-02T19:44:54",
-            "last_retested_at_epoch": 1588721476.325085,
-            "last_retested_at_iso": "2020-05-05T23:31:16.325085",
+            "last_retested_at_epoch": 1588812329.728867,
+            "last_retested_at_iso": "2020-05-07T00:45:29.728867",
             "status": "INACTIVE"
         },
         "img2.keywordsconnect.com": {
