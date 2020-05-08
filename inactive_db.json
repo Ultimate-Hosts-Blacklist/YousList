@@ -1417,8 +1417,8 @@
         "www.d269y12mnftu9c.cloudfront.net": {
             "included_at_epoch": 1588458260.0,
             "included_at_iso": "2020-05-02T22:24:20",
-            "last_retested_at_epoch": 1588820210.443636,
-            "last_retested_at_iso": "2020-05-07T02:56:50.443636",
+            "last_retested_at_epoch": 1588909226.141777,
+            "last_retested_at_iso": "2020-05-08T03:40:26.141777",
             "status": "INACTIVE"
         },
         "www.d2v02itv0y9u9t.cloudfront.net": {
