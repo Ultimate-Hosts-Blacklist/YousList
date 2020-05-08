@@ -682,8 +682,8 @@
         "cwdata.itplay.co.kr": {
             "included_at_epoch": 1588526607.0,
             "included_at_iso": "2020-05-03T17:23:27",
-            "last_retested_at_epoch": 1588879511.830574,
-            "last_retested_at_iso": "2020-05-07T19:25:11.830574",
+            "last_retested_at_epoch": 1588965993.37429,
+            "last_retested_at_iso": "2020-05-08T19:26:33.374290",
             "status": "INACTIVE"
         },
         "cwdata.itsearch.co.kr": {
@@ -920,8 +920,8 @@
         "mediarichad.com": {
             "included_at_epoch": 1588526337.0,
             "included_at_iso": "2020-05-03T17:18:57",
-            "last_retested_at_epoch": 1588879429.192268,
-            "last_retested_at_iso": "2020-05-07T19:23:49.192268",
+            "last_retested_at_epoch": 1588966097.854018,
+            "last_retested_at_iso": "2020-05-08T19:28:17.854018",
             "status": "INACTIVE"
         },
         "mktag.mt.co.kr": {
