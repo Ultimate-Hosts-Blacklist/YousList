@@ -234,8 +234,8 @@
         "adexview.new-star.co.kr": {
             "included_at_epoch": 1588526274.0,
             "included_at_iso": "2020-05-03T17:17:54",
-            "last_retested_at_epoch": 1588894244.141311,
-            "last_retested_at_iso": "2020-05-07T23:30:44.141311",
+            "last_retested_at_epoch": 1588995124.975947,
+            "last_retested_at_iso": "2020-05-09T03:32:04.975947",
             "status": "INACTIVE"
         },
         "adfarm.mediaplex.com": {
@@ -1403,8 +1403,8 @@
         "www.d1jikhx1ssl81z.cloudfront.net": {
             "included_at_epoch": 1588448858.0,
             "included_at_iso": "2020-05-02T19:47:38",
-            "last_retested_at_epoch": 1588894217.816537,
-            "last_retested_at_iso": "2020-05-07T23:30:17.816537",
+            "last_retested_at_epoch": 1588995285.506265,
+            "last_retested_at_iso": "2020-05-09T03:34:45.506265",
             "status": "INACTIVE"
         },
         "www.d1swklt9res5jr.cloudfront.net": {
