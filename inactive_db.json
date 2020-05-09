@@ -129,8 +129,8 @@
         "ad.imp.joins.com": {
             "included_at_epoch": 1588444584.0,
             "included_at_iso": "2020-05-02T18:36:24",
-            "last_retested_at_epoch": 1588914102.773553,
-            "last_retested_at_iso": "2020-05-08T05:01:42.773553",
+            "last_retested_at_epoch": 1589018040.193756,
+            "last_retested_at_iso": "2020-05-09T09:54:00.193756",
             "status": "INACTIVE"
         },
         "ad.ingfac.co.kr": {
@@ -542,8 +542,8 @@
         "cast.imp.joins.com": {
             "included_at_epoch": 1588444149.0,
             "included_at_iso": "2020-05-02T18:29:09",
-            "last_retested_at_epoch": 1588914015.962778,
-            "last_retested_at_iso": "2020-05-08T05:00:15.962778",
+            "last_retested_at_epoch": 1589018260.354156,
+            "last_retested_at_iso": "2020-05-09T09:57:40.354156",
             "status": "INACTIVE"
         },
         "cdn-sic.33across.com": {
@@ -654,8 +654,8 @@
         "cm2.joins.com": {
             "included_at_epoch": 1588444203.0,
             "included_at_iso": "2020-05-02T18:30:03",
-            "last_retested_at_epoch": 1588913970.234832,
-            "last_retested_at_iso": "2020-05-08T04:59:30.234832",
+            "last_retested_at_epoch": 1589017991.55546,
+            "last_retested_at_iso": "2020-05-09T09:53:11.555460",
             "status": "INACTIVE"
         },
         "cm2.jssearch.net": {
