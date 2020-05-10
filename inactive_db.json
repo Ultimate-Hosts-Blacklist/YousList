@@ -920,8 +920,8 @@
         "mediarichad.com": {
             "included_at_epoch": 1588526337.0,
             "included_at_iso": "2020-05-03T17:18:57",
-            "last_retested_at_epoch": 1589056845.785549,
-            "last_retested_at_iso": "2020-05-09T20:40:45.785549",
+            "last_retested_at_epoch": 1589144295.654731,
+            "last_retested_at_iso": "2020-05-10T20:58:15.654731",
             "status": "INACTIVE"
         },
         "mktag.mt.co.kr": {
@@ -997,8 +997,8 @@
         "op.neoad.co.kr": {
             "included_at_epoch": 1588444443.0,
             "included_at_iso": "2020-05-02T18:34:03",
-            "last_retested_at_epoch": 1589056864.998668,
-            "last_retested_at_iso": "2020-05-09T20:41:04.998668",
+            "last_retested_at_epoch": 1589144259.297494,
+            "last_retested_at_iso": "2020-05-10T20:57:39.297494",
             "status": "INACTIVE"
         },
         "p.lumieyes.com": {
