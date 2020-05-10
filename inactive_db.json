@@ -1158,8 +1158,8 @@
         "serv.ads.pixiv.org": {
             "included_at_epoch": 1588526177.0,
             "included_at_iso": "2020-05-03T17:16:17",
-            "last_retested_at_epoch": 1588999549.673762,
-            "last_retested_at_iso": "2020-05-09T04:45:49.673762",
+            "last_retested_at_epoch": 1589086917.824187,
+            "last_retested_at_iso": "2020-05-10T05:01:57.824187",
             "status": "INACTIVE"
         },
         "sgate.opap.co.kr": {
@@ -1417,8 +1417,8 @@
         "www.d269y12mnftu9c.cloudfront.net": {
             "included_at_epoch": 1588458260.0,
             "included_at_iso": "2020-05-02T22:24:20",
-            "last_retested_at_epoch": 1588999333.236351,
-            "last_retested_at_iso": "2020-05-09T04:42:13.236351",
+            "last_retested_at_epoch": 1589086715.685268,
+            "last_retested_at_iso": "2020-05-10T04:58:35.685268",
             "status": "INACTIVE"
         },
         "www.d2v02itv0y9u9t.cloudfront.net": {
