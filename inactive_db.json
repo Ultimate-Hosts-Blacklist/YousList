@@ -920,8 +920,8 @@
         "mediarichad.com": {
             "included_at_epoch": 1588526337.0,
             "included_at_iso": "2020-05-03T17:18:57",
-            "last_retested_at_epoch": 1589144295.654731,
-            "last_retested_at_iso": "2020-05-10T20:58:15.654731",
+            "last_retested_at_epoch": 1589231044.326178,
+            "last_retested_at_iso": "2020-05-11T21:04:04.326178",
             "status": "INACTIVE"
         },
         "mktag.mt.co.kr": {
