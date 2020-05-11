@@ -129,8 +129,8 @@
         "ad.imp.joins.com": {
             "included_at_epoch": 1588444584.0,
             "included_at_iso": "2020-05-02T18:36:24",
-            "last_retested_at_epoch": 1589105257.09275,
-            "last_retested_at_iso": "2020-05-10T10:07:37.092750",
+            "last_retested_at_epoch": 1589201870.75574,
+            "last_retested_at_iso": "2020-05-11T12:57:50.755740",
             "status": "INACTIVE"
         },
         "ad.ingfac.co.kr": {
@@ -542,8 +542,8 @@
         "cast.imp.joins.com": {
             "included_at_epoch": 1588444149.0,
             "included_at_iso": "2020-05-02T18:29:09",
-            "last_retested_at_epoch": 1589105180.232463,
-            "last_retested_at_iso": "2020-05-10T10:06:20.232463",
+            "last_retested_at_epoch": 1589201891.490002,
+            "last_retested_at_iso": "2020-05-11T12:58:11.490002",
             "status": "INACTIVE"
         },
         "cdn-sic.33across.com": {
@@ -654,8 +654,8 @@
         "cm2.joins.com": {
             "included_at_epoch": 1588444203.0,
             "included_at_iso": "2020-05-02T18:30:03",
-            "last_retested_at_epoch": 1589104919.776518,
-            "last_retested_at_iso": "2020-05-10T10:01:59.776518",
+            "last_retested_at_epoch": 1589201909.417772,
+            "last_retested_at_iso": "2020-05-11T12:58:29.417772",
             "status": "INACTIVE"
         },
         "cm2.jssearch.net": {
@@ -1235,8 +1235,8 @@
         "traffic.adxprts.com": {
             "included_at_epoch": 1571393835.0,
             "included_at_iso": "2019-10-18T10:17:15",
-            "last_retested_at_epoch": 1571393835.0,
-            "last_retested_at_iso": "2019-10-18T10:17:15",
+            "last_retested_at_epoch": 1589202079.022599,
+            "last_retested_at_iso": "2020-05-11T13:01:19.022599",
             "status": "INACTIVE"
         },
         "vse-spravki.bid": {
