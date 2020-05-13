@@ -10,8 +10,8 @@
         "None": {
             "included_at_epoch": 1587518278.0,
             "included_at_iso": "2020-04-22T01:17:58",
-            "last_retested_at_epoch": 1589278867.430924,
-            "last_retested_at_iso": "2020-05-12T10:21:07.430924",
+            "last_retested_at_epoch": 1589405340.673279,
+            "last_retested_at_iso": "2020-05-13T21:29:00.673279",
             "status": "INVALID"
         },
         "a.adtng.com": {
@@ -920,8 +920,8 @@
         "mediarichad.com": {
             "included_at_epoch": 1588526337.0,
             "included_at_iso": "2020-05-03T17:18:57",
-            "last_retested_at_epoch": 1589318620.656851,
-            "last_retested_at_iso": "2020-05-12T21:23:40.656851",
+            "last_retested_at_epoch": 1589405067.373206,
+            "last_retested_at_iso": "2020-05-13T21:24:27.373206",
             "status": "INACTIVE"
         },
         "mktag.mt.co.kr": {
