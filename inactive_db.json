@@ -941,8 +941,8 @@
         "mobi.luxad.net": {
             "included_at_epoch": 1588449005.0,
             "included_at_iso": "2020-05-02T19:50:05",
-            "last_retested_at_epoch": 1589350708.411148,
-            "last_retested_at_iso": "2020-05-13T06:18:28.411148",
+            "last_retested_at_epoch": 1589437399.749859,
+            "last_retested_at_iso": "2020-05-14T06:23:19.749859",
             "status": "INACTIVE"
         },
         "mobs.luxad.kr": {
@@ -1403,8 +1403,8 @@
         "www.d1jikhx1ssl81z.cloudfront.net": {
             "included_at_epoch": 1588448858.0,
             "included_at_iso": "2020-05-02T19:47:38",
-            "last_retested_at_epoch": 1589350695.358252,
-            "last_retested_at_iso": "2020-05-13T06:18:15.358252",
+            "last_retested_at_epoch": 1589437339.981637,
+            "last_retested_at_iso": "2020-05-14T06:22:19.981637",
             "status": "INACTIVE"
         },
         "www.d1swklt9res5jr.cloudfront.net": {
@@ -1417,8 +1417,8 @@
         "www.d269y12mnftu9c.cloudfront.net": {
             "included_at_epoch": 1588458260.0,
             "included_at_iso": "2020-05-02T22:24:20",
-            "last_retested_at_epoch": 1589350914.15554,
-            "last_retested_at_iso": "2020-05-13T06:21:54.155540",
+            "last_retested_at_epoch": 1589437456.019495,
+            "last_retested_at_iso": "2020-05-14T06:24:16.019495",
             "status": "INACTIVE"
         },
         "www.d2v02itv0y9u9t.cloudfront.net": {
