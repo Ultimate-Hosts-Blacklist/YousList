@@ -1158,8 +1158,8 @@
         "serv.ads.pixiv.org": {
             "included_at_epoch": 1588526177.0,
             "included_at_iso": "2020-05-03T17:16:17",
-            "last_retested_at_epoch": 1589351014.072485,
-            "last_retested_at_iso": "2020-05-13T06:23:34.072485",
+            "last_retested_at_epoch": 1589441183.254552,
+            "last_retested_at_iso": "2020-05-14T07:26:23.254552",
             "status": "INACTIVE"
         },
         "sgate.opap.co.kr": {
@@ -1438,8 +1438,8 @@
         "www.d3pkae9owd2lcf.cloudfront.net": {
             "included_at_epoch": 1588444354.0,
             "included_at_iso": "2020-05-02T18:32:34",
-            "last_retested_at_epoch": 1589350986.236724,
-            "last_retested_at_iso": "2020-05-13T06:23:06.236724",
+            "last_retested_at_epoch": 1589440766.254832,
+            "last_retested_at_iso": "2020-05-14T07:19:26.254832",
             "status": "INACTIVE"
         },
         "www.d3u5zn5k9864p0.cloudfront.net": {
@@ -1459,8 +1459,8 @@
         "www.dreamsearch.or.kr": {
             "included_at_epoch": 1588444289.0,
             "included_at_iso": "2020-05-02T18:31:29",
-            "last_retested_at_epoch": 1589350854.095635,
-            "last_retested_at_iso": "2020-05-13T06:20:54.095635",
+            "last_retested_at_epoch": 1589441031.212811,
+            "last_retested_at_iso": "2020-05-14T07:23:51.212811",
             "status": "INACTIVE"
         },
         "www.ebdr3.com": {
