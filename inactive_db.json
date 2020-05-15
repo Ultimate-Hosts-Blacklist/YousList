@@ -1242,8 +1242,8 @@
         "traffic.adxprts.com": {
             "included_at_epoch": 1571393835.0,
             "included_at_iso": "2019-10-18T10:17:15",
-            "last_retested_at_epoch": 1589291785.721188,
-            "last_retested_at_iso": "2020-05-12T13:56:25.721188",
+            "last_retested_at_epoch": 1589547638.276749,
+            "last_retested_at_iso": "2020-05-15T13:00:38.276749",
             "status": "INACTIVE"
         },
         "vse-spravki.bid": {
