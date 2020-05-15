@@ -276,8 +276,8 @@
         "adn.adneo.co.kr": {
             "included_at_epoch": 1588526566.0,
             "included_at_iso": "2020-05-03T17:22:46",
-            "last_retested_at_epoch": 1589413011.535661,
-            "last_retested_at_iso": "2020-05-13T23:36:51.535661",
+            "last_retested_at_epoch": 1589501659.015806,
+            "last_retested_at_iso": "2020-05-15T00:14:19.015806",
             "status": "INACTIVE"
         },
         "adn.inven.co.kr": {
@@ -304,8 +304,8 @@
         "adpingpong.co.kr": {
             "included_at_epoch": 1588526248.0,
             "included_at_iso": "2020-05-03T17:17:28",
-            "last_retested_at_epoch": 1589412967.203608,
-            "last_retested_at_iso": "2020-05-13T23:36:07.203608",
+            "last_retested_at_epoch": 1589501471.343279,
+            "last_retested_at_iso": "2020-05-15T00:11:11.343279",
             "status": "INACTIVE"
         },
         "adpingpong1.co.kr": {
@@ -437,8 +437,8 @@
         "adv.segye.com": {
             "included_at_epoch": 1588529283.0,
             "included_at_iso": "2020-05-03T18:08:03",
-            "last_retested_at_epoch": 1589412443.854198,
-            "last_retested_at_iso": "2020-05-13T23:27:23.854198",
+            "last_retested_at_epoch": 1589501518.978499,
+            "last_retested_at_iso": "2020-05-15T00:11:58.978499",
             "status": "INACTIVE"
         },
         "advimg.ad-mapps.com": {
@@ -514,8 +514,8 @@
         "api.wiseclick.co.kr": {
             "included_at_epoch": 1588444423.0,
             "included_at_iso": "2020-05-02T18:33:43",
-            "last_retested_at_epoch": 1589413009.049558,
-            "last_retested_at_iso": "2020-05-13T23:36:49.049558",
+            "last_retested_at_epoch": 1589501492.991341,
+            "last_retested_at_iso": "2020-05-15T00:11:32.991341",
             "status": "INACTIVE"
         },
         "as.dc.impact-ad.jp": {
@@ -689,8 +689,8 @@
         "cwdata.itplay.co.kr": {
             "included_at_epoch": 1588526607.0,
             "included_at_iso": "2020-05-03T17:23:27",
-            "last_retested_at_epoch": 1589412635.785631,
-            "last_retested_at_iso": "2020-05-13T23:30:35.785631",
+            "last_retested_at_epoch": 1589501828.104428,
+            "last_retested_at_iso": "2020-05-15T00:17:08.104428",
             "status": "INACTIVE"
         },
         "cwdata.itsearch.co.kr": {
@@ -1004,8 +1004,8 @@
         "op.neoad.co.kr": {
             "included_at_epoch": 1588444443.0,
             "included_at_iso": "2020-05-02T18:34:03",
-            "last_retested_at_epoch": 1589413004.665404,
-            "last_retested_at_iso": "2020-05-13T23:36:44.665404",
+            "last_retested_at_epoch": 1589501717.081462,
+            "last_retested_at_iso": "2020-05-15T00:15:17.081462",
             "status": "INACTIVE"
         },
         "p.lumieyes.com": {
@@ -1277,8 +1277,8 @@
         "www.ad.altervista.org": {
             "included_at_epoch": 1588526663.0,
             "included_at_iso": "2020-05-03T17:24:23",
-            "last_retested_at_epoch": 1589412976.440804,
-            "last_retested_at_iso": "2020-05-13T23:36:16.440804",
+            "last_retested_at_epoch": 1589501431.345494,
+            "last_retested_at_iso": "2020-05-15T00:10:31.345494",
             "status": "INACTIVE"
         },
         "www.ad4989.kr": {
@@ -1326,8 +1326,8 @@
         "www.adpingpong.co.kr": {
             "included_at_epoch": 1588526248.0,
             "included_at_iso": "2020-05-03T17:17:28",
-            "last_retested_at_epoch": 1589412967.3788,
-            "last_retested_at_iso": "2020-05-13T23:36:07.378800",
+            "last_retested_at_epoch": 1589501471.893431,
+            "last_retested_at_iso": "2020-05-15T00:11:11.893431",
             "status": "INACTIVE"
         },
         "www.adpingpong1.co.kr": {
@@ -1676,8 +1676,8 @@
         "www.tsyndicate.com": {
             "included_at_epoch": 1588526416.0,
             "included_at_iso": "2020-05-03T17:20:16",
-            "last_retested_at_epoch": 1589412581.850894,
-            "last_retested_at_iso": "2020-05-13T23:29:41.850894",
+            "last_retested_at_epoch": 1589501317.410019,
+            "last_retested_at_iso": "2020-05-15T00:08:37.410019",
             "status": "INACTIVE"
         },
         "www.vse-spravki.bid": {
