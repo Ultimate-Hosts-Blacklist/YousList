@@ -612,8 +612,8 @@
         "cdn04.sndkorea.co.kr": {
             "included_at_epoch": 1588526393.0,
             "included_at_iso": "2020-05-03T17:19:53",
-            "last_retested_at_epoch": 1589433510.604686,
-            "last_retested_at_iso": "2020-05-14T05:18:30.604686",
+            "last_retested_at_epoch": 1589528898.593719,
+            "last_retested_at_iso": "2020-05-15T07:48:18.593719",
             "status": "INACTIVE"
         },
         "celeb.nann.co.kr": {
@@ -892,8 +892,8 @@
         "localhost": {
             "included_at_epoch": 1588448828.0,
             "included_at_iso": "2020-05-02T19:47:08",
-            "last_retested_at_epoch": 1589429736.475273,
-            "last_retested_at_iso": "2020-05-14T04:15:36.475273",
+            "last_retested_at_epoch": 1589528898.708747,
+            "last_retested_at_iso": "2020-05-15T07:48:18.708747",
             "status": "INVALID"
         },
         "log.adtive.com": {
@@ -1165,8 +1165,8 @@
         "serv.ads.pixiv.org": {
             "included_at_epoch": 1588526177.0,
             "included_at_iso": "2020-05-03T17:16:17",
-            "last_retested_at_epoch": 1589441183.254552,
-            "last_retested_at_iso": "2020-05-14T07:26:23.254552",
+            "last_retested_at_epoch": 1589528560.969202,
+            "last_retested_at_iso": "2020-05-15T07:42:40.969202",
             "status": "INACTIVE"
         },
         "sgate.opap.co.kr": {
@@ -1445,8 +1445,8 @@
         "www.d3pkae9owd2lcf.cloudfront.net": {
             "included_at_epoch": 1588444354.0,
             "included_at_iso": "2020-05-02T18:32:34",
-            "last_retested_at_epoch": 1589440766.254832,
-            "last_retested_at_iso": "2020-05-14T07:19:26.254832",
+            "last_retested_at_epoch": 1589528830.857739,
+            "last_retested_at_iso": "2020-05-15T07:47:10.857739",
             "status": "INACTIVE"
         },
         "www.d3u5zn5k9864p0.cloudfront.net": {
@@ -1466,8 +1466,8 @@
         "www.dreamsearch.or.kr": {
             "included_at_epoch": 1588444289.0,
             "included_at_iso": "2020-05-02T18:31:29",
-            "last_retested_at_epoch": 1589441031.212811,
-            "last_retested_at_iso": "2020-05-14T07:23:51.212811",
+            "last_retested_at_epoch": 1589528918.390913,
+            "last_retested_at_iso": "2020-05-15T07:48:38.390913",
             "status": "INACTIVE"
         },
         "www.ebdr3.com": {
