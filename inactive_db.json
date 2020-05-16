@@ -129,8 +129,8 @@
         "ad.imp.joins.com": {
             "included_at_epoch": 1588444584.0,
             "included_at_iso": "2020-05-02T18:36:24",
-            "last_retested_at_epoch": 1589570809.869128,
-            "last_retested_at_iso": "2020-05-15T19:26:49.869128",
+            "last_retested_at_epoch": 1589663342.359104,
+            "last_retested_at_iso": "2020-05-16T21:09:02.359104",
             "status": "INACTIVE"
         },
         "ad.ingfac.co.kr": {
@@ -549,8 +549,8 @@
         "cast.imp.joins.com": {
             "included_at_epoch": 1588444149.0,
             "included_at_iso": "2020-05-02T18:29:09",
-            "last_retested_at_epoch": 1589571176.757578,
-            "last_retested_at_iso": "2020-05-15T19:32:56.757578",
+            "last_retested_at_epoch": 1589663560.082882,
+            "last_retested_at_iso": "2020-05-16T21:12:40.082882",
             "status": "INACTIVE"
         },
         "cdn-sic.33across.com": {
