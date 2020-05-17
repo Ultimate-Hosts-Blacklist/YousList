@@ -87,8 +87,8 @@
         "ad.aeonad.net": {
             "included_at_epoch": 1588453340.0,
             "included_at_iso": "2020-05-02T21:02:20",
-            "last_retested_at_epoch": 1589614258.528416,
-            "last_retested_at_iso": "2020-05-16T07:30:58.528416",
+            "last_retested_at_epoch": 1589709004.21466,
+            "last_retested_at_iso": "2020-05-17T09:50:04.214660",
             "status": "INACTIVE"
         },
         "ad.afy11.net": {
@@ -542,8 +542,8 @@
         "care-health.co.kr": {
             "included_at_epoch": 1588444512.0,
             "included_at_iso": "2020-05-02T18:35:12",
-            "last_retested_at_epoch": 1589614364.499775,
-            "last_retested_at_iso": "2020-05-16T07:32:44.499775",
+            "last_retested_at_epoch": 1589709055.171255,
+            "last_retested_at_iso": "2020-05-17T09:50:55.171255",
             "status": "INACTIVE"
         },
         "cast.imp.joins.com": {
@@ -1382,8 +1382,8 @@
         "www.care-health.co.kr": {
             "included_at_epoch": 1588444513.0,
             "included_at_iso": "2020-05-02T18:35:13",
-            "last_retested_at_epoch": 1589614364.716303,
-            "last_retested_at_iso": "2020-05-16T07:32:44.716303",
+            "last_retested_at_epoch": 1589709055.170128,
+            "last_retested_at_iso": "2020-05-17T09:50:55.170128",
             "status": "INACTIVE"
         },
         "www.clevernt.com": {
