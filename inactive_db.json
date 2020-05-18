@@ -10,8 +10,8 @@
         "None": {
             "included_at_epoch": 1587518278.0,
             "included_at_iso": "2020-04-22T01:17:58",
-            "last_retested_at_epoch": 1589744454.792576,
-            "last_retested_at_iso": "2020-05-17T19:40:54.792576",
+            "last_retested_at_epoch": 1589837581.739567,
+            "last_retested_at_iso": "2020-05-18T21:33:01.739567",
             "status": "INVALID"
         },
         "a.adtng.com": {
@@ -234,8 +234,8 @@
         "adex.adtree.kr": {
             "included_at_epoch": 1589476517.503528,
             "included_at_iso": "2020-05-14T17:15:17.503528",
-            "last_retested_at_epoch": 1589743930.600016,
-            "last_retested_at_iso": "2020-05-17T19:32:10.600016",
+            "last_retested_at_epoch": 1589837309.065824,
+            "last_retested_at_iso": "2020-05-18T21:28:29.065824",
             "status": "INACTIVE"
         },
         "adexview.new-star.co.kr": {
