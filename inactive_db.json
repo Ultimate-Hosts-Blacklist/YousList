@@ -640,8 +640,8 @@
         "cm1.joins.com": {
             "included_at_epoch": 1588472767.0,
             "included_at_iso": "2020-05-03T02:26:07",
-            "last_retested_at_epoch": 1589796402.589828,
-            "last_retested_at_iso": "2020-05-18T10:06:42.589828",
+            "last_retested_at_epoch": 1589893510.905649,
+            "last_retested_at_iso": "2020-05-19T13:05:10.905649",
             "status": "INACTIVE"
         },
         "cm1.jssearch.net": {
@@ -661,8 +661,8 @@
         "cm2.joins.com": {
             "included_at_epoch": 1588444203.0,
             "included_at_iso": "2020-05-02T18:30:03",
-            "last_retested_at_epoch": 1589796356.715057,
-            "last_retested_at_iso": "2020-05-18T10:05:56.715057",
+            "last_retested_at_epoch": 1589893551.029741,
+            "last_retested_at_iso": "2020-05-19T13:05:51.029741",
             "status": "INACTIVE"
         },
         "cm2.jssearch.net": {
