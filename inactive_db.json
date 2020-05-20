@@ -1690,8 +1690,8 @@
         "www.zbnfhsk.com": {
             "included_at_epoch": 1588453339.0,
             "included_at_iso": "2020-05-02T21:02:19",
-            "last_retested_at_epoch": 1589879338.275328,
-            "last_retested_at_iso": "2020-05-19T09:08:58.275328",
+            "last_retested_at_epoch": 1589975353.704152,
+            "last_retested_at_iso": "2020-05-20T11:49:13.704152",
             "status": "INACTIVE"
         },
         "y.one.impact-ad.jp": {
