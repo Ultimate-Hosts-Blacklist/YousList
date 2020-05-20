@@ -80,8 +80,8 @@
         "ad.aeonad.co.kr": {
             "included_at_epoch": 1588526544.0,
             "included_at_iso": "2020-05-03T17:22:24",
-            "last_retested_at_epoch": 1589855593.668336,
-            "last_retested_at_iso": "2020-05-19T02:33:13.668336",
+            "last_retested_at_epoch": 1589946320.08069,
+            "last_retested_at_iso": "2020-05-20T03:45:20.080690",
             "status": "INACTIVE"
         },
         "ad.aeonad.net": {
@@ -794,8 +794,8 @@
         "h.adscope.co.kr": {
             "included_at_epoch": 1588528850.0,
             "included_at_iso": "2020-05-03T18:00:50",
-            "last_retested_at_epoch": 1589855918.627656,
-            "last_retested_at_iso": "2020-05-19T02:38:38.627656",
+            "last_retested_at_epoch": 1589946223.686961,
+            "last_retested_at_iso": "2020-05-20T03:43:43.686961",
             "status": "INACTIVE"
         },
         "im.obel.kr": {
@@ -934,8 +934,8 @@
         "mktag.mt.co.kr": {
             "included_at_epoch": 1588448861.0,
             "included_at_iso": "2020-05-02T19:47:41",
-            "last_retested_at_epoch": 1589855553.892878,
-            "last_retested_at_iso": "2020-05-19T02:32:33.892878",
+            "last_retested_at_epoch": 1589946568.363633,
+            "last_retested_at_iso": "2020-05-20T03:49:28.363633",
             "status": "INACTIVE"
         },
         "mobi.luxad.kr": {
@@ -1606,8 +1606,8 @@
         "www.onshowit.com": {
             "included_at_epoch": 1588526181.0,
             "included_at_iso": "2020-05-03T17:16:21",
-            "last_retested_at_epoch": 1589855495.742237,
-            "last_retested_at_iso": "2020-05-19T02:31:35.742237",
+            "last_retested_at_epoch": 1589946685.772392,
+            "last_retested_at_iso": "2020-05-20T03:51:25.772392",
             "status": "INACTIVE"
         },
         "www.polltest.azurewebsites.net": {
@@ -1676,8 +1676,8 @@
         "www.tsyndicate.com": {
             "included_at_epoch": 1588526416.0,
             "included_at_iso": "2020-05-03T17:20:16",
-            "last_retested_at_epoch": 1589855516.078866,
-            "last_retested_at_iso": "2020-05-19T02:31:56.078866",
+            "last_retested_at_epoch": 1589946174.664474,
+            "last_retested_at_iso": "2020-05-20T03:42:54.664474",
             "status": "INACTIVE"
         },
         "www.vse-spravki.bid": {
