@@ -129,8 +129,8 @@
         "ad.imp.joins.com": {
             "included_at_epoch": 1588444584.0,
             "included_at_iso": "2020-05-02T18:36:24",
-            "last_retested_at_epoch": 1589846735.646377,
-            "last_retested_at_iso": "2020-05-19T00:05:35.646377",
+            "last_retested_at_epoch": 1589941244.112746,
+            "last_retested_at_iso": "2020-05-20T02:20:44.112746",
             "status": "INACTIVE"
         },
         "ad.ingfac.co.kr": {
@@ -276,8 +276,8 @@
         "adn.adneo.co.kr": {
             "included_at_epoch": 1588526566.0,
             "included_at_iso": "2020-05-03T17:22:46",
-            "last_retested_at_epoch": 1589850865.818712,
-            "last_retested_at_iso": "2020-05-19T01:14:25.818712",
+            "last_retested_at_epoch": 1589941549.806044,
+            "last_retested_at_iso": "2020-05-20T02:25:49.806044",
             "status": "INACTIVE"
         },
         "adn.inven.co.kr": {
@@ -304,8 +304,8 @@
         "adpingpong.co.kr": {
             "included_at_epoch": 1588526248.0,
             "included_at_iso": "2020-05-03T17:17:28",
-            "last_retested_at_epoch": 1589851207.068056,
-            "last_retested_at_iso": "2020-05-19T01:20:07.068056",
+            "last_retested_at_epoch": 1589941564.871727,
+            "last_retested_at_iso": "2020-05-20T02:26:04.871727",
             "status": "INACTIVE"
         },
         "adpingpong1.co.kr": {
@@ -437,8 +437,8 @@
         "adv.segye.com": {
             "included_at_epoch": 1588529283.0,
             "included_at_iso": "2020-05-03T18:08:03",
-            "last_retested_at_epoch": 1589851405.856082,
-            "last_retested_at_iso": "2020-05-19T01:23:25.856082",
+            "last_retested_at_epoch": 1589941450.365927,
+            "last_retested_at_iso": "2020-05-20T02:24:10.365927",
             "status": "INACTIVE"
         },
         "advimg.ad-mapps.com": {
@@ -514,8 +514,8 @@
         "api.wiseclick.co.kr": {
             "included_at_epoch": 1588444423.0,
             "included_at_iso": "2020-05-02T18:33:43",
-            "last_retested_at_epoch": 1589851204.609569,
-            "last_retested_at_iso": "2020-05-19T01:20:04.609569",
+            "last_retested_at_epoch": 1589941386.920583,
+            "last_retested_at_iso": "2020-05-20T02:23:06.920583",
             "status": "INACTIVE"
         },
         "as.dc.impact-ad.jp": {
@@ -549,8 +549,8 @@
         "cast.imp.joins.com": {
             "included_at_epoch": 1588444149.0,
             "included_at_iso": "2020-05-02T18:29:09",
-            "last_retested_at_epoch": 1589846702.761321,
-            "last_retested_at_iso": "2020-05-19T00:05:02.761321",
+            "last_retested_at_epoch": 1589941489.958101,
+            "last_retested_at_iso": "2020-05-20T02:24:49.958101",
             "status": "INACTIVE"
         },
         "cdn-sic.33across.com": {
@@ -689,8 +689,8 @@
         "cwdata.itplay.co.kr": {
             "included_at_epoch": 1588526607.0,
             "included_at_iso": "2020-05-03T17:23:27",
-            "last_retested_at_epoch": 1589851085.794803,
-            "last_retested_at_iso": "2020-05-19T01:18:05.794803",
+            "last_retested_at_epoch": 1589941041.636029,
+            "last_retested_at_iso": "2020-05-20T02:17:21.636029",
             "status": "INACTIVE"
         },
         "cwdata.itsearch.co.kr": {
@@ -1004,8 +1004,8 @@
         "op.neoad.co.kr": {
             "included_at_epoch": 1588444443.0,
             "included_at_iso": "2020-05-02T18:34:03",
-            "last_retested_at_epoch": 1589851137.863999,
-            "last_retested_at_iso": "2020-05-19T01:18:57.863999",
+            "last_retested_at_epoch": 1589941510.174442,
+            "last_retested_at_iso": "2020-05-20T02:25:10.174442",
             "status": "INACTIVE"
         },
         "p.lumieyes.com": {
@@ -1326,8 +1326,8 @@
         "www.adpingpong.co.kr": {
             "included_at_epoch": 1588526248.0,
             "included_at_iso": "2020-05-03T17:17:28",
-            "last_retested_at_epoch": 1589851207.232571,
-            "last_retested_at_iso": "2020-05-19T01:20:07.232571",
+            "last_retested_at_epoch": 1589941565.202917,
+            "last_retested_at_iso": "2020-05-20T02:26:05.202917",
             "status": "INACTIVE"
         },
         "www.adpingpong1.co.kr": {
