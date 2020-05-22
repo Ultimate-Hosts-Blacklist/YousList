@@ -24,8 +24,8 @@
         "a.komoona.com": {
             "included_at_epoch": 1588449173.0,
             "included_at_iso": "2020-05-02T19:52:53",
-            "last_retested_at_epoch": 1590062771.163744,
-            "last_retested_at_iso": "2020-05-21T12:06:11.163744",
+            "last_retested_at_epoch": 1590150473.222841,
+            "last_retested_at_iso": "2020-05-22T12:27:53.222841",
             "status": "INACTIVE"
         },
         "a.wyzmob.com": {
@@ -255,8 +255,8 @@
         "adimg1.adinc.co.kr": {
             "included_at_epoch": 1588449172.0,
             "included_at_iso": "2020-05-02T19:52:52",
-            "last_retested_at_epoch": 1590062782.578428,
-            "last_retested_at_iso": "2020-05-21T12:06:22.578428",
+            "last_retested_at_epoch": 1590150591.945577,
+            "last_retested_at_iso": "2020-05-22T12:29:51.945577",
             "status": "INACTIVE"
         },
         "adixs-ad.co.kr": {
@@ -612,8 +612,8 @@
         "cdn04.sndkorea.co.kr": {
             "included_at_epoch": 1588526393.0,
             "included_at_iso": "2020-05-03T17:19:53",
-            "last_retested_at_epoch": 1590057807.620856,
-            "last_retested_at_iso": "2020-05-21T10:43:27.620856",
+            "last_retested_at_epoch": 1590150777.703235,
+            "last_retested_at_iso": "2020-05-22T12:32:57.703235",
             "status": "INACTIVE"
         },
         "celeb.nann.co.kr": {
@@ -948,8 +948,8 @@
         "mobi.luxad.net": {
             "included_at_epoch": 1588449005.0,
             "included_at_iso": "2020-05-02T19:50:05",
-            "last_retested_at_epoch": 1590062827.954444,
-            "last_retested_at_iso": "2020-05-21T12:07:07.954444",
+            "last_retested_at_epoch": 1590150651.023346,
+            "last_retested_at_iso": "2020-05-22T12:30:51.023346",
             "status": "INACTIVE"
         },
         "mobs.luxad.kr": {
@@ -1291,8 +1291,8 @@
         "www.ad999.biz": {
             "included_at_epoch": 1588444122.0,
             "included_at_iso": "2020-05-02T18:28:42",
-            "last_retested_at_epoch": 1590062707.698279,
-            "last_retested_at_iso": "2020-05-21T12:05:07.698279",
+            "last_retested_at_epoch": 1590150325.470789,
+            "last_retested_at_iso": "2020-05-22T12:25:25.470789",
             "status": "INACTIVE"
         },
         "www.adclickservice.com": {
@@ -1690,8 +1690,8 @@
         "www.zbnfhsk.com": {
             "included_at_epoch": 1588453339.0,
             "included_at_iso": "2020-05-02T21:02:19",
-            "last_retested_at_epoch": 1590062585.989314,
-            "last_retested_at_iso": "2020-05-21T12:03:05.989314",
+            "last_retested_at_epoch": 1590150711.163861,
+            "last_retested_at_iso": "2020-05-22T12:31:51.163861",
             "status": "INACTIVE"
         },
         "y.one.impact-ad.jp": {
