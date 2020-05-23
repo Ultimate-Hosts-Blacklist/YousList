@@ -549,8 +549,8 @@
         "cast.imp.joins.com": {
             "included_at_epoch": 1588444149.0,
             "included_at_iso": "2020-05-02T18:29:09",
-            "last_retested_at_epoch": 1590164574.175454,
-            "last_retested_at_iso": "2020-05-22T16:22:54.175454",
+            "last_retested_at_epoch": 1590275382.134771,
+            "last_retested_at_iso": "2020-05-23T23:09:42.134771",
             "status": "INACTIVE"
         },
         "cdn-sic.33across.com": {
@@ -726,6 +726,13 @@
             "included_at_iso": "2020-05-02T19:46:34",
             "last_retested_at_epoch": 1590231869.021244,
             "last_retested_at_iso": "2020-05-23T11:04:29.021244",
+            "status": "INACTIVE"
+        },
+        "d3pkae9owd2lcf.cloudfront.net": {
+            "included_at_epoch": 1590275066.383289,
+            "included_at_iso": "2020-05-23T23:04:26.383289",
+            "last_retested_at_epoch": 1590275066.383289,
+            "last_retested_at_iso": "2020-05-23T23:04:26.383289",
             "status": "INACTIVE"
         },
         "dev.ezadsystem.com": {
