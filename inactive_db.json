@@ -66,8 +66,8 @@
         "ad.adlike.co.kr": {
             "included_at_epoch": 1588444233.0,
             "included_at_iso": "2020-05-02T18:30:33",
-            "last_retested_at_epoch": 1590140202.731506,
-            "last_retested_at_iso": "2020-05-22T09:36:42.731506",
+            "last_retested_at_epoch": 1590242588.86606,
+            "last_retested_at_iso": "2020-05-23T14:03:08.866060",
             "status": "INACTIVE"
         },
         "ad.adop.co.kr": {
@@ -731,8 +731,8 @@
         "dev.ezadsystem.com": {
             "included_at_epoch": 1588526554.0,
             "included_at_iso": "2020-05-03T17:22:34",
-            "last_retested_at_epoch": 1590155606.041756,
-            "last_retested_at_iso": "2020-05-22T13:53:26.041756",
+            "last_retested_at_epoch": 1590242387.196732,
+            "last_retested_at_iso": "2020-05-23T13:59:47.196732",
             "status": "INACTIVE"
         },
         "engine.adzerk.net": {
