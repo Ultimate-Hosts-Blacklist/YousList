@@ -24,8 +24,8 @@
         "a.komoona.com": {
             "included_at_epoch": 1588449173.0,
             "included_at_iso": "2020-05-02T19:52:53",
-            "last_retested_at_epoch": 1590239000.864903,
-            "last_retested_at_iso": "2020-05-23T13:03:20.864903",
+            "last_retested_at_epoch": 1590333299.007595,
+            "last_retested_at_iso": "2020-05-24T15:14:59.007595",
             "status": "INACTIVE"
         },
         "a.wyzmob.com": {
@@ -66,8 +66,8 @@
         "ad.adlike.co.kr": {
             "included_at_epoch": 1588444233.0,
             "included_at_iso": "2020-05-02T18:30:33",
-            "last_retested_at_epoch": 1590242588.86606,
-            "last_retested_at_iso": "2020-05-23T14:03:08.866060",
+            "last_retested_at_epoch": 1590333341.580104,
+            "last_retested_at_iso": "2020-05-24T15:15:41.580104",
             "status": "INACTIVE"
         },
         "ad.adop.co.kr": {
@@ -157,8 +157,8 @@
         "ad.openmatch.co.kr": {
             "included_at_epoch": 1588444337.0,
             "included_at_iso": "2020-05-02T18:32:17",
-            "last_retested_at_epoch": 1590235214.938722,
-            "last_retested_at_iso": "2020-05-23T12:00:14.938722",
+            "last_retested_at_epoch": 1590333514.607369,
+            "last_retested_at_iso": "2020-05-24T15:18:34.607369",
             "status": "INACTIVE"
         },
         "ad.owra.net": {
@@ -1375,8 +1375,8 @@
         "www.amazon-adsystem.com": {
             "included_at_epoch": 1588526357.0,
             "included_at_iso": "2020-05-03T17:19:17",
-            "last_retested_at_epoch": 1590235281.493285,
-            "last_retested_at_iso": "2020-05-23T12:01:21.493285",
+            "last_retested_at_epoch": 1590333092.341244,
+            "last_retested_at_iso": "2020-05-24T15:11:32.341244",
             "status": "INACTIVE"
         },
         "www.bayabar.com": {
@@ -1438,8 +1438,8 @@
         "www.d2v02itv0y9u9t.cloudfront.net": {
             "included_at_epoch": 1588526244.0,
             "included_at_iso": "2020-05-03T17:17:24",
-            "last_retested_at_epoch": 1590235533.206794,
-            "last_retested_at_iso": "2020-05-23T12:05:33.206794",
+            "last_retested_at_epoch": 1590333163.416323,
+            "last_retested_at_iso": "2020-05-24T15:12:43.416323",
             "status": "INACTIVE"
         },
         "www.d3oep4gb91kpuv.cloudfront.net": {
