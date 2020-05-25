@@ -549,8 +549,8 @@
         "cast.imp.joins.com": {
             "included_at_epoch": 1588444149.0,
             "included_at_iso": "2020-05-02T18:29:09",
-            "last_retested_at_epoch": 1590275382.134771,
-            "last_retested_at_iso": "2020-05-23T23:09:42.134771",
+            "last_retested_at_epoch": 1590388481.07058,
+            "last_retested_at_iso": "2020-05-25T06:34:41.070580",
             "status": "INACTIVE"
         },
         "cdn-sic.33across.com": {
