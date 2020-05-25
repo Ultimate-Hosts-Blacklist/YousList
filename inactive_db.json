@@ -731,8 +731,8 @@
         "d3pkae9owd2lcf.cloudfront.net": {
             "included_at_epoch": 1590275066.383289,
             "included_at_iso": "2020-05-23T23:04:26.383289",
-            "last_retested_at_epoch": 1590275066.383289,
-            "last_retested_at_iso": "2020-05-23T23:04:26.383289",
+            "last_retested_at_epoch": 1590364801.090006,
+            "last_retested_at_iso": "2020-05-25T00:00:01.090006",
             "status": "INACTIVE"
         },
         "dev.ezadsystem.com": {
