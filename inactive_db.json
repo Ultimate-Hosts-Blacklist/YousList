@@ -24,8 +24,8 @@
         "a.komoona.com": {
             "included_at_epoch": 1588449173.0,
             "included_at_iso": "2020-05-02T19:52:53",
-            "last_retested_at_epoch": 1590421911.034805,
-            "last_retested_at_iso": "2020-05-25T15:51:51.034805",
+            "last_retested_at_epoch": 1590509453.08659,
+            "last_retested_at_iso": "2020-05-26T16:10:53.086590",
             "status": "INACTIVE"
         },
         "a.wyzmob.com": {
@@ -59,15 +59,15 @@
         "ad.adixs.co.kr": {
             "included_at_epoch": 1588448702.0,
             "included_at_iso": "2020-05-02T19:45:02",
-            "last_retested_at_epoch": 1590416714.275114,
-            "last_retested_at_iso": "2020-05-25T14:25:14.275114",
+            "last_retested_at_epoch": 1590509572.902889,
+            "last_retested_at_iso": "2020-05-26T16:12:52.902889",
             "status": "INACTIVE"
         },
         "ad.adlike.co.kr": {
             "included_at_epoch": 1588444233.0,
             "included_at_iso": "2020-05-02T18:30:33",
-            "last_retested_at_epoch": 1590421836.624587,
-            "last_retested_at_iso": "2020-05-25T15:50:36.624587",
+            "last_retested_at_epoch": 1590509471.062023,
+            "last_retested_at_iso": "2020-05-26T16:11:11.062023",
             "status": "INACTIVE"
         },
         "ad.adop.co.kr": {
@@ -157,8 +157,8 @@
         "ad.openmatch.co.kr": {
             "included_at_epoch": 1588444337.0,
             "included_at_iso": "2020-05-02T18:32:17",
-            "last_retested_at_epoch": 1590421491.368101,
-            "last_retested_at_iso": "2020-05-25T15:44:51.368101",
+            "last_retested_at_epoch": 1590509610.729462,
+            "last_retested_at_iso": "2020-05-26T16:13:30.729462",
             "status": "INACTIVE"
         },
         "ad.owra.net": {
@@ -213,8 +213,8 @@
         "ad4989.kr": {
             "included_at_epoch": 1588449051.0,
             "included_at_iso": "2020-05-02T19:50:51",
-            "last_retested_at_epoch": 1590416491.447532,
-            "last_retested_at_iso": "2020-05-25T14:21:31.447532",
+            "last_retested_at_epoch": 1590509918.110074,
+            "last_retested_at_iso": "2020-05-26T16:18:38.110074",
             "status": "INACTIVE"
         },
         "adcreative.hani.naver.net": {
@@ -248,8 +248,8 @@
         "adfarm.mediaplex.com": {
             "included_at_epoch": 1588453400.0,
             "included_at_iso": "2020-05-02T21:03:20",
-            "last_retested_at_epoch": 1590416826.829292,
-            "last_retested_at_iso": "2020-05-25T14:27:06.829292",
+            "last_retested_at_epoch": 1590509852.852893,
+            "last_retested_at_iso": "2020-05-26T16:17:32.852893",
             "status": "INACTIVE"
         },
         "adimg1.adinc.co.kr": {
@@ -1291,8 +1291,8 @@
         "www.ad4989.kr": {
             "included_at_epoch": 1588449051.0,
             "included_at_iso": "2020-05-02T19:50:51",
-            "last_retested_at_epoch": 1590416491.793536,
-            "last_retested_at_iso": "2020-05-25T14:21:31.793536",
+            "last_retested_at_epoch": 1590509918.654358,
+            "last_retested_at_iso": "2020-05-26T16:18:38.654358",
             "status": "INACTIVE"
         },
         "www.ad999.biz": {
@@ -1375,8 +1375,8 @@
         "www.amazon-adsystem.com": {
             "included_at_epoch": 1588526357.0,
             "included_at_iso": "2020-05-03T17:19:17",
-            "last_retested_at_epoch": 1590421979.649039,
-            "last_retested_at_iso": "2020-05-25T15:52:59.649039",
+            "last_retested_at_epoch": 1590509633.94295,
+            "last_retested_at_iso": "2020-05-26T16:13:53.942950",
             "status": "INACTIVE"
         },
         "www.bayabar.com": {
@@ -1438,8 +1438,8 @@
         "www.d2v02itv0y9u9t.cloudfront.net": {
             "included_at_epoch": 1588526244.0,
             "included_at_iso": "2020-05-03T17:17:24",
-            "last_retested_at_epoch": 1590421486.119733,
-            "last_retested_at_iso": "2020-05-25T15:44:46.119733",
+            "last_retested_at_epoch": 1590509597.155879,
+            "last_retested_at_iso": "2020-05-26T16:13:17.155879",
             "status": "INACTIVE"
         },
         "www.d3oep4gb91kpuv.cloudfront.net": {
