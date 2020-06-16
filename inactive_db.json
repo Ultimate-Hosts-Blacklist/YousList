@@ -10,8 +10,8 @@
         "None": {
             "included_at_epoch": 1587518278.0,
             "included_at_iso": "2020-04-22T01:17:58",
-            "last_retested_at_epoch": 1592165504.083112,
-            "last_retested_at_iso": "2020-06-14T20:11:44.083112",
+            "last_retested_at_epoch": 1592340769.153805,
+            "last_retested_at_iso": "2020-06-16T20:52:49.153805",
             "status": "INVALID"
         },
         "a.adtng.com": {
@@ -136,8 +136,8 @@
         "ad.imp.joins.com": {
             "included_at_epoch": 1588444584.0,
             "included_at_iso": "2020-05-02T18:36:24",
-            "last_retested_at_epoch": 1592165099.551462,
-            "last_retested_at_iso": "2020-06-14T20:04:59.551462",
+            "last_retested_at_epoch": 1592340199.859635,
+            "last_retested_at_iso": "2020-06-16T20:43:19.859635",
             "status": "INACTIVE"
         },
         "ad.ingfac.co.kr": {
@@ -563,8 +563,8 @@
         "cast.imp.joins.com": {
             "included_at_epoch": 1588444149.0,
             "included_at_iso": "2020-05-02T18:29:09",
-            "last_retested_at_epoch": 1592165044.072695,
-            "last_retested_at_iso": "2020-06-14T20:04:04.072695",
+            "last_retested_at_epoch": 1592340641.35138,
+            "last_retested_at_iso": "2020-06-16T20:50:41.351380",
             "status": "INACTIVE"
         },
         "cdn-sic.33across.com": {
@@ -661,8 +661,8 @@
         "cm1.joins.com": {
             "included_at_epoch": 1588472767.0,
             "included_at_iso": "2020-05-03T02:26:07",
-            "last_retested_at_epoch": 1592165191.461997,
-            "last_retested_at_iso": "2020-06-14T20:06:31.461997",
+            "last_retested_at_epoch": 1592340173.346168,
+            "last_retested_at_iso": "2020-06-16T20:42:53.346168",
             "status": "INACTIVE"
         },
         "cm1.jssearch.net": {
@@ -682,8 +682,8 @@
         "cm2.joins.com": {
             "included_at_epoch": 1588444203.0,
             "included_at_iso": "2020-05-02T18:30:03",
-            "last_retested_at_epoch": 1592165346.101192,
-            "last_retested_at_iso": "2020-06-14T20:09:06.101192",
+            "last_retested_at_epoch": 1592340142.267193,
+            "last_retested_at_iso": "2020-06-16T20:42:22.267193",
             "status": "INACTIVE"
         },
         "cm2.jssearch.net": {
