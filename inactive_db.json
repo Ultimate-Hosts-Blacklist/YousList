@@ -10,8 +10,8 @@
         "None": {
             "included_at_epoch": 1587518278.0,
             "included_at_iso": "2020-04-22T01:17:58",
-            "last_retested_at_epoch": 1592739950.551538,
-            "last_retested_at_iso": "2020-06-21T11:45:50.551538",
+            "last_retested_at_epoch": 1592869352.491503,
+            "last_retested_at_iso": "2020-06-22T23:42:32.491503",
             "status": "INVALID"
         },
         "a.adtng.com": {
@@ -773,8 +773,8 @@
         "dsp.adzon.net": {
             "included_at_epoch": 1592782093.624504,
             "included_at_iso": "2020-06-21T23:28:13.624504",
-            "last_retested_at_epoch": 1592782093.624504,
-            "last_retested_at_iso": "2020-06-21T23:28:13.624504",
+            "last_retested_at_epoch": 1592869255.803664,
+            "last_retested_at_iso": "2020-06-22T23:40:55.803664",
             "status": "INACTIVE"
         },
         "engine.adzerk.net": {
