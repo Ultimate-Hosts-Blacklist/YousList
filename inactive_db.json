@@ -1029,6 +1029,13 @@
             "last_retested_at_iso": "2020-06-29T19:42:07.181925",
             "status": "INACTIVE"
         },
+        "newsbanner.co.kr": {
+            "included_at_epoch": 1593515703.241036,
+            "included_at_iso": "2020-06-30T11:15:03.241036",
+            "last_retested_at_epoch": 1593515703.241036,
+            "last_retested_at_iso": "2020-06-30T11:15:03.241036",
+            "status": "INACTIVE"
+        },
         "nscreen.neoebiz.co.kr": {
             "included_at_epoch": 1574338663.0,
             "included_at_iso": "2019-11-21T12:17:43",
