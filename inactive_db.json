@@ -136,8 +136,8 @@
         "ad.imp.joins.com": {
             "included_at_epoch": 1588444584.0,
             "included_at_iso": "2020-05-02T18:36:24",
-            "last_retested_at_epoch": 1594898758.130567,
-            "last_retested_at_iso": "2020-07-16T11:25:58.130567",
+            "last_retested_at_epoch": 1595071337.288167,
+            "last_retested_at_iso": "2020-07-18T11:22:17.288167",
             "status": "INACTIVE"
         },
         "ad.ingfac.co.kr": {
@@ -178,8 +178,8 @@
         "ad.pentabox.net": {
             "included_at_epoch": 1587037239.0,
             "included_at_iso": "2020-04-16T11:40:39",
-            "last_retested_at_epoch": 1587037239.0,
-            "last_retested_at_iso": "2020-04-16T11:40:39",
+            "last_retested_at_epoch": 1595071235.34489,
+            "last_retested_at_iso": "2020-07-18T11:20:35.344890",
             "status": "INACTIVE"
         },
         "ad.pickple.net": {
@@ -563,8 +563,8 @@
         "cast.imp.joins.com": {
             "included_at_epoch": 1588444149.0,
             "included_at_iso": "2020-05-02T18:29:09",
-            "last_retested_at_epoch": 1594898589.616983,
-            "last_retested_at_iso": "2020-07-16T11:23:09.616983",
+            "last_retested_at_epoch": 1595071124.560727,
+            "last_retested_at_iso": "2020-07-18T11:18:44.560727",
             "status": "INACTIVE"
         },
         "cdn-sic.33across.com": {
@@ -661,8 +661,8 @@
         "cm1.joins.com": {
             "included_at_epoch": 1588472767.0,
             "included_at_iso": "2020-05-03T02:26:07",
-            "last_retested_at_epoch": 1594898629.432814,
-            "last_retested_at_iso": "2020-07-16T11:23:49.432814",
+            "last_retested_at_epoch": 1595071246.30028,
+            "last_retested_at_iso": "2020-07-18T11:20:46.300280",
             "status": "INACTIVE"
         },
         "cm1.jssearch.net": {
@@ -682,8 +682,8 @@
         "cm2.joins.com": {
             "included_at_epoch": 1588444203.0,
             "included_at_iso": "2020-05-02T18:30:03",
-            "last_retested_at_epoch": 1594898788.086824,
-            "last_retested_at_iso": "2020-07-16T11:26:28.086824",
+            "last_retested_at_epoch": 1595071270.703324,
+            "last_retested_at_iso": "2020-07-18T11:21:10.703324",
             "status": "INACTIVE"
         },
         "cm2.jssearch.net": {
@@ -1592,8 +1592,8 @@
         "www.ilikeview.com": {
             "included_at_epoch": 1586663488.0,
             "included_at_iso": "2020-04-12T03:51:28",
-            "last_retested_at_epoch": 1594985025.365896,
-            "last_retested_at_iso": "2020-07-17T11:23:45.365896",
+            "last_retested_at_epoch": 1595071450.917783,
+            "last_retested_at_iso": "2020-07-18T11:24:10.917783",
             "status": "INACTIVE"
         },
         "www.joy-adstore.co.kr": {
