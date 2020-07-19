@@ -178,8 +178,8 @@
         "ad.pentabox.net": {
             "included_at_epoch": 1587037239.0,
             "included_at_iso": "2020-04-16T11:40:39",
-            "last_retested_at_epoch": 1595071235.34489,
-            "last_retested_at_iso": "2020-07-18T11:20:35.344890",
+            "last_retested_at_epoch": 1595158126.767112,
+            "last_retested_at_iso": "2020-07-19T11:28:46.767112",
             "status": "INACTIVE"
         },
         "ad.pickple.net": {
@@ -1592,8 +1592,8 @@
         "www.ilikeview.com": {
             "included_at_epoch": 1586663488.0,
             "included_at_iso": "2020-04-12T03:51:28",
-            "last_retested_at_epoch": 1595071450.917783,
-            "last_retested_at_iso": "2020-07-18T11:24:10.917783",
+            "last_retested_at_epoch": 1595158151.065911,
+            "last_retested_at_iso": "2020-07-19T11:29:11.065911",
             "status": "INACTIVE"
         },
         "www.joy-adstore.co.kr": {
