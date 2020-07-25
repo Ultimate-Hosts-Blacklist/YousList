@@ -1,5 +1,19 @@
 {
-    "currently_under_test": false,
+    "current_stats": {
+        "builds": 1,
+        "counter": {
+            "down": 0,
+            "invalid": 0,
+            "malicious": 0,
+            "sane": 0,
+            "tested": 0,
+            "up": 0,
+            "valid": 0
+        },
+        "volatile.list": 625,
+        "whitelisted.list": 625
+    },
+    "currently_under_test": true,
     "days_until_next_test": 2,
     "end_datetime": "2020-03-04T10:58:08.698218",
     "end_epoch": 1583239042.079198,
@@ -25,6 +39,6 @@
         "whitelisted.list": 625
     },
     "raw_link": "https://raw.githubusercontent.com/yous/YousList/master/hosts.txt",
-    "start_datetime": "2020-07-23T20:10:17.544170",
-    "start_epoch": 1595535017.54417
+    "start_datetime": "2020-07-25T20:12:15.997562",
+    "start_epoch": 1595707935.997562
 }
