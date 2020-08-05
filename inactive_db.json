@@ -1225,6 +1225,13 @@
             "last_retested_at_iso": "2020-08-04T11:35:33.558012",
             "status": "INACTIVE"
         },
+        "serving.adbetclickin.pink": {
+            "included_at_epoch": 1596625979.169623,
+            "included_at_iso": "2020-08-05T11:12:59.169623",
+            "last_retested_at_epoch": 1596625979.169623,
+            "last_retested_at_iso": "2020-08-05T11:12:59.169623",
+            "status": "INACTIVE"
+        },
         "sgate.opap.co.kr": {
             "included_at_epoch": 1588481607.0,
             "included_at_iso": "2020-05-03T04:53:27",
