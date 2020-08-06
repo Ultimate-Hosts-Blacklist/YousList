@@ -136,8 +136,8 @@
         "ad.imp.joins.com": {
             "included_at_epoch": 1588444584.0,
             "included_at_iso": "2020-05-02T18:36:24",
-            "last_retested_at_epoch": 1596411394.358641,
-            "last_retested_at_iso": "2020-08-02T23:36:34.358641",
+            "last_retested_at_epoch": 1596712497.788397,
+            "last_retested_at_iso": "2020-08-06T11:14:57.788397",
             "status": "INACTIVE"
         },
         "ad.ingfac.co.kr": {
@@ -563,8 +563,8 @@
         "cast.imp.joins.com": {
             "included_at_epoch": 1588444149.0,
             "included_at_iso": "2020-05-02T18:29:09",
-            "last_retested_at_epoch": 1596411037.590707,
-            "last_retested_at_iso": "2020-08-02T23:30:37.590707",
+            "last_retested_at_epoch": 1596712583.31894,
+            "last_retested_at_iso": "2020-08-06T11:16:23.318940",
             "status": "INACTIVE"
         },
         "cdn-sic.33across.com": {
@@ -661,8 +661,8 @@
         "cm1.joins.com": {
             "included_at_epoch": 1588472767.0,
             "included_at_iso": "2020-05-03T02:26:07",
-            "last_retested_at_epoch": 1596411068.333846,
-            "last_retested_at_iso": "2020-08-02T23:31:08.333846",
+            "last_retested_at_epoch": 1596712838.502149,
+            "last_retested_at_iso": "2020-08-06T11:20:38.502149",
             "status": "INACTIVE"
         },
         "cm1.jssearch.net": {
@@ -682,8 +682,8 @@
         "cm2.joins.com": {
             "included_at_epoch": 1588444203.0,
             "included_at_iso": "2020-05-02T18:30:03",
-            "last_retested_at_epoch": 1596411332.945156,
-            "last_retested_at_iso": "2020-08-02T23:35:32.945156",
+            "last_retested_at_epoch": 1596712652.265005,
+            "last_retested_at_iso": "2020-08-06T11:17:32.265005",
             "status": "INACTIVE"
         },
         "cm2.jssearch.net": {
@@ -1228,8 +1228,8 @@
         "serving.adbetclickin.pink": {
             "included_at_epoch": 1596625979.169623,
             "included_at_iso": "2020-08-05T11:12:59.169623",
-            "last_retested_at_epoch": 1596625979.169623,
-            "last_retested_at_iso": "2020-08-05T11:12:59.169623",
+            "last_retested_at_epoch": 1596712697.190925,
+            "last_retested_at_iso": "2020-08-06T11:18:17.190925",
             "status": "INACTIVE"
         },
         "sgate.opap.co.kr": {
