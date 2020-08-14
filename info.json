@@ -10,7 +10,7 @@
     "name": "YousList",
     "previous_stats": {
         "builds": 1,
-        "clean_list": 629,
+        "clean_list": 630,
         "counter": {
             "down": 0,
             "invalid": 0,
@@ -20,11 +20,11 @@
             "up": 0,
             "valid": 0
         },
-        "domains.list": 669,
-        "volatile.list": 625,
-        "whitelisted.list": 625
+        "domains.list": 670,
+        "volatile.list": 626,
+        "whitelisted.list": 626
     },
     "raw_link": "https://raw.githubusercontent.com/yous/YousList/master/hosts.txt",
-    "start_datetime": "2020-08-12T21:16:10.943447",
-    "start_epoch": 1597266970.943447
+    "start_datetime": "2020-08-14T20:39:41.874615",
+    "start_epoch": 1597437581.874615
 }
