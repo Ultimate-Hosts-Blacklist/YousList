@@ -90,8 +90,8 @@
         "state": "future"
     },
     "adtradradservices.com": {
-        "epoch": 1599091200.0,
-        "expiration_date": "03-sep-2020",
+        "epoch": 1630627200.0,
+        "expiration_date": "03-sep-2021",
         "state": "future"
     },
     "am15.net": {
@@ -227,6 +227,16 @@
     "kodcad.kr": {
         "epoch": 1599264000.0,
         "expiration_date": "05-sep-2020",
+        "state": "future"
+    },
+    "lorybnfh.com": {
+        "epoch": 1623974400.0,
+        "expiration_date": "18-jun-2021",
+        "state": "future"
+    },
+    "madspmz.com": {
+        "epoch": 1610841600.0,
+        "expiration_date": "17-jan-2021",
         "state": "future"
     },
     "magento-analytics.com": {
