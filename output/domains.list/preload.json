@@ -1,0 +1,15 @@
+{
+    "abs_source": "/home/runner/work/YousList/YousList/domains.list",
+    "checker_type": "AVAILABILITY",
+    "destination": "domains.list",
+    "hash": "43bb8375cb404ef8ff48a8374f3eac88c0829074ad1e175c628f22b3",
+    "line_number": 1518,
+    "output_dir": "/home/runner/work/YousList/YousList/output/domains.list",
+    "previous_hash": "43bb8375cb404ef8ff48a8374f3eac88c0829074ad1e175c628f22b3",
+    "rel_source": "domains.list",
+    "session_id": "da62288be707126e77fd4b22",
+    "source": "/home/runner/work/YousList/YousList/domains.list",
+    "subject": "/home/runner/work/YousList/YousList/domains.list",
+    "subject_type": "domain",
+    "type": "file"
+}
