@@ -1,6 +1,4 @@
 idna_subject,checker_type,destination,tested_at
-ps.ns-cdn.com,AVAILABILITY,domains.list,2021-04-10 00:57:10.752981
-ads.tlvmedia.com,AVAILABILITY,domains.list,2021-04-10 00:58:30.442446
 pq-direct.revsci.net,AVAILABILITY,domains.list,2021-04-10 12:34:40.114573
 polltest.azurewebsites.net,AVAILABILITY,domains.list,2021-04-10 12:36:12.899228
 www.mediamixad.com,AVAILABILITY,domains.list,2021-04-10 12:36:13.544290
@@ -181,3 +179,5 @@ www.tsyndicate.com,AVAILABILITY,domains.list,2021-04-10 12:44:30.509954
 you.claremedia.co.kr,AVAILABILITY,domains.list,2021-04-10 12:44:32.410841
 www.vse-spravki.bid,AVAILABILITY,domains.list,2021-04-10 12:44:33.236494
 www.ad-playstore.com,AVAILABILITY,domains.list,2021-04-10 12:44:33.664480
+pd4-imp.revsci.net,AVAILABILITY,domains.list,2021-04-11 12:33:12.524332
+ads.tlvmedia.com,AVAILABILITY,domains.list,2021-04-11 12:34:54.202981
