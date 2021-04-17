@@ -1,6 +1,4 @@
 idna_subject,checker_type,destination,tested_at
-exttag.about.co.kr,AVAILABILITY,domains.list,2021-04-16 00:55:25.701570
-ads.tlvmedia.com,AVAILABILITY,domains.list,2021-04-16 01:01:11.448668
 pub.adpnut.com,AVAILABILITY,domains.list,2021-04-16 12:40:13.532039
 scripts.chitika.net,AVAILABILITY,domains.list,2021-04-16 12:43:31.046656
 polltest.azurewebsites.net,AVAILABILITY,domains.list,2021-04-16 12:43:32.016876
@@ -185,3 +183,5 @@ www.ad-playstore.com,AVAILABILITY,domains.list,2021-04-16 12:51:53.465727
 ad.wowtv.co.kr,AVAILABILITY,domains.list,2021-04-16 12:51:56.814030
 pq-direct.revsci.net,AVAILABILITY,domains.list,2021-04-17 00:59:00.723578
 ps.ns-cdn.com,AVAILABILITY,domains.list,2021-04-17 00:59:02.385435
+pd4-imp.revsci.net,AVAILABILITY,domains.list,2021-04-17 12:39:34.129725
+ads.tlvmedia.com,AVAILABILITY,domains.list,2021-04-17 12:42:24.085155
