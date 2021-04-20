@@ -1,5 +1,4 @@
 idna_subject,checker_type,destination,tested_at
-ads.tlvmedia.com,AVAILABILITY,domains.list,2021-04-19 00:57:35.191505
 pub.adpnut.com,AVAILABILITY,domains.list,2021-04-19 12:47:16.855103
 polltest.azurewebsites.net,AVAILABILITY,domains.list,2021-04-19 12:47:17.510763
 www.mediamixad.com,AVAILABILITY,domains.list,2021-04-19 12:47:18.045552
@@ -183,3 +182,6 @@ www.ad-playstore.com,AVAILABILITY,domains.list,2021-04-19 12:55:58.388864
 ad.wowtv.co.kr,AVAILABILITY,domains.list,2021-04-19 12:56:00.108633
 ps.ns-cdn.com,AVAILABILITY,domains.list,2021-04-19 12:56:00.934395
 pd4-imp.revsci.net,AVAILABILITY,domains.list,2021-04-20 00:59:28.222480
+pq-direct.revsci.net,AVAILABILITY,domains.list,2021-04-20 12:36:55.725317
+scripts.chitika.net,AVAILABILITY,domains.list,2021-04-20 12:37:15.755544
+ads.tlvmedia.com,AVAILABILITY,domains.list,2021-04-20 12:38:30.133512
