@@ -1,7 +1,4 @@
 idna_subject,checker_type,destination,tested_at
-pq-direct.revsci.net,AVAILABILITY,domains.list,2021-04-22 00:57:47.712673
-scripts.chitika.net,AVAILABILITY,domains.list,2021-04-22 00:57:48.490161
-ads.tlvmedia.com,AVAILABILITY,domains.list,2021-04-22 00:57:49.005308
 polltest.azurewebsites.net,AVAILABILITY,domains.list,2021-04-22 12:45:09.934453
 www.mediamixad.com,AVAILABILITY,domains.list,2021-04-22 12:45:10.491949
 www.vhldwuv6om.com,AVAILABILITY,domains.list,2021-04-22 12:45:10.861055
@@ -183,3 +180,4 @@ www.ad-playstore.com,AVAILABILITY,domains.list,2021-04-22 12:54:08.114964
 ad.wowtv.co.kr,AVAILABILITY,domains.list,2021-04-22 12:54:10.733060
 pd4-imp.revsci.net,AVAILABILITY,domains.list,2021-04-23 01:03:09.689550
 pub.adpnut.com,AVAILABILITY,domains.list,2021-04-23 01:03:25.978341
+ads.tlvmedia.com,AVAILABILITY,domains.list,2021-04-23 01:06:51.303016
