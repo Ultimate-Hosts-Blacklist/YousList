@@ -1,5 +1,4 @@
 idna_subject,checker_type,destination,tested_at
-ps.ns-cdn.com,AVAILABILITY,domains.list,2021-04-29 12:37:59.795644
 cdn.komoona.com,AVAILABILITY,domains.list,2021-04-30 00:47:04.284951
 polltest.azurewebsites.net,AVAILABILITY,domains.list,2021-04-30 00:47:05.282400
 www.mediamixad.com,AVAILABILITY,domains.list,2021-04-30 00:47:05.736025
@@ -182,3 +181,4 @@ ads.tlvmedia.com,AVAILABILITY,domains.list,2021-04-30 00:55:58.862498
 pub.adpnut.com,AVAILABILITY,domains.list,2021-04-30 00:56:01.928911
 exttag.about.co.kr,AVAILABILITY,domains.list,2021-04-30 12:34:07.671784
 pq-direct.revsci.net,AVAILABILITY,domains.list,2021-04-30 12:36:38.681990
+scripts.chitika.net,AVAILABILITY,domains.list,2021-05-01 00:52:33.657475
