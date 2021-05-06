@@ -1,17 +1,4 @@
 idna_subject,checker_type,destination,tested_at
-exttag.about.co.kr,AVAILABILITY,domains.list,2021-05-03 12:19:19.128941
-cdn.komoona.com,AVAILABILITY,domains.list,2021-05-03 12:25:22.326986
-polltest.azurewebsites.net,AVAILABILITY,domains.list,2021-05-03 12:25:28.174638
-www.vhldwuv6om.com,AVAILABILITY,domains.list,2021-05-03 12:25:28.569597
-www.zbnfhsk.com,AVAILABILITY,domains.list,2021-05-03 12:25:29.049217
-nads.lumieyes.com,AVAILABILITY,domains.list,2021-05-03 12:25:30.202785
-nws.lumieyes.com,AVAILABILITY,domains.list,2021-05-03 12:25:31.686435
-www.iicdn.com,AVAILABILITY,domains.list,2021-05-03 12:25:47.922454
-www.prwidgets.com,AVAILABILITY,domains.list,2021-05-03 12:25:48.295886
-a.komoona.com,AVAILABILITY,domains.list,2021-05-03 12:25:54.653036
-ad.adop.co.kr,AVAILABILITY,domains.list,2021-05-03 12:25:57.154473
-ad4989.kr,AVAILABILITY,domains.list,2021-05-03 12:25:59.316464
-ad.adlike.co.kr,AVAILABILITY,domains.list,2021-05-03 12:26:05.775233
 ad.adixs.co.kr,AVAILABILITY,domains.list,2021-05-03 12:26:07.627366
 ad.aeonad.net,AVAILABILITY,domains.list,2021-05-03 12:26:07.978041
 ad.ad-ya.net,AVAILABILITY,domains.list,2021-05-03 12:26:08.326384
@@ -180,3 +167,15 @@ ads.tlvmedia.com,AVAILABILITY,domains.list,2021-05-03 12:38:40.135005
 pub.adpnut.com,AVAILABILITY,domains.list,2021-05-03 12:38:46.196060
 pq-direct.revsci.net,AVAILABILITY,domains.list,2021-05-03 12:38:47.516556
 scripts.chitika.net,AVAILABILITY,domains.list,2021-05-03 12:39:00.183894
+cdn.komoona.com,AVAILABILITY,domains.list,2021-05-06 00:30:42.870549
+polltest.azurewebsites.net,AVAILABILITY,domains.list,2021-05-06 00:30:43.436554
+www.vhldwuv6om.com,AVAILABILITY,domains.list,2021-05-06 00:30:49.081439
+www.zbnfhsk.com,AVAILABILITY,domains.list,2021-05-06 00:30:52.744323
+nads.lumieyes.com,AVAILABILITY,domains.list,2021-05-06 00:30:59.613239
+nws.lumieyes.com,AVAILABILITY,domains.list,2021-05-06 00:31:05.425475
+www.iicdn.com,AVAILABILITY,domains.list,2021-05-06 00:31:27.863434
+www.prwidgets.com,AVAILABILITY,domains.list,2021-05-06 00:31:28.376145
+a.komoona.com,AVAILABILITY,domains.list,2021-05-06 00:31:29.778654
+ad.adop.co.kr,AVAILABILITY,domains.list,2021-05-06 00:31:31.735942
+ad4989.kr,AVAILABILITY,domains.list,2021-05-06 00:31:39.336693
+ad.adlike.co.kr,AVAILABILITY,domains.list,2021-05-06 00:31:43.173831
