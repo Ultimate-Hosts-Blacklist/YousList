@@ -1,9 +1,4 @@
 idna_subject,checker_type,destination,tested_at
-pq-direct.revsci.net,AVAILABILITY,domains.list,2021-05-08 12:14:05.086337
-pub.adpnut.com,AVAILABILITY,domains.list,2021-05-08 12:14:10.038308
-exttag.about.co.kr,AVAILABILITY,domains.list,2021-05-09 00:28:23.262576
-scripts.chitika.net,AVAILABILITY,domains.list,2021-05-09 00:31:30.227760
-static.chameleon.ad,AVAILABILITY,domains.list,2021-05-09 00:33:15.158162
 cdn.komoona.com,AVAILABILITY,domains.list,2021-05-09 00:34:30.915887
 polltest.azurewebsites.net,AVAILABILITY,domains.list,2021-05-09 00:34:37.248410
 www.vhldwuv6om.com,AVAILABILITY,domains.list,2021-05-09 00:34:37.640285
@@ -182,3 +177,6 @@ www.ad-playstore.com,AVAILABILITY,domains.list,2021-05-09 00:45:29.835121
 ad.wowtv.co.kr,AVAILABILITY,domains.list,2021-05-09 00:45:37.235020
 ads.tlvmedia.com,AVAILABILITY,domains.list,2021-05-09 00:45:37.883584
 pd4-imp.revsci.net,AVAILABILITY,domains.list,2021-05-10 00:30:16.235035
+pq-direct.revsci.net,AVAILABILITY,domains.list,2021-05-10 00:34:33.219141
+pub.adpnut.com,AVAILABILITY,domains.list,2021-05-10 00:34:34.658054
+exttag.about.co.kr,AVAILABILITY,domains.list,2021-05-10 00:34:36.689727
