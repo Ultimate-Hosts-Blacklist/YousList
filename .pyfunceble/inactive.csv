@@ -1,5 +1,4 @@
 idna_subject,checker_type,destination,tested_at
-cdn-exchange.toastoven.net,AVAILABILITY,domains.list,2021-05-12 00:26:30.107000
 ps.ns-cdn.com,AVAILABILITY,domains.list,2021-05-12 00:31:28.839330
 pub.adpnut.com,AVAILABILITY,domains.list,2021-05-12 00:35:30.694887
 ad.owra.net,AVAILABILITY,domains.list,2021-05-12 00:35:34.297723
@@ -183,3 +182,4 @@ ads.tlvmedia.com,AVAILABILITY,domains.list,2021-05-12 00:44:54.173476
 adserver.sbtrustmedia.com,AVAILABILITY,domains.list,2021-05-12 12:15:46.634837
 exttag.about.co.kr,AVAILABILITY,domains.list,2021-05-12 12:18:40.671963
 scripts.chitika.net,AVAILABILITY,domains.list,2021-05-12 12:22:32.105923
+pd4-imp.revsci.net,AVAILABILITY,domains.list,2021-05-13 00:39:17.374830
