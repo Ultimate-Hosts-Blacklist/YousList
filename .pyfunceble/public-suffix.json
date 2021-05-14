@@ -405,7 +405,6 @@
         "myftp.biz",
         "no-ip.biz",
         "orx.biz",
-        "selfip.biz",
         "webhop.biz"
     ],
     "bj": [
@@ -2729,7 +2728,6 @@
         "amakusa.kumamoto.jp",
         "amami.kagoshima.jp",
         "ami.ibaraki.jp",
-        "amli.no",
         "anamizu.ishikawa.jp",
         "anan.nagano.jp",
         "anan.tokushima.jp",
@@ -5841,6 +5839,7 @@
         "alstahaug.no",
         "alta.no",
         "alvdal.no",
+        "amli.no",
         "amot.no",
         "andasuolo.no",
         "andebu.no",
@@ -6771,6 +6770,7 @@
         "merseine.nu",
         "mine.nu",
         "nom.nu",
+        "selfip.biz",
         "shacknet.nu",
         "uwu.nu"
     ],
