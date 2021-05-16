@@ -405,6 +405,7 @@
         "myftp.biz",
         "no-ip.biz",
         "orx.biz",
+        "selfip.biz",
         "webhop.biz"
     ],
     "bj": [
@@ -1864,7 +1865,8 @@
         "gov.gr",
         "net.gr",
         "nym.gr",
-        "org.gr"
+        "org.gr",
+        "org.hk"
     ],
     "group": [
         "discourse.group"
@@ -6770,7 +6772,6 @@
         "merseine.nu",
         "mine.nu",
         "nom.nu",
-        "selfip.biz",
         "shacknet.nu",
         "uwu.nu"
     ],
