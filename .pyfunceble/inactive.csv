@@ -1,6 +1,4 @@
 idna_subject,checker_type,destination,tested_at
-ads.tlvmedia.com,AVAILABILITY,domains.list,2021-05-16 00:43:27.099243
-adserver.sbtrustmedia.com,AVAILABILITY,domains.list,2021-05-16 00:43:27.596450
 exttag.about.co.kr,AVAILABILITY,domains.list,2021-05-16 12:18:50.409352
 pd4-imp.revsci.net,AVAILABILITY,domains.list,2021-05-16 12:21:45.106610
 pq-direct.revsci.net,AVAILABILITY,domains.list,2021-05-16 12:21:49.597706
@@ -182,3 +180,6 @@ you.claremedia.co.kr,AVAILABILITY,domains.list,2021-05-17 00:51:33.864135
 www.vse-spravki.bid,AVAILABILITY,domains.list,2021-05-17 00:51:39.490028
 www.ad-playstore.com,AVAILABILITY,domains.list,2021-05-17 00:51:39.906458
 ad.wowtv.co.kr,AVAILABILITY,domains.list,2021-05-17 00:51:47.240230
+pub.adpnut.com,AVAILABILITY,domains.list,2021-05-17 12:21:47.876161
+ads.tlvmedia.com,AVAILABILITY,domains.list,2021-05-17 12:23:48.286755
+adserver.sbtrustmedia.com,AVAILABILITY,domains.list,2021-05-17 12:23:48.697929
