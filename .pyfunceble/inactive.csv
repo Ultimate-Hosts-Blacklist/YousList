@@ -1,14 +1,4 @@
 idna_subject,checker_type,destination,tested_at
-pd4-imp.revsci.net,AVAILABILITY,domains.list,2021-06-02 12:53:29.751865
-pq-direct.revsci.net,AVAILABILITY,domains.list,2021-06-02 12:53:44.411737
-pub.adpnut.com,AVAILABILITY,domains.list,2021-06-02 12:53:48.396798
-scripts.chitika.net,AVAILABILITY,domains.list,2021-06-02 12:54:04.507913
-ad.aeonad.co.kr,AVAILABILITY,domains.list,2021-06-02 12:56:00.346171
-ad.jjang0u.com,AVAILABILITY,domains.list,2021-06-02 12:56:01.857033
-ad.nsonmedia.com,AVAILABILITY,domains.list,2021-06-02 12:56:02.283395
-ad.openmatch.co.kr,AVAILABILITY,domains.list,2021-06-02 12:56:04.965725
-ad.pentabox.net,AVAILABILITY,domains.list,2021-06-02 12:56:05.423301
-adclickservice.com,AVAILABILITY,domains.list,2021-06-02 12:56:05.907024
 exttag.about.co.kr,AVAILABILITY,domains.list,2021-06-03 12:40:59.049850
 ps.ns-cdn.com,AVAILABILITY,domains.list,2021-06-03 12:44:47.645254
 adcreative.hani.naver.net,AVAILABILITY,domains.list,2021-06-03 12:47:41.882628
@@ -183,3 +173,11 @@ ad.ad-ya.net,AVAILABILITY,domains.list,2021-06-03 12:54:08.649833
 ad.afy11.net,AVAILABILITY,domains.list,2021-06-03 12:54:09.041619
 ad.daum.net,AVAILABILITY,domains.list,2021-06-03 12:54:10.145518
 ad.ingfac.co.kr,AVAILABILITY,domains.list,2021-06-03 12:54:12.746807
+pub.adpnut.com,AVAILABILITY,domains.list,2021-06-04 01:18:37.198159
+scripts.chitika.net,AVAILABILITY,domains.list,2021-06-04 01:18:37.813654
+ad.aeonad.co.kr,AVAILABILITY,domains.list,2021-06-04 01:19:05.964387
+ad.jjang0u.com,AVAILABILITY,domains.list,2021-06-04 01:19:07.628269
+ad.nsonmedia.com,AVAILABILITY,domains.list,2021-06-04 01:19:08.164640
+ad.openmatch.co.kr,AVAILABILITY,domains.list,2021-06-04 01:19:11.020539
+ad.pentabox.net,AVAILABILITY,domains.list,2021-06-04 01:19:11.547996
+adclickservice.com,AVAILABILITY,domains.list,2021-06-04 01:19:12.070025
