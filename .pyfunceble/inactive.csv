@@ -1,7 +1,4 @@
 idna_subject,checker_type,destination,tested_at
-api.wiseclick.co.kr,AVAILABILITY,domains.list,2021-06-12 12:23:12.666233
-ax-d.pixfuture.net,AVAILABILITY,domains.list,2021-06-12 12:23:13.036519
-cdn03.sndkorea.co.kr,AVAILABILITY,domains.list,2021-06-12 12:23:14.839714
 pub.adpnut.com,AVAILABILITY,domains.list,2021-06-14 00:28:16.325246
 api.ficm.contentlink.co.kr,AVAILABILITY,domains.list,2021-06-14 00:29:55.933521
 care-health.co.kr,AVAILABILITY,domains.list,2021-06-14 00:29:57.906930
@@ -179,3 +176,6 @@ alea.adam.ad.daum.net,AVAILABILITY,domains.list,2021-06-14 00:37:10.797952
 amsv2.daum.net,AVAILABILITY,domains.list,2021-06-14 00:37:12.743875
 ak-gb.marketgid.com,AVAILABILITY,domains.list,2021-06-14 00:37:13.184285
 api.adns.contentlink.co.kr,AVAILABILITY,domains.list,2021-06-14 00:37:26.514586
+api.wiseclick.co.kr,AVAILABILITY,domains.list,2021-06-14 00:38:11.556961
+ax-d.pixfuture.net,AVAILABILITY,domains.list,2021-06-14 00:38:11.974708
+cdn03.sndkorea.co.kr,AVAILABILITY,domains.list,2021-06-14 00:38:14.703025
