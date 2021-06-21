@@ -1,7 +1,4 @@
 idna_subject,checker_type,destination,tested_at
-api.wiseclick.co.kr,AVAILABILITY,domains.list,2021-06-20 12:22:34.970162
-ax-d.pixfuture.net,AVAILABILITY,domains.list,2021-06-20 12:22:35.345413
-cdn03.sndkorea.co.kr,AVAILABILITY,domains.list,2021-06-20 12:22:38.446626
 ps.ns-cdn.com,AVAILABILITY,domains.list,2021-06-21 00:36:06.276433
 pd4-imp.revsci.net,AVAILABILITY,domains.list,2021-06-21 00:40:06.952341
 exttag.about.co.kr,AVAILABILITY,domains.list,2021-06-21 12:30:03.219718
@@ -181,3 +178,6 @@ alea.adam.ad.daum.net,AVAILABILITY,domains.list,2021-06-21 12:41:07.556558
 amsv2.daum.net,AVAILABILITY,domains.list,2021-06-21 12:41:08.827696
 ak-gb.marketgid.com,AVAILABILITY,domains.list,2021-06-21 12:41:09.235223
 api.adns.contentlink.co.kr,AVAILABILITY,domains.list,2021-06-21 12:41:36.912826
+api.wiseclick.co.kr,AVAILABILITY,domains.list,2021-06-21 12:42:21.341568
+ax-d.pixfuture.net,AVAILABILITY,domains.list,2021-06-21 12:42:21.794656
+cdn03.sndkorea.co.kr,AVAILABILITY,domains.list,2021-06-21 12:42:25.370926
