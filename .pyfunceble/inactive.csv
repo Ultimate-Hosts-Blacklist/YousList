@@ -1,5 +1,4 @@
 idna_subject,checker_type,destination,tested_at
-ps.ns-cdn.com,AVAILABILITY,domains.list,2021-06-21 00:36:06.276433
 pd4-imp.revsci.net,AVAILABILITY,domains.list,2021-06-21 00:40:06.952341
 exttag.about.co.kr,AVAILABILITY,domains.list,2021-06-21 12:30:03.219718
 api.ficm.contentlink.co.kr,AVAILABILITY,domains.list,2021-06-21 12:30:23.178445
@@ -181,3 +180,6 @@ api.adns.contentlink.co.kr,AVAILABILITY,domains.list,2021-06-21 12:41:36.912826
 api.wiseclick.co.kr,AVAILABILITY,domains.list,2021-06-21 12:42:21.341568
 ax-d.pixfuture.net,AVAILABILITY,domains.list,2021-06-21 12:42:21.794656
 cdn03.sndkorea.co.kr,AVAILABILITY,domains.list,2021-06-21 12:42:25.370926
+pub.adpnut.com,AVAILABILITY,domains.list,2021-06-22 00:41:47.196714
+scripts.chitika.net,AVAILABILITY,domains.list,2021-06-22 00:42:14.327495
+ps.ns-cdn.com,AVAILABILITY,domains.list,2021-06-22 00:45:38.109424
