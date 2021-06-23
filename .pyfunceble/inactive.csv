@@ -1,7 +1,4 @@
 idna_subject,checker_type,destination,tested_at
-pub.adpnut.com,AVAILABILITY,domains.list,2021-06-22 00:41:47.196714
-scripts.chitika.net,AVAILABILITY,domains.list,2021-06-22 00:42:14.327495
-ps.ns-cdn.com,AVAILABILITY,domains.list,2021-06-22 00:45:38.109424
 api.ficm.contentlink.co.kr,AVAILABILITY,domains.list,2021-06-23 00:35:05.900894
 care-health.co.kr,AVAILABILITY,domains.list,2021-06-23 00:35:07.949219
 candy.ad9.kr,AVAILABILITY,domains.list,2021-06-23 00:35:09.718752
@@ -181,3 +178,5 @@ api.adns.contentlink.co.kr,AVAILABILITY,domains.list,2021-06-23 00:45:32.525215
 api.wiseclick.co.kr,AVAILABILITY,domains.list,2021-06-23 00:45:34.130665
 ax-d.pixfuture.net,AVAILABILITY,domains.list,2021-06-23 00:45:34.602925
 cdn03.sndkorea.co.kr,AVAILABILITY,domains.list,2021-06-23 00:45:42.055253
+scripts.chitika.net,AVAILABILITY,domains.list,2021-06-23 12:31:38.715857
+ps.ns-cdn.com,AVAILABILITY,domains.list,2021-06-23 12:31:39.236242
