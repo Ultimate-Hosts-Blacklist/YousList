@@ -208,9 +208,6 @@
     "as": [
         "gov.as"
     ],
-    "asia": [
-        "cloudns.asia"
-    ],
     "at": [
         "12hp.at",
         "2ix.at",
@@ -1487,6 +1484,7 @@
         "barsy.de",
         "blogspot.de",
         "bplaced.de",
+        "cloudns.asia",
         "com.de",
         "community-pro.de",
         "customer.speedpartner.de",
