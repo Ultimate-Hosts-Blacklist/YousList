@@ -1,9 +1,4 @@
 idna_subject,checker_type,destination,tested_at
-pub.adpnut.com,AVAILABILITY,domains.list,2021-07-31 08:01:02.277518
-scripts.chitika.net,AVAILABILITY,domains.list,2021-07-31 09:00:57.205631
-exttag.about.co.kr,AVAILABILITY,domains.list,2021-07-31 10:58:39.328634
-b.a2gw.com,AVAILABILITY,domains.list,2021-08-01 02:49:34.170108
-pq-direct.revsci.net,AVAILABILITY,domains.list,2021-08-01 02:55:57.442176
 d.a1comm.co.kr,AVAILABILITY,domains.list,2021-08-01 03:04:00.405154
 d269y12mnftu9c.cloudfront.net,AVAILABILITY,domains.list,2021-08-01 03:04:05.943603
 dev.ezadsystem.com,AVAILABILITY,domains.list,2021-08-01 03:04:09.298844
@@ -185,3 +180,5 @@ cwdata.itplay.co.kr,AVAILABILITY,domains.list,2021-08-01 03:16:25.523143
 d3pkae9owd2lcf.cloudfront.net,AVAILABILITY,domains.list,2021-08-01 03:16:25.805368
 ps.ns-cdn.com,AVAILABILITY,domains.list,2021-08-01 03:16:26.181470
 pd4-imp.revsci.net,AVAILABILITY,domains.list,2021-08-02 02:53:39.083501
+pub.adpnut.com,AVAILABILITY,domains.list,2021-08-02 02:59:58.285950
+exttag.about.co.kr,AVAILABILITY,domains.list,2021-08-02 03:00:06.549711
