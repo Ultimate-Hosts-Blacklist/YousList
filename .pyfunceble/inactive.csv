@@ -1,8 +1,4 @@
 idna_subject,checker_type,destination,tested_at
-cm1.icontact.kr,AVAILABILITY,domains.list,2021-08-04 04:20:37.040455
-d1swklt9res5jr.cloudfront.net,AVAILABILITY,domains.list,2021-08-04 04:20:37.534103
-cwdata.itplay.co.kr,AVAILABILITY,domains.list,2021-08-04 04:20:40.210628
-d3pkae9owd2lcf.cloudfront.net,AVAILABILITY,domains.list,2021-08-04 04:21:19.236906
 ps.ns-cdn.com,AVAILABILITY,domains.list,2021-08-05 02:38:45.348375
 exttag.about.co.kr,AVAILABILITY,domains.list,2021-08-05 05:45:21.799667
 pub.adpnut.com,AVAILABILITY,domains.list,2021-08-05 05:49:06.134469
@@ -183,3 +179,7 @@ cdn04.sndkorea.co.kr,AVAILABILITY,domains.list,2021-08-05 06:07:41.915936
 cjmooter.xcache.kinxcdn.com,AVAILABILITY,domains.list,2021-08-05 06:07:54.165931
 celeb.nann.co.kr,AVAILABILITY,domains.list,2021-08-05 06:07:55.782438
 click.realclick.co.kr,AVAILABILITY,domains.list,2021-08-05 06:08:02.819452
+cm1.icontact.kr,AVAILABILITY,domains.list,2021-08-05 06:08:55.758375
+d1swklt9res5jr.cloudfront.net,AVAILABILITY,domains.list,2021-08-05 06:09:01.355766
+cwdata.itplay.co.kr,AVAILABILITY,domains.list,2021-08-05 06:09:02.745034
+d3pkae9owd2lcf.cloudfront.net,AVAILABILITY,domains.list,2021-08-05 06:09:08.381674
