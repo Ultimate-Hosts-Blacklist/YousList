@@ -1,8 +1,4 @@
 idna_subject,checker_type,destination,tested_at
-ps.ns-cdn.com,AVAILABILITY,domains.list,2021-08-11 02:28:04.068867
-pub.adpnut.com,AVAILABILITY,domains.list,2021-08-11 02:28:07.962863
-scripts.chitika.net,AVAILABILITY,domains.list,2021-08-11 02:28:46.797475
-pq-direct.revsci.net,AVAILABILITY,domains.list,2021-08-11 11:51:51.360029
 d.adand.co.kr,AVAILABILITY,domains.list,2021-08-11 11:55:39.534810
 get2.keywordsconnect.com,AVAILABILITY,domains.list,2021-08-11 11:55:42.435340
 h.adscope.co.kr,AVAILABILITY,domains.list,2021-08-11 11:55:44.443417
@@ -185,3 +181,4 @@ dev.ezadsystem.com,AVAILABILITY,domains.list,2021-08-11 12:02:24.834642
 get.keywordsconnect.com,AVAILABILITY,domains.list,2021-08-11 12:02:26.906895
 ads.daara.co.kr,AVAILABILITY,domains.list,2021-08-12 11:44:06.334660
 exttag.about.co.kr,AVAILABILITY,domains.list,2021-08-12 11:49:16.410591
+pub.adpnut.com,AVAILABILITY,domains.list,2021-08-12 12:02:53.303040
