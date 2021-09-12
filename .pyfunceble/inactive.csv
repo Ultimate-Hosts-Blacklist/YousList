@@ -1,7 +1,4 @@
 idna_subject,checker_type,destination,tested_at
-exttag.about.co.kr,AVAILABILITY,domains.list,2021-09-11 07:42:15.026324
-ps.ns-cdn.com,AVAILABILITY,domains.list,2021-09-11 07:45:18.217527
-servicer.marketgid.com,AVAILABILITY,domains.list,2021-09-11 07:48:35.799219
 pq-direct.revsci.net,AVAILABILITY,domains.list,2021-09-12 02:24:26.514576
 scripts.chitika.net,AVAILABILITY,domains.list,2021-09-12 02:26:57.601165
 g.novostimira.biz,AVAILABILITY,domains.list,2021-09-12 02:26:57.865511
@@ -188,3 +185,6 @@ get.keywordsconnect.com,AVAILABILITY,domains.list,2021-09-12 02:33:21.249629
 pd4-imp.revsci.net,AVAILABILITY,domains.list,2021-09-12 07:04:23.957512
 pub.adpnut.com,AVAILABILITY,domains.list,2021-09-12 07:04:30.559813
 b.a2gw.com,AVAILABILITY,domains.list,2021-09-12 07:39:40.028793
+exttag.about.co.kr,AVAILABILITY,domains.list,2021-09-12 07:51:54.703927
+ps.ns-cdn.com,AVAILABILITY,domains.list,2021-09-12 07:51:55.092148
+servicer.marketgid.com,AVAILABILITY,domains.list,2021-09-12 07:51:55.420476
