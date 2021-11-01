@@ -1913,6 +1913,7 @@
     "gu": [
         "com.gu",
         "edu.gu",
+        "gov.gu",
         "guam.gu",
         "info.gu",
         "net.gu",
@@ -1935,7 +1936,6 @@
         "blogspot.hk",
         "com.hk",
         "edu.hk",
-        "gov.gu",
         "gov.hk",
         "idv.hk",
         "inc.hk",
@@ -6580,7 +6580,6 @@
         "vf.no",
         "vgs.no",
         "vik.no",
-        "vikna.no",
         "vindafjord.no",
         "voagat.no",
         "volda.no",
@@ -7374,7 +7373,8 @@
         "jur.pro",
         "law.pro",
         "med.pro",
-        "recht.pro"
+        "recht.pro",
+        "vikna.no"
     ],
     "ps": [
         "com.ps",
