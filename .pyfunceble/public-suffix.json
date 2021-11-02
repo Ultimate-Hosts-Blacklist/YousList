@@ -6580,6 +6580,7 @@
         "vf.no",
         "vgs.no",
         "vik.no",
+        "vikna.no",
         "vindafjord.no",
         "voagat.no",
         "volda.no",
@@ -7373,8 +7374,7 @@
         "jur.pro",
         "law.pro",
         "med.pro",
-        "recht.pro",
-        "vikna.no"
+        "recht.pro"
     ],
     "ps": [
         "com.ps",
