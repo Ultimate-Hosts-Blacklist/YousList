@@ -1,6 +1,4 @@
 idna_subject,checker_type,destination,tested_at
-exttag.about.co.kr,AVAILABILITY,domains.list,2021-12-26 02:09:17.599015
-scripts.chitika.net,AVAILABILITY,domains.list,2021-12-26 02:12:36.661039
 pq-direct.revsci.net,AVAILABILITY,domains.list,2021-12-26 11:53:05.668123
 jsn.dt00.net,AVAILABILITY,domains.list,2021-12-26 11:53:07.068983
 static.chameleon.ad,AVAILABILITY,domains.list,2021-12-26 11:53:08.816013
@@ -183,3 +181,5 @@ d1swklt9res5jr.cloudfront.net,AVAILABILITY,domains.list,2021-12-26 12:00:04.4359
 adexview.new-star.co.kr,AVAILABILITY,domains.list,2021-12-26 12:00:06.156193
 adx.bibl.uk,AVAILABILITY,domains.list,2021-12-26 12:00:06.929682
 sc2.appldp.com,AVAILABILITY,domains.list,2021-12-26 12:00:07.352203
+static.escdn.co,AVAILABILITY,domains.list,2021-12-27 11:43:40.822514
+exttag.about.co.kr,AVAILABILITY,domains.list,2021-12-27 11:45:25.150258
