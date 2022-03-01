@@ -1093,7 +1093,6 @@
         "from-hi.com",
         "from-ia.com",
         "from-id.com",
-        "from-il.com",
         "from-in.com",
         "from-ks.com",
         "from-ky.com",
@@ -1940,8 +1939,7 @@
         "edu.gy",
         "gov.gy",
         "net.gy",
-        "org.gy",
-        "org.hk"
+        "org.gy"
     ],
     "health": [
         "hra.health"
@@ -2932,6 +2930,7 @@
         "floppy.jp",
         "fool.jp",
         "frenchkiss.jp",
+        "from-il.com",
         "fuchu.hiroshima.jp",
         "fuchu.tokyo.jp",
         "fuchu.toyama.jp",
@@ -7648,9 +7647,12 @@
         "vps.myjino.ru"
     ],
     "run": [
+        "build.run",
         "code.run",
+        "database.run",
         "development.run",
         "hs.run",
+        "migration.run",
         "onporter.run",
         "ravendb.run",
         "repl.run",
