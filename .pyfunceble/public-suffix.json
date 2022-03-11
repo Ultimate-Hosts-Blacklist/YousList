@@ -5531,6 +5531,7 @@
         "schoenbrunn.museum",
         "schokoladen.museum",
         "school.museum",
+        "schweiz.museum",
         "science-fiction.museum",
         "science.museum",
         "scienceandhistory.museum",
@@ -6531,7 +6532,6 @@
         "sarpsborg.no",
         "sauda.no",
         "sauherad.no",
-        "schweiz.museum",
         "sel.no",
         "selbu.no",
         "selje.no",
@@ -8231,6 +8231,7 @@
         "yalta.ua",
         "zaporizhzhe.ua",
         "zaporizhzhia.ua",
+        "zhitomir.ua",
         "zhytomyr.ua",
         "zp.ua",
         "zt.ua"
@@ -8536,8 +8537,7 @@
         "washtenaw.mi.us",
         "wi.us",
         "wv.us",
-        "wy.us",
-        "zhitomir.ua"
+        "wy.us"
     ],
     "uy": [
         "blogspot.com.uy",
