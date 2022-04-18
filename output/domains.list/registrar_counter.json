@@ -1,0 +1,12 @@
+{
+    "counter": {
+        "URL Solutions, Inc.": 1,
+        "eNom, LLC": 2,
+        "total": 3
+    },
+    "percentage": {
+        "URL Solutions, Inc.": 33.333333333333336,
+        "eNom, LLC": 66.66666666666667,
+        "total": 100.0
+    }
+}
