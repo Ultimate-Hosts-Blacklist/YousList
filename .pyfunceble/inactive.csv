@@ -1,17 +1,4 @@
 idna_subject,checker_type,destination,tested_at
-pd4-imp.revsci.net,AVAILABILITY,domains.list,2022-05-08 03:02:58.368250
-pq-direct.revsci.net,AVAILABILITY,domains.list,2022-05-08 03:02:58.644955
-op.neoad.co.kr,AVAILABILITY,domains.list,2022-05-08 03:02:59.705931
-newsbanner.co.kr,AVAILABILITY,domains.list,2022-05-08 03:03:00.236226
-pussl35.com,AVAILABILITY,domains.list,2022-05-08 03:03:00.523348
-p.lumieyes.com,AVAILABILITY,domains.list,2022-05-08 03:03:01.406291
-ppdxyz.info,AVAILABILITY,domains.list,2022-05-08 03:03:01.733317
-rsense-ad.realclick.co.kr,AVAILABILITY,domains.list,2022-05-08 03:03:02.061638
-ra.ntwoad.co.kr,AVAILABILITY,domains.list,2022-05-08 03:03:02.803977
-script.adsquare.co.kr,AVAILABILITY,domains.list,2022-05-08 03:03:03.916158
-render.helios.ligatus.com,AVAILABILITY,domains.list,2022-05-08 03:03:05.494890
-secure.uac.advertising.com,AVAILABILITY,domains.list,2022-05-08 03:03:05.789538
-script.keywordlink.co.kr,AVAILABILITY,domains.list,2022-05-08 03:03:11.544732
 serv.ads.pixiv.org,AVAILABILITY,domains.list,2022-05-08 03:03:11.919145
 sgate.opap.co.kr,AVAILABILITY,domains.list,2022-05-08 03:03:12.738166
 st.keywordsconnect.com,AVAILABILITY,domains.list,2022-05-08 03:03:13.432512
@@ -180,3 +167,16 @@ mobs.luxad.kr,AVAILABILITY,domains.list,2022-05-08 10:00:24.937072
 mymyad.co.kr,AVAILABILITY,domains.list,2022-05-08 10:00:25.666747
 new.jshopbox.com,AVAILABILITY,domains.list,2022-05-08 10:00:26.070891
 nad1.mklaud.com,AVAILABILITY,domains.list,2022-05-08 10:00:26.825318
+pd4-imp.revsci.net,AVAILABILITY,domains.list,2022-05-09 10:01:31.195282
+pq-direct.revsci.net,AVAILABILITY,domains.list,2022-05-09 10:01:31.548412
+op.neoad.co.kr,AVAILABILITY,domains.list,2022-05-09 10:01:32.742233
+newsbanner.co.kr,AVAILABILITY,domains.list,2022-05-09 10:01:33.289489
+pussl35.com,AVAILABILITY,domains.list,2022-05-09 10:01:33.655881
+p.lumieyes.com,AVAILABILITY,domains.list,2022-05-09 10:01:34.296063
+ppdxyz.info,AVAILABILITY,domains.list,2022-05-09 10:01:34.738160
+rsense-ad.realclick.co.kr,AVAILABILITY,domains.list,2022-05-09 10:01:35.104963
+ra.ntwoad.co.kr,AVAILABILITY,domains.list,2022-05-09 10:01:35.733242
+script.adsquare.co.kr,AVAILABILITY,domains.list,2022-05-09 10:01:36.965061
+render.helios.ligatus.com,AVAILABILITY,domains.list,2022-05-09 10:01:41.081098
+secure.uac.advertising.com,AVAILABILITY,domains.list,2022-05-09 10:01:41.462225
+script.keywordlink.co.kr,AVAILABILITY,domains.list,2022-05-09 10:01:42.113245
