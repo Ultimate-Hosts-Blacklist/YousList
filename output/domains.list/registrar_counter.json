@@ -1,12 +1,14 @@
 {
     "counter": {
+        "Danesco Trading Ltd.": 2,
         "URL Solutions, Inc.": 1,
         "eNom, LLC": 2,
-        "total": 3
+        "total": 5
     },
     "percentage": {
-        "URL Solutions, Inc.": 33.333333333333336,
-        "eNom, LLC": 66.66666666666667,
+        "Danesco Trading Ltd.": 40.0,
+        "URL Solutions, Inc.": 20.0,
+        "eNom, LLC": 40.0,
         "total": 100.0
     }
 }
