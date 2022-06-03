@@ -361,7 +361,6 @@
         "8.bg",
         "9.bg",
         "a.bg",
-        "asso.ci",
         "b.bg",
         "barsy.bg",
         "blogspot.bg",
@@ -4859,8 +4858,7 @@
         "int.la",
         "net.la",
         "org.la",
-        "per.la",
-        "vm.bytemark.co.uk"
+        "per.la"
     ],
     "land": [
         "dev.static.land",
@@ -7813,8 +7811,7 @@
         "gov.sg",
         "net.sg",
         "org.sg",
-        "per.sg",
-        "sells-it.net"
+        "per.sg"
     ],
     "sh": [
         "bc.platform.sh",
@@ -8335,6 +8332,7 @@
         "royal-commission.uk",
         "sch.uk",
         "service.gov.uk",
+        "vm.bytemark.co.uk",
         "weeklylottery.org.uk",
         "wellbeingzone.co.uk"
     ],
