@@ -1,15 +1,4 @@
 idna_subject,checker_type,destination,tested_at
-ad.pitta.ne.jp,AVAILABILITY,domains.list,2022-08-27 11:16:50.371515
-api.content.ad,AVAILABILITY,domains.list,2022-08-27 11:16:51.362811
-cm1.joins.com,AVAILABILITY,domains.list,2022-08-27 11:16:52.188362
-cm1.jssearch.net,AVAILABILITY,domains.list,2022-08-27 11:16:52.628654
-cm2.joins.com,AVAILABILITY,domains.list,2022-08-27 11:16:53.371539
-cm2.jssearch.net,AVAILABILITY,domains.list,2022-08-27 11:16:53.802493
-cm3.jssearch.net,AVAILABILITY,domains.list,2022-08-27 11:16:54.262453
-fm1.jssearch.net,AVAILABILITY,domains.list,2022-08-27 11:16:54.700872
-sp1.jssearch.net,AVAILABILITY,domains.list,2022-08-27 11:16:55.106378
-im.obel.kr,AVAILABILITY,domains.list,2022-08-27 11:16:55.787244
-joy-adstore.co.kr,AVAILABILITY,domains.list,2022-08-27 11:16:56.182654
 inv-t-node.admixer.net,AVAILABILITY,domains.list,2022-08-27 11:16:56.614585
 keyword.ad4989.co.kr,AVAILABILITY,domains.list,2022-08-27 11:16:57.605249
 lightad.co.kr,AVAILABILITY,domains.list,2022-08-27 11:16:58.296083
@@ -188,3 +177,14 @@ d.adand.co.kr,AVAILABILITY,domains.list,2022-08-27 11:21:33.445471
 get2.keywordsconnect.com,AVAILABILITY,domains.list,2022-08-27 11:21:34.726680
 h.adscope.co.kr,AVAILABILITY,domains.list,2022-08-27 11:21:36.377453
 imp.mklaud.com,AVAILABILITY,domains.list,2022-08-27 11:21:37.121268
+ad.pitta.ne.jp,AVAILABILITY,domains.list,2022-08-29 11:20:44.409679
+api.content.ad,AVAILABILITY,domains.list,2022-08-29 11:20:45.208211
+cm1.joins.com,AVAILABILITY,domains.list,2022-08-29 11:20:45.982483
+cm1.jssearch.net,AVAILABILITY,domains.list,2022-08-29 11:20:46.447112
+cm2.joins.com,AVAILABILITY,domains.list,2022-08-29 11:20:47.204582
+cm2.jssearch.net,AVAILABILITY,domains.list,2022-08-29 11:20:52.616661
+cm3.jssearch.net,AVAILABILITY,domains.list,2022-08-29 11:20:53.041109
+fm1.jssearch.net,AVAILABILITY,domains.list,2022-08-29 11:20:53.496394
+sp1.jssearch.net,AVAILABILITY,domains.list,2022-08-29 11:20:53.920518
+im.obel.kr,AVAILABILITY,domains.list,2022-08-29 11:20:54.839856
+joy-adstore.co.kr,AVAILABILITY,domains.list,2022-08-29 11:20:55.230296
