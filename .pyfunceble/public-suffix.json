@@ -345,6 +345,7 @@
         "cloud.interhostsolutions.be",
         "ezproxy.kuleuven.be",
         "myspreadshop.be",
+        "pb.leg.br",
         "transurl.be",
         "webhosting.be"
     ],
@@ -615,7 +616,6 @@
         "pa.leg.br",
         "palmas.br",
         "pb.gov.br",
-        "pb.leg.br",
         "pe.gov.br",
         "pe.leg.br",
         "pi.gov.br",
@@ -2021,6 +2021,7 @@
     "gy": [
         "be.gy",
         "co.gy",
+        "com.gy",
         "edu.gy",
         "gov.gy",
         "net.gy",
@@ -2031,7 +2032,6 @@
     ],
     "hk": [
         "blogspot.hk",
-        "com.gy",
         "com.hk",
         "edu.hk",
         "gov.hk",
@@ -4110,6 +4110,7 @@
         "ozu.kumamoto.jp",
         "parallel.jp",
         "parasite.jp",
+        "pb.leg.br",
         "pecori.jp",
         "peewee.jp",
         "penne.jp",
