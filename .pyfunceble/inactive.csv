@@ -1,5 +1,4 @@
 idna_subject,checker_type,destination,tested_at
-script.nowcall.co.kr,AVAILABILITY,domains.list,2022-10-18 08:10:34.352965
 ad.daum.net,AVAILABILITY,domains.list,2022-10-19 07:54:15.567020
 nad1.mklaud.com,AVAILABILITY,domains.list,2022-10-19 08:16:31.123743
 op.neoad.co.kr,AVAILABILITY,domains.list,2022-10-19 08:16:33.009233
@@ -190,3 +189,4 @@ mobs.luxad.kr,AVAILABILITY,domains.list,2022-10-19 08:20:33.985053
 mymyad.co.kr,AVAILABILITY,domains.list,2022-10-19 08:20:34.927467
 new.jshopbox.com,AVAILABILITY,domains.list,2022-10-19 08:20:35.400423
 js.bigfineads.com,AVAILABILITY,domains.list,2022-10-19 08:20:35.822424
+script.nowcall.co.kr,AVAILABILITY,domains.list,2022-10-20 04:18:57.742678
