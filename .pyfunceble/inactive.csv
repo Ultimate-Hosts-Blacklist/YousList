@@ -1,5 +1,4 @@
 idna_subject,checker_type,destination,tested_at
-ad.altervista.org,AVAILABILITY,domains.list,2023-06-03 03:18:37.305386
 ad.naver.com,AVAILABILITY,domains.list,2023-06-03 03:25:56.467912
 cdn.connatix.com,AVAILABILITY,domains.list,2023-06-03 03:25:56.892543
 cpv.ad.naver.com,AVAILABILITY,domains.list,2023-06-03 03:25:57.634555
@@ -197,3 +196,4 @@ ads.realclick.co.kr,AVAILABILITY,domains.list,2023-06-03 03:31:01.070947
 ads.mangouni.com,AVAILABILITY,domains.list,2023-06-03 03:31:01.522060
 adserver.uniqube.tv,AVAILABILITY,domains.list,2023-06-03 03:31:02.145236
 a1.dp25.kr,AVAILABILITY,domains.list,2023-06-03 03:31:03.013705
+ad.altervista.org,AVAILABILITY,domains.list,2023-06-04 03:34:36.725520
