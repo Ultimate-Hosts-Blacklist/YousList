@@ -1,18 +1,4 @@
 idna_subject,checker_type,destination,tested_at
-ad.naver.com,AVAILABILITY,domains.list,2023-06-05 03:27:56.239772
-cdn.connatix.com,AVAILABILITY,domains.list,2023-06-05 03:27:56.665569
-cpv.ad.naver.com,AVAILABILITY,domains.list,2023-06-05 03:27:57.419986
-mv.ad.naver.com,AVAILABILITY,domains.list,2023-06-05 03:27:58.458903
-nv.veta.naver.com,AVAILABILITY,domains.list,2023-06-05 03:27:59.135149
-veta.naver.com,AVAILABILITY,domains.list,2023-06-05 03:27:59.702768
-secure-ads.pictela.net,AVAILABILITY,domains.list,2023-06-05 03:28:00.063562
-api.adns.contentlink.co.kr,AVAILABILITY,domains.list,2023-06-05 03:28:01.021483
-api.ficm.contentlink.co.kr,AVAILABILITY,domains.list,2023-06-05 03:28:01.614648
-api.screensharp.kr,AVAILABILITY,domains.list,2023-06-05 03:28:02.495637
-adsrv.kstarplay.tv,AVAILABILITY,domains.list,2023-06-05 03:28:02.906264
-adtag.asiaone.com,AVAILABILITY,domains.list,2023-06-05 03:28:03.472028
-adv.mediakeep.co.kr,AVAILABILITY,domains.list,2023-06-05 03:28:04.276747
-adv.segye.com,AVAILABILITY,domains.list,2023-06-05 03:28:05.244566
 adv.realclick.co.kr,AVAILABILITY,domains.list,2023-06-05 03:28:06.337603
 agate.opap.co.kr,AVAILABILITY,domains.list,2023-06-05 03:28:07.215276
 alea.adam.ad.daum.net,AVAILABILITY,domains.list,2023-06-05 03:28:08.950225
@@ -197,3 +183,17 @@ ads.mangouni.com,AVAILABILITY,domains.list,2023-06-05 03:38:39.075892
 adserver.uniqube.tv,AVAILABILITY,domains.list,2023-06-05 03:38:39.519760
 a1.dp25.kr,AVAILABILITY,domains.list,2023-06-05 03:38:40.210598
 ad.altervista.org,AVAILABILITY,domains.list,2023-06-05 03:38:41.028240
+ad.naver.com,AVAILABILITY,domains.list,2023-06-06 10:56:46.339580
+cdn.connatix.com,AVAILABILITY,domains.list,2023-06-06 10:56:46.823514
+cpv.ad.naver.com,AVAILABILITY,domains.list,2023-06-06 10:56:47.635576
+mv.ad.naver.com,AVAILABILITY,domains.list,2023-06-06 10:56:48.330738
+nv.veta.naver.com,AVAILABILITY,domains.list,2023-06-06 10:56:48.985282
+veta.naver.com,AVAILABILITY,domains.list,2023-06-06 10:56:49.457455
+secure-ads.pictela.net,AVAILABILITY,domains.list,2023-06-06 10:56:49.892436
+api.adns.contentlink.co.kr,AVAILABILITY,domains.list,2023-06-06 10:56:50.847559
+api.ficm.contentlink.co.kr,AVAILABILITY,domains.list,2023-06-06 10:56:51.788932
+api.screensharp.kr,AVAILABILITY,domains.list,2023-06-06 10:56:52.740368
+adsrv.kstarplay.tv,AVAILABILITY,domains.list,2023-06-06 10:56:53.207344
+adtag.asiaone.com,AVAILABILITY,domains.list,2023-06-06 10:56:53.671925
+adv.mediakeep.co.kr,AVAILABILITY,domains.list,2023-06-06 10:56:54.544534
+adv.segye.com,AVAILABILITY,domains.list,2023-06-06 10:56:55.522144
