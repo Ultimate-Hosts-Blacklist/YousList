@@ -1,12 +1,4 @@
 idna_subject,checker_type,destination,tested_at
-ad.naver.com,AVAILABILITY,domains.list,2023-06-08 06:11:02.653684
-cdn.connatix.com,AVAILABILITY,domains.list,2023-06-08 06:11:03.067650
-cpv.ad.naver.com,AVAILABILITY,domains.list,2023-06-08 06:11:04.036212
-mv.ad.naver.com,AVAILABILITY,domains.list,2023-06-08 06:11:04.891986
-nv.veta.naver.com,AVAILABILITY,domains.list,2023-06-08 06:11:05.521574
-veta.naver.com,AVAILABILITY,domains.list,2023-06-08 06:11:06.227318
-secure-ads.pictela.net,AVAILABILITY,domains.list,2023-06-08 06:11:06.603810
-api.adns.contentlink.co.kr,AVAILABILITY,domains.list,2023-06-08 06:11:07.227375
 api.ficm.contentlink.co.kr,AVAILABILITY,domains.list,2023-06-08 06:11:07.911185
 api.screensharp.kr,AVAILABILITY,domains.list,2023-06-08 06:11:08.527258
 adsrv.kstarplay.tv,AVAILABILITY,domains.list,2023-06-08 06:11:08.912207
@@ -201,3 +193,11 @@ ad.yieldmanager.com,AVAILABILITY,domains.list,2023-06-09 04:44:42.264142
 b.a2gw.com,AVAILABILITY,domains.list,2023-06-09 04:47:59.958148
 sndkorea.nowcdn.co.kr,AVAILABILITY,domains.list,2023-06-09 05:02:14.414963
 static.escdn.co,AVAILABILITY,domains.list,2023-06-09 05:02:28.781154
+ad.naver.com,AVAILABILITY,domains.list,2023-06-10 03:50:13.863681
+cdn.connatix.com,AVAILABILITY,domains.list,2023-06-10 03:50:14.371548
+cpv.ad.naver.com,AVAILABILITY,domains.list,2023-06-10 03:50:15.165705
+mv.ad.naver.com,AVAILABILITY,domains.list,2023-06-10 03:50:15.956410
+nv.veta.naver.com,AVAILABILITY,domains.list,2023-06-10 03:50:18.374014
+veta.naver.com,AVAILABILITY,domains.list,2023-06-10 03:50:19.592649
+secure-ads.pictela.net,AVAILABILITY,domains.list,2023-06-10 03:50:20.138298
+api.adns.contentlink.co.kr,AVAILABILITY,domains.list,2023-06-10 03:50:22.641355
