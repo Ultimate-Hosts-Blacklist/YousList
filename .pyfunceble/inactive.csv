@@ -1,8 +1,4 @@
 idna_subject,checker_type,destination,tested_at
-ad.yieldmanager.com,AVAILABILITY,domains.list,2023-06-09 04:44:42.264142
-b.a2gw.com,AVAILABILITY,domains.list,2023-06-09 04:47:59.958148
-sndkorea.nowcdn.co.kr,AVAILABILITY,domains.list,2023-06-09 05:02:14.414963
-static.escdn.co,AVAILABILITY,domains.list,2023-06-09 05:02:28.781154
 ad.naver.com,AVAILABILITY,domains.list,2023-06-10 03:50:13.863681
 cdn.connatix.com,AVAILABILITY,domains.list,2023-06-10 03:50:14.371548
 cpv.ad.naver.com,AVAILABILITY,domains.list,2023-06-10 03:50:15.165705
@@ -201,3 +197,7 @@ ads.mangouni.com,AVAILABILITY,domains.list,2023-06-10 04:04:03.810789
 adserver.uniqube.tv,AVAILABILITY,domains.list,2023-06-10 04:04:05.874366
 a1.dp25.kr,AVAILABILITY,domains.list,2023-06-10 04:04:07.495573
 ad.altervista.org,AVAILABILITY,domains.list,2023-06-10 04:04:08.300209
+ad.yieldmanager.com,AVAILABILITY,domains.list,2023-06-10 10:51:29.319938
+b.a2gw.com,AVAILABILITY,domains.list,2023-06-10 10:51:30.106239
+sndkorea.nowcdn.co.kr,AVAILABILITY,domains.list,2023-06-10 10:51:31.940506
+static.escdn.co,AVAILABILITY,domains.list,2023-06-10 10:51:32.406516
