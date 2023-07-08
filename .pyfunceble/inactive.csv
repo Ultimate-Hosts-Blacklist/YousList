@@ -1,10 +1,4 @@
 idna_subject,checker_type,destination,tested_at
-ad.naver.com,AVAILABILITY,domains.list,2023-07-07 05:58:24.446257
-cdn.connatix.com,AVAILABILITY,domains.list,2023-07-07 05:58:24.813904
-cpv.ad.naver.com,AVAILABILITY,domains.list,2023-07-07 05:58:25.837012
-mv.ad.naver.com,AVAILABILITY,domains.list,2023-07-07 05:58:26.709285
-nv.veta.naver.com,AVAILABILITY,domains.list,2023-07-07 05:58:27.302865
-veta.naver.com,AVAILABILITY,domains.list,2023-07-07 05:58:27.934707
 secure-ads.pictela.net,AVAILABILITY,domains.list,2023-07-07 05:58:28.283148
 api.adns.contentlink.co.kr,AVAILABILITY,domains.list,2023-07-07 05:58:29.730276
 api.ficm.contentlink.co.kr,AVAILABILITY,domains.list,2023-07-07 05:58:30.515053
@@ -202,3 +196,9 @@ b.a2gw.com,AVAILABILITY,domains.list,2023-07-07 06:06:57.788836
 sndkorea.nowcdn.co.kr,AVAILABILITY,domains.list,2023-07-07 06:06:59.567857
 static.escdn.co,AVAILABILITY,domains.list,2023-07-07 06:07:00.043490
 las.danawa.com,AVAILABILITY,domains.list,2023-07-07 06:07:00.884749
+ad.naver.com,AVAILABILITY,domains.list,2023-07-08 08:48:05.347030
+cdn.connatix.com,AVAILABILITY,domains.list,2023-07-08 08:48:05.801879
+cpv.ad.naver.com,AVAILABILITY,domains.list,2023-07-08 08:48:06.554865
+mv.ad.naver.com,AVAILABILITY,domains.list,2023-07-08 08:48:07.168478
+nv.veta.naver.com,AVAILABILITY,domains.list,2023-07-08 08:48:07.837398
+veta.naver.com,AVAILABILITY,domains.list,2023-07-08 08:48:08.297133
