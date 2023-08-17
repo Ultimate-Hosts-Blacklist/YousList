@@ -1,16 +1,4 @@
 idna_subject,checker_type,destination,tested_at
-vod.shoppingcall.me,AVAILABILITY,domains.list,2023-08-15 06:02:41.079824
-ad.mediafarm.co.kr,AVAILABILITY,domains.list,2023-08-15 06:17:49.202264
-ad.naver.com,AVAILABILITY,domains.list,2023-08-15 06:17:50.044491
-cdn.connatix.com,AVAILABILITY,domains.list,2023-08-15 06:17:50.352987
-cpv.ad.naver.com,AVAILABILITY,domains.list,2023-08-15 06:17:50.678083
-mv.ad.naver.com,AVAILABILITY,domains.list,2023-08-15 06:17:51.007317
-nv.veta.naver.com,AVAILABILITY,domains.list,2023-08-15 06:17:51.303411
-veta.naver.com,AVAILABILITY,domains.list,2023-08-15 06:17:51.807998
-secure-ads.pictela.net,AVAILABILITY,domains.list,2023-08-15 06:17:52.076729
-api.adns.contentlink.co.kr,AVAILABILITY,domains.list,2023-08-15 06:17:52.918941
-api.ficm.contentlink.co.kr,AVAILABILITY,domains.list,2023-08-15 06:17:53.609723
-adsrv.kstarplay.tv,AVAILABILITY,domains.list,2023-08-15 06:17:53.946360
 adtag.asiaone.com,AVAILABILITY,domains.list,2023-08-15 06:17:54.295149
 adv.mediakeep.co.kr,AVAILABILITY,domains.list,2023-08-15 06:17:55.115918
 adv.segye.com,AVAILABILITY,domains.list,2023-08-15 06:17:56.231586
@@ -202,3 +190,15 @@ b.a2gw.com,AVAILABILITY,domains.list,2023-08-15 06:20:02.610730
 sndkorea.nowcdn.co.kr,AVAILABILITY,domains.list,2023-08-15 06:20:04.437373
 static.escdn.co,AVAILABILITY,domains.list,2023-08-15 06:20:04.768298
 las.danawa.com,AVAILABILITY,domains.list,2023-08-15 06:20:05.686806
+vod.shoppingcall.me,AVAILABILITY,domains.list,2023-08-17 06:05:11.246122
+ad.mediafarm.co.kr,AVAILABILITY,domains.list,2023-08-17 06:05:31.580846
+ad.naver.com,AVAILABILITY,domains.list,2023-08-17 06:05:32.057638
+cdn.connatix.com,AVAILABILITY,domains.list,2023-08-17 06:05:32.432913
+cpv.ad.naver.com,AVAILABILITY,domains.list,2023-08-17 06:05:32.805475
+mv.ad.naver.com,AVAILABILITY,domains.list,2023-08-17 06:05:33.436740
+nv.veta.naver.com,AVAILABILITY,domains.list,2023-08-17 06:05:33.918972
+veta.naver.com,AVAILABILITY,domains.list,2023-08-17 06:05:34.279530
+secure-ads.pictela.net,AVAILABILITY,domains.list,2023-08-17 06:05:34.581487
+api.adns.contentlink.co.kr,AVAILABILITY,domains.list,2023-08-17 06:05:35.244446
+api.ficm.contentlink.co.kr,AVAILABILITY,domains.list,2023-08-17 06:05:35.893621
+adsrv.kstarplay.tv,AVAILABILITY,domains.list,2023-08-17 06:05:36.245800
