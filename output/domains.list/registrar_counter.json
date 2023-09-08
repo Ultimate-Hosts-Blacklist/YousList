@@ -1,16 +1,18 @@
 {
     "counter": {
+        "Danesco Trading Ltd.": 2,
         "Dotname Korea Corp.(http://www.dotname.co.kr)": 2,
         "Gabia, Inc.": 2,
         "Gabia, Inc.(http://www.gabia.co.kr)": 2,
         "eNom, LLC": 4,
-        "total": 10
+        "total": 12
     },
     "percentage": {
-        "Dotname Korea Corp.(http://www.dotname.co.kr)": 20.0,
-        "Gabia, Inc.": 20.0,
-        "Gabia, Inc.(http://www.gabia.co.kr)": 20.0,
-        "eNom, LLC": 40.0,
+        "Danesco Trading Ltd.": 16.666666666666668,
+        "Dotname Korea Corp.(http://www.dotname.co.kr)": 16.666666666666668,
+        "Gabia, Inc.": 16.666666666666668,
+        "Gabia, Inc.(http://www.gabia.co.kr)": 16.666666666666668,
+        "eNom, LLC": 33.333333333333336,
         "total": 100.0
     }
 }
