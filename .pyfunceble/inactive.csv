@@ -1,18 +1,4 @@
 idna_subject,checker_type,destination,tested_at
-vod.shoppingcall.me,AVAILABILITY,domains.list,2023-09-07 12:38:36.531483
-ad.mediafarm.co.kr,AVAILABILITY,domains.list,2023-09-07 12:38:53.239921
-ad.naver.com,AVAILABILITY,domains.list,2023-09-07 12:38:53.560233
-cdn.connatix.com,AVAILABILITY,domains.list,2023-09-07 12:38:53.896948
-cpv.ad.naver.com,AVAILABILITY,domains.list,2023-09-07 12:38:54.404439
-mv.ad.naver.com,AVAILABILITY,domains.list,2023-09-07 12:38:55.440187
-nv.veta.naver.com,AVAILABILITY,domains.list,2023-09-07 12:38:55.869954
-veta.naver.com,AVAILABILITY,domains.list,2023-09-07 12:38:56.384831
-secure-ads.pictela.net,AVAILABILITY,domains.list,2023-09-07 12:38:56.648782
-api.adns.contentlink.co.kr,AVAILABILITY,domains.list,2023-09-07 12:38:57.445030
-api.ficm.contentlink.co.kr,AVAILABILITY,domains.list,2023-09-07 12:38:58.037847
-adsrv.kstarplay.tv,AVAILABILITY,domains.list,2023-09-07 12:38:58.425344
-adtag.asiaone.com,AVAILABILITY,domains.list,2023-09-07 12:38:58.780142
-adv.mediakeep.co.kr,AVAILABILITY,domains.list,2023-09-07 12:38:59.349478
 adv.segye.com,AVAILABILITY,domains.list,2023-09-07 12:39:00.071810
 adv.realclick.co.kr,AVAILABILITY,domains.list,2023-09-07 12:39:01.444449
 agate.opap.co.kr,AVAILABILITY,domains.list,2023-09-07 12:39:02.639067
@@ -198,3 +184,17 @@ b.a2gw.com,AVAILABILITY,domains.list,2023-09-07 12:42:30.296353
 sndkorea.nowcdn.co.kr,AVAILABILITY,domains.list,2023-09-07 12:42:31.821363
 static.escdn.co,AVAILABILITY,domains.list,2023-09-07 12:42:32.342883
 las.danawa.com,AVAILABILITY,domains.list,2023-09-07 12:42:33.259449
+vod.shoppingcall.me,AVAILABILITY,domains.list,2023-09-09 05:16:39.007302
+ad.mediafarm.co.kr,AVAILABILITY,domains.list,2023-09-09 05:17:33.067319
+ad.naver.com,AVAILABILITY,domains.list,2023-09-09 05:17:33.527778
+cdn.connatix.com,AVAILABILITY,domains.list,2023-09-09 05:17:33.837777
+cpv.ad.naver.com,AVAILABILITY,domains.list,2023-09-09 05:17:34.284017
+mv.ad.naver.com,AVAILABILITY,domains.list,2023-09-09 05:17:34.781949
+nv.veta.naver.com,AVAILABILITY,domains.list,2023-09-09 05:17:35.225897
+veta.naver.com,AVAILABILITY,domains.list,2023-09-09 05:17:35.688412
+secure-ads.pictela.net,AVAILABILITY,domains.list,2023-09-09 05:17:36.013600
+api.adns.contentlink.co.kr,AVAILABILITY,domains.list,2023-09-09 05:17:36.501054
+api.ficm.contentlink.co.kr,AVAILABILITY,domains.list,2023-09-09 05:17:37.006131
+adsrv.kstarplay.tv,AVAILABILITY,domains.list,2023-09-09 05:17:37.343114
+adtag.asiaone.com,AVAILABILITY,domains.list,2023-09-09 05:17:37.703355
+adv.mediakeep.co.kr,AVAILABILITY,domains.list,2023-09-09 05:17:38.532524
