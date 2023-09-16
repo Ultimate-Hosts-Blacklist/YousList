@@ -1,14 +1,4 @@
 idna_subject,checker_type,destination,tested_at
-vod.shoppingcall.me,AVAILABILITY,domains.list,2023-09-15 02:18:03.751760
-ad.mediafarm.co.kr,AVAILABILITY,domains.list,2023-09-15 02:18:24.044477
-ad.naver.com,AVAILABILITY,domains.list,2023-09-15 02:18:24.347587
-cdn.connatix.com,AVAILABILITY,domains.list,2023-09-15 02:18:24.630955
-cpv.ad.naver.com,AVAILABILITY,domains.list,2023-09-15 02:18:25.222007
-mv.ad.naver.com,AVAILABILITY,domains.list,2023-09-15 02:18:25.672262
-nv.veta.naver.com,AVAILABILITY,domains.list,2023-09-15 02:18:26.117224
-veta.naver.com,AVAILABILITY,domains.list,2023-09-15 02:18:26.427236
-secure-ads.pictela.net,AVAILABILITY,domains.list,2023-09-15 02:18:26.689499
-api.adns.contentlink.co.kr,AVAILABILITY,domains.list,2023-09-15 02:18:27.453714
 api.ficm.contentlink.co.kr,AVAILABILITY,domains.list,2023-09-15 02:18:27.924645
 adsrv.kstarplay.tv,AVAILABILITY,domains.list,2023-09-15 02:18:28.234983
 adtag.asiaone.com,AVAILABILITY,domains.list,2023-09-15 02:18:28.551701
@@ -198,3 +188,13 @@ b.a2gw.com,AVAILABILITY,domains.list,2023-09-15 02:20:44.983447
 sndkorea.nowcdn.co.kr,AVAILABILITY,domains.list,2023-09-15 02:20:46.603268
 static.escdn.co,AVAILABILITY,domains.list,2023-09-15 02:20:46.889612
 las.danawa.com,AVAILABILITY,domains.list,2023-09-15 02:20:47.575688
+vod.shoppingcall.me,AVAILABILITY,domains.list,2023-09-16 11:43:16.152313
+ad.mediafarm.co.kr,AVAILABILITY,domains.list,2023-09-16 11:43:27.819480
+ad.naver.com,AVAILABILITY,domains.list,2023-09-16 11:43:28.475663
+cdn.connatix.com,AVAILABILITY,domains.list,2023-09-16 11:43:28.862100
+cpv.ad.naver.com,AVAILABILITY,domains.list,2023-09-16 11:43:29.245677
+mv.ad.naver.com,AVAILABILITY,domains.list,2023-09-16 11:43:29.636444
+nv.veta.naver.com,AVAILABILITY,domains.list,2023-09-16 11:43:29.991644
+veta.naver.com,AVAILABILITY,domains.list,2023-09-16 11:43:30.673794
+secure-ads.pictela.net,AVAILABILITY,domains.list,2023-09-16 11:43:31.016164
+api.adns.contentlink.co.kr,AVAILABILITY,domains.list,2023-09-16 11:43:31.550062
