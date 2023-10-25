@@ -1,8 +1,4 @@
 idna_subject,checker_type,destination,tested_at
-t.tmdn2015x9.com,AVAILABILITY,domains.list,2023-10-24 10:10:59.484157
-tracker.nodojs.nl,AVAILABILITY,domains.list,2023-10-24 10:10:59.864859
-vod.shoppingcall.me,AVAILABILITY,domains.list,2023-10-24 10:11:01.733173
-ad.mediafarm.co.kr,AVAILABILITY,domains.list,2023-10-24 10:11:18.561332
 ad.naver.com,AVAILABILITY,domains.list,2023-10-24 10:21:12.826787
 cdn.connatix.com,AVAILABILITY,domains.list,2023-10-24 10:21:13.231338
 cpv.ad.naver.com,AVAILABILITY,domains.list,2023-10-24 10:21:14.444760
@@ -200,3 +196,7 @@ b.a2gw.com,AVAILABILITY,domains.list,2023-10-24 10:24:06.918465
 sndkorea.nowcdn.co.kr,AVAILABILITY,domains.list,2023-10-24 10:24:08.199283
 static.escdn.co,AVAILABILITY,domains.list,2023-10-24 10:24:08.615996
 las.danawa.com,AVAILABILITY,domains.list,2023-10-24 10:24:10.547515
+t.tmdn2015x9.com,AVAILABILITY,domains.list,2023-10-25 10:18:24.277401
+tracker.nodojs.nl,AVAILABILITY,domains.list,2023-10-25 10:18:24.659963
+vod.shoppingcall.me,AVAILABILITY,domains.list,2023-10-25 10:18:43.827277
+ad.mediafarm.co.kr,AVAILABILITY,domains.list,2023-10-25 10:18:57.259380
