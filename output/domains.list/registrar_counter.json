@@ -1,10 +1,14 @@
 {
     "counter": {
-        "Amazon Registrar, Inc.": 2,
-        "total": 2
+        "Danesco Trading Ltd.": 2,
+        "URL Solutions, Inc.": 2,
+        "total": 6,
+        "viaweb(http://viaweb.co.kr)": 2
     },
     "percentage": {
-        "Amazon Registrar, Inc.": 100.0,
-        "total": 100.0
+        "Danesco Trading Ltd.": 33.333333333333336,
+        "URL Solutions, Inc.": 33.333333333333336,
+        "total": 100.0,
+        "viaweb(http://viaweb.co.kr)": 33.333333333333336
     }
 }
