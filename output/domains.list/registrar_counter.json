@@ -1,12 +1,14 @@
 {
     "counter": {
+        "Danesco Trading Ltd.": 2,
         "URL Solutions, Inc.": 2,
-        "total": 4,
+        "total": 6,
         "viaweb(http://viaweb.co.kr)": 2
     },
     "percentage": {
-        "URL Solutions, Inc.": 50.0,
+        "Danesco Trading Ltd.": 33.333333333333336,
+        "URL Solutions, Inc.": 33.333333333333336,
         "total": 100.0,
-        "viaweb(http://viaweb.co.kr)": 50.0
+        "viaweb(http://viaweb.co.kr)": 33.333333333333336
     }
 }
