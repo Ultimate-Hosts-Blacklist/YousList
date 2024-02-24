@@ -1,12 +1,10 @@
 {
     "counter": {
-        "Gabia, Inc.": 2,
-        "Gabia, Inc.(http://www.gabia.co.kr)": 2,
-        "total": 4
+        "GoDaddy.com, LLC": 2,
+        "total": 2
     },
     "percentage": {
-        "Gabia, Inc.": 50.0,
-        "Gabia, Inc.(http://www.gabia.co.kr)": 50.0,
+        "GoDaddy.com, LLC": 100.0,
         "total": 100.0
     }
 }
