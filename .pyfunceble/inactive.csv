@@ -1,9 +1,4 @@
 idna_subject,checker_type,destination,tested_at
-pub.adpnut.com,AVAILABILITY,domains.list,2024-05-03 11:25:00.000818
-s.atemda.com,AVAILABILITY,domains.list,2024-05-03 11:30:06.126152
-imp.valuepotion.com,AVAILABILITY,domains.list,2024-05-04 04:22:24.507411
-prebid.districtm.ca,AVAILABILITY,domains.list,2024-05-04 04:30:50.502380
-ps.ns-cdn.com,AVAILABILITY,domains.list,2024-05-04 04:30:57.018454
 ad.yieldmanager.com,AVAILABILITY,domains.list,2024-05-04 04:44:29.731441
 cdn.connatix.com,AVAILABILITY,domains.list,2024-05-04 04:44:30.119708
 sndkorea.nowcdn.co.kr,AVAILABILITY,domains.list,2024-05-04 04:44:39.811242
@@ -201,3 +196,5 @@ adpingpong2.co.kr,AVAILABILITY,domains.list,2024-05-04 04:57:01.614270
 adneo.encock.com,AVAILABILITY,domains.list,2024-05-04 04:57:02.082360
 adpingpong1.co.kr,AVAILABILITY,domains.list,2024-05-04 04:57:03.154662
 sosa.semanticrep.com,AVAILABILITY,domains.list,2024-05-04 04:57:06.459917
+traffic.adxprts.com,AVAILABILITY,domains.list,2024-05-05 04:44:35.388164
+s.atemda.com,AVAILABILITY,domains.list,2024-05-05 04:46:23.640733
