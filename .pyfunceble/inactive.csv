@@ -1,10 +1,4 @@
 idna_subject,checker_type,destination,tested_at
-redir.adap.tv,AVAILABILITY,domains.list,2024-05-09 11:48:04.943691
-ps.ns-cdn.com,AVAILABILITY,domains.list,2024-05-09 11:52:48.361894
-traffic.adxprts.com,AVAILABILITY,domains.list,2024-05-09 11:52:48.847997
-s.atemda.com,AVAILABILITY,domains.list,2024-05-09 11:52:59.677299
-ad.yieldmanager.com,AVAILABILITY,domains.list,2024-05-09 11:53:15.242326
-cdn.connatix.com,AVAILABILITY,domains.list,2024-05-09 11:53:15.738532
 sndkorea.nowcdn.co.kr,AVAILABILITY,domains.list,2024-05-10 02:06:30.806619
 tracker.nodojs.nl,AVAILABILITY,domains.list,2024-05-10 02:06:31.231830
 adx.naonmedia.net,AVAILABILITY,domains.list,2024-05-10 02:06:36.470261
@@ -201,3 +195,9 @@ adneo.encock.com,AVAILABILITY,domains.list,2024-05-10 02:13:18.143578
 adpingpong1.co.kr,AVAILABILITY,domains.list,2024-05-10 02:13:19.478056
 sosa.semanticrep.com,AVAILABILITY,domains.list,2024-05-10 02:13:21.121472
 cadvv.heraldm.com,AVAILABILITY,domains.list,2024-05-11 01:36:48.072129
+rcm.amazon.com,AVAILABILITY,domains.list,2024-05-11 01:48:22.111848
+redir.adap.tv,AVAILABILITY,domains.list,2024-05-11 01:53:33.984218
+traffic.adxprts.com,AVAILABILITY,domains.list,2024-05-11 01:53:34.821015
+s.atemda.com,AVAILABILITY,domains.list,2024-05-11 01:53:46.137380
+ad.yieldmanager.com,AVAILABILITY,domains.list,2024-05-11 01:53:50.530414
+cdn.connatix.com,AVAILABILITY,domains.list,2024-05-11 01:53:50.927666
