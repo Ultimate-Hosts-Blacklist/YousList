@@ -1,6 +1,4 @@
 idna_subject,checker_type,destination,tested_at
-prebid.districtm.ca,AVAILABILITY,domains.list,2024-05-14 06:56:18.981553
-pub.adpnut.com,AVAILABILITY,domains.list,2024-05-14 06:56:22.116124
 imp.valuepotion.com,AVAILABILITY,domains.list,2024-05-15 06:43:17.576938
 sndkorea.nowcdn.co.kr,AVAILABILITY,domains.list,2024-05-15 06:54:04.661433
 tracker.nodojs.nl,AVAILABILITY,domains.list,2024-05-15 06:54:05.004637
@@ -202,3 +200,4 @@ traffic.adxprts.com,AVAILABILITY,domains.list,2024-05-15 07:00:42.656377
 s.atemda.com,AVAILABILITY,domains.list,2024-05-15 07:00:49.511379
 ad.yieldmanager.com,AVAILABILITY,domains.list,2024-05-15 07:00:51.022800
 cdn.connatix.com,AVAILABILITY,domains.list,2024-05-15 07:00:51.314662
+pub.adpnut.com,AVAILABILITY,domains.list,2024-05-16 06:53:25.993180
