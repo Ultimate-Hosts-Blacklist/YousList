@@ -1,5 +1,4 @@
 idna_subject,checker_type,destination,tested_at
-rcm.amazon.com,AVAILABILITY,domains.list,2024-05-24 10:56:03.085576
 ps.ns-cdn.com,AVAILABILITY,domains.list,2024-05-25 03:43:24.902624
 imp.valuepotion.com,AVAILABILITY,domains.list,2024-05-25 03:48:32.504041
 web-sdk.shallweadcorp.com,AVAILABILITY,domains.list,2024-05-25 03:48:34.668136
@@ -202,3 +201,4 @@ traffic.adxprts.com,AVAILABILITY,domains.list,2024-05-25 03:55:26.227056
 s.atemda.com,AVAILABILITY,domains.list,2024-05-25 03:55:37.801037
 ad.yieldmanager.com,AVAILABILITY,domains.list,2024-05-25 03:55:51.045175
 cdn.connatix.com,AVAILABILITY,domains.list,2024-05-25 03:55:51.610949
+rcm.amazon.com,AVAILABILITY,domains.list,2024-05-25 11:58:11.506110
