@@ -1,5 +1,4 @@
 idna_subject,checker_type,destination,tested_at
-rcm.amazon.com,AVAILABILITY,domains.list,2024-05-25 11:58:11.506110
 web-sdk.shallweadcorp.com,AVAILABILITY,domains.list,2024-05-26 10:54:03.783531
 sndkorea.nowcdn.co.kr,AVAILABILITY,domains.list,2024-05-26 10:54:08.838011
 tracker.nodojs.nl,AVAILABILITY,domains.list,2024-05-26 10:54:09.226671
@@ -200,3 +199,5 @@ traffic.adxprts.com,AVAILABILITY,domains.list,2024-05-26 11:00:15.532160
 s.atemda.com,AVAILABILITY,domains.list,2024-05-26 11:00:26.460532
 ad.yieldmanager.com,AVAILABILITY,domains.list,2024-05-26 11:00:30.482998
 cdn.connatix.com,AVAILABILITY,domains.list,2024-05-26 11:00:30.918670
+ps.ns-cdn.com,AVAILABILITY,domains.list,2024-05-27 05:09:14.100548
+pub.adpnut.com,AVAILABILITY,domains.list,2024-05-27 05:09:16.526426
