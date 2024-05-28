@@ -1,6 +1,4 @@
 idna_subject,checker_type,destination,tested_at
-ps.ns-cdn.com,AVAILABILITY,domains.list,2024-05-27 05:09:14.100548
-pub.adpnut.com,AVAILABILITY,domains.list,2024-05-27 05:09:16.526426
 cadvv.heraldm.com,AVAILABILITY,domains.list,2024-05-28 02:33:08.505539
 prebid.districtm.ca,AVAILABILITY,domains.list,2024-05-28 02:45:03.184253
 web-sdk.shallweadcorp.com,AVAILABILITY,domains.list,2024-05-28 02:50:20.114826
@@ -203,3 +201,4 @@ traffic.adxprts.com,AVAILABILITY,domains.list,2024-05-28 02:56:46.269817
 s.atemda.com,AVAILABILITY,domains.list,2024-05-28 02:56:57.609435
 ad.yieldmanager.com,AVAILABILITY,domains.list,2024-05-28 02:57:08.911347
 cdn.connatix.com,AVAILABILITY,domains.list,2024-05-28 02:57:09.293965
+ps.ns-cdn.com,AVAILABILITY,domains.list,2024-05-28 11:09:44.590935
