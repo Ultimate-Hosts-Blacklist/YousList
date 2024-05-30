@@ -1,5 +1,4 @@
 idna_subject,checker_type,destination,tested_at
-ps.ns-cdn.com,AVAILABILITY,domains.list,2024-05-28 11:09:44.590935
 web-sdk.shallweadcorp.com,AVAILABILITY,domains.list,2024-05-29 11:02:36.925691
 sndkorea.nowcdn.co.kr,AVAILABILITY,domains.list,2024-05-29 11:02:47.047845
 tracker.nodojs.nl,AVAILABILITY,domains.list,2024-05-29 11:02:50.642547
@@ -201,3 +200,6 @@ s.atemda.com,AVAILABILITY,domains.list,2024-05-29 11:12:35.419843
 ad.yieldmanager.com,AVAILABILITY,domains.list,2024-05-29 11:12:38.488765
 cdn.connatix.com,AVAILABILITY,domains.list,2024-05-29 11:12:39.006779
 imp.valuepotion.com,AVAILABILITY,domains.list,2024-05-30 10:52:01.200879
+prebid.districtm.ca,AVAILABILITY,domains.list,2024-05-30 10:57:05.043456
+pub.adpnut.com,AVAILABILITY,domains.list,2024-05-30 10:57:08.879416
+ps.ns-cdn.com,AVAILABILITY,domains.list,2024-05-30 11:02:41.892973
