@@ -1,8 +1,4 @@
 idna_subject,checker_type,destination,tested_at
-traffic.adxprts.com,AVAILABILITY,domains.list,2024-06-06 11:08:19.704560
-s.atemda.com,AVAILABILITY,domains.list,2024-06-06 11:08:31.323789
-ad.yieldmanager.com,AVAILABILITY,domains.list,2024-06-06 11:08:42.357767
-cdn.connatix.com,AVAILABILITY,domains.list,2024-06-06 11:08:42.726930
 ps.ns-cdn.com,AVAILABILITY,domains.list,2024-06-07 11:12:30.438140
 rcm.amazon.com,AVAILABILITY,domains.list,2024-06-07 11:12:30.796871
 web-sdk.shallweadcorp.com,AVAILABILITY,domains.list,2024-06-07 11:12:31.082861
@@ -200,3 +196,7 @@ adpingpong2.co.kr,AVAILABILITY,domains.list,2024-06-08 02:39:15.327022
 adneo.encock.com,AVAILABILITY,domains.list,2024-06-08 02:39:15.712024
 adpingpong1.co.kr,AVAILABILITY,domains.list,2024-06-08 02:39:17.300540
 redir.adap.tv,AVAILABILITY,domains.list,2024-06-08 02:39:17.687495
+traffic.adxprts.com,AVAILABILITY,domains.list,2024-06-08 02:42:22.719572
+s.atemda.com,AVAILABILITY,domains.list,2024-06-08 02:42:34.287019
+ad.yieldmanager.com,AVAILABILITY,domains.list,2024-06-08 02:42:35.052748
+cdn.connatix.com,AVAILABILITY,domains.list,2024-06-08 02:42:35.424635
