@@ -1,18 +1,4 @@
 idna_subject,checker_type,destination,tested_at
-traffic.adxprts.com,AVAILABILITY,domains.list,2024-06-26 10:51:04.320113
-s.atemda.com,AVAILABILITY,domains.list,2024-06-26 10:51:15.697352
-ad.yieldmanager.com,AVAILABILITY,domains.list,2024-06-26 10:51:17.635493
-cdn.connatix.com,AVAILABILITY,domains.list,2024-06-26 10:51:17.949360
-web-sdk.shallweadcorp.com,AVAILABILITY,domains.list,2024-06-26 10:51:18.269404
-sndkorea.nowcdn.co.kr,AVAILABILITY,domains.list,2024-06-26 10:51:24.260944
-tracker.nodojs.nl,AVAILABILITY,domains.list,2024-06-26 10:51:24.581361
-adx.naonmedia.net,AVAILABILITY,domains.list,2024-06-26 10:51:25.041663
-adpingpong.co.kr,AVAILABILITY,domains.list,2024-06-26 10:51:27.336679
-ads1.playforum.net,AVAILABILITY,domains.list,2024-06-26 10:51:28.010166
-adr.realclick.co.kr,AVAILABILITY,domains.list,2024-06-26 10:51:34.798898
-ads3.adinc.co.kr,AVAILABILITY,domains.list,2024-06-26 10:51:37.252593
-ads.ad7942.co.kr,AVAILABILITY,domains.list,2024-06-26 10:51:38.450611
-ads.adjust-net.jp,AVAILABILITY,domains.list,2024-06-26 10:51:39.578847
 imp.valuepotion.com,AVAILABILITY,domains.list,2024-06-27 10:47:13.428490
 prebid.districtm.ca,AVAILABILITY,domains.list,2024-06-27 10:55:17.368577
 ps.ns-cdn.com,AVAILABILITY,domains.list,2024-06-27 10:55:19.001170
@@ -203,3 +189,17 @@ adpingpong2.co.kr,AVAILABILITY,domains.list,2024-06-27 11:06:31.852843
 adneo.encock.com,AVAILABILITY,domains.list,2024-06-27 11:06:32.269798
 adpingpong1.co.kr,AVAILABILITY,domains.list,2024-06-27 11:06:33.501975
 redir.adap.tv,AVAILABILITY,domains.list,2024-06-27 11:06:44.903427
+traffic.adxprts.com,AVAILABILITY,domains.list,2024-06-27 11:11:31.540486
+s.atemda.com,AVAILABILITY,domains.list,2024-06-27 11:11:42.422976
+ad.yieldmanager.com,AVAILABILITY,domains.list,2024-06-27 11:11:44.026253
+cdn.connatix.com,AVAILABILITY,domains.list,2024-06-27 11:11:44.421837
+web-sdk.shallweadcorp.com,AVAILABILITY,domains.list,2024-06-27 11:11:44.781415
+sndkorea.nowcdn.co.kr,AVAILABILITY,domains.list,2024-06-27 11:11:52.949341
+tracker.nodojs.nl,AVAILABILITY,domains.list,2024-06-27 11:11:53.352729
+adx.naonmedia.net,AVAILABILITY,domains.list,2024-06-27 11:11:55.330961
+adpingpong.co.kr,AVAILABILITY,domains.list,2024-06-27 11:11:57.813004
+ads1.playforum.net,AVAILABILITY,domains.list,2024-06-27 11:11:58.870323
+adr.realclick.co.kr,AVAILABILITY,domains.list,2024-06-27 11:12:15.924187
+ads3.adinc.co.kr,AVAILABILITY,domains.list,2024-06-27 11:12:18.504710
+ads.ad7942.co.kr,AVAILABILITY,domains.list,2024-06-27 11:12:20.312758
+ads.adjust-net.jp,AVAILABILITY,domains.list,2024-06-27 11:12:21.728266
