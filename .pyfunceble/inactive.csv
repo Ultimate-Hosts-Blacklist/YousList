@@ -1,5 +1,4 @@
 idna_subject,checker_type,destination,tested_at
-prebid.districtm.ca,AVAILABILITY,domains.list,2024-06-29 12:13:19.231486
 ads.realclick.co.kr,AVAILABILITY,domains.list,2024-06-30 06:33:21.890053
 ads.mangouni.com,AVAILABILITY,domains.list,2024-06-30 06:33:22.405438
 adserver.uniqube.tv,AVAILABILITY,domains.list,2024-06-30 06:33:23.004259
@@ -200,3 +199,4 @@ adr.realclick.co.kr,AVAILABILITY,domains.list,2024-06-30 06:39:47.071410
 ads3.adinc.co.kr,AVAILABILITY,domains.list,2024-06-30 06:39:48.504639
 ads.ad7942.co.kr,AVAILABILITY,domains.list,2024-06-30 06:39:50.413884
 ads.adjust-net.jp,AVAILABILITY,domains.list,2024-06-30 06:39:51.868535
+rcm.amazon.com,AVAILABILITY,domains.list,2024-07-01 06:17:33.207213
