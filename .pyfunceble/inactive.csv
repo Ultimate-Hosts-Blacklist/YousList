@@ -1,14 +1,4 @@
 idna_subject,checker_type,destination,tested_at
-tracker.nodojs.nl,AVAILABILITY,domains.list,2024-07-04 05:23:39.896428
-adx.naonmedia.net,AVAILABILITY,domains.list,2024-07-04 05:23:42.691023
-adpingpong.co.kr,AVAILABILITY,domains.list,2024-07-04 05:23:49.665350
-ads1.playforum.net,AVAILABILITY,domains.list,2024-07-04 05:23:57.242147
-adr.realclick.co.kr,AVAILABILITY,domains.list,2024-07-04 05:24:04.498722
-ads3.adinc.co.kr,AVAILABILITY,domains.list,2024-07-04 05:24:11.583586
-ads.ad7942.co.kr,AVAILABILITY,domains.list,2024-07-04 05:24:14.895779
-ads.adjust-net.jp,AVAILABILITY,domains.list,2024-07-04 05:24:17.840628
-rcm.amazon.com,AVAILABILITY,domains.list,2024-07-04 05:24:20.163920
-ps.ns-cdn.com,AVAILABILITY,domains.list,2024-07-04 06:33:05.084160
 cdn4.wibbitz.com,AVAILABILITY,domains.list,2024-07-05 06:38:58.463300
 ads.realclick.co.kr,AVAILABILITY,domains.list,2024-07-05 06:39:09.483694
 ads.mangouni.com,AVAILABILITY,domains.list,2024-07-05 06:39:09.855432
@@ -202,3 +192,12 @@ ad.yieldmanager.com,AVAILABILITY,domains.list,2024-07-05 06:46:07.003208
 cdn.connatix.com,AVAILABILITY,domains.list,2024-07-05 06:46:07.408193
 web-sdk.shallweadcorp.com,AVAILABILITY,domains.list,2024-07-05 06:46:07.738367
 sndkorea.nowcdn.co.kr,AVAILABILITY,domains.list,2024-07-05 06:46:21.627889
+tracker.nodojs.nl,AVAILABILITY,domains.list,2024-07-05 06:49:24.362830
+adx.naonmedia.net,AVAILABILITY,domains.list,2024-07-05 06:49:30.902694
+adpingpong.co.kr,AVAILABILITY,domains.list,2024-07-05 06:49:32.885574
+ads1.playforum.net,AVAILABILITY,domains.list,2024-07-05 06:49:34.086738
+adr.realclick.co.kr,AVAILABILITY,domains.list,2024-07-05 06:49:46.106944
+ads3.adinc.co.kr,AVAILABILITY,domains.list,2024-07-05 06:49:48.893385
+ads.ad7942.co.kr,AVAILABILITY,domains.list,2024-07-05 06:49:50.575143
+ads.adjust-net.jp,AVAILABILITY,domains.list,2024-07-05 06:49:52.989403
+ps.ns-cdn.com,AVAILABILITY,domains.list,2024-07-05 06:49:53.802215
