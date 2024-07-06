@@ -1,9 +1,4 @@
 idna_subject,checker_type,destination,tested_at
-ads.ad7942.co.kr,AVAILABILITY,domains.list,2024-07-05 06:49:50.575143
-ads.adjust-net.jp,AVAILABILITY,domains.list,2024-07-05 06:49:52.989403
-ps.ns-cdn.com,AVAILABILITY,domains.list,2024-07-05 06:49:53.802215
-imp.valuepotion.com,AVAILABILITY,domains.list,2024-07-05 08:54:42.685442
-prebid.districtm.ca,AVAILABILITY,domains.list,2024-07-05 09:00:46.164900
 rcm.amazon.com,AVAILABILITY,domains.list,2024-07-06 09:02:27.768042
 cdn4.wibbitz.com,AVAILABILITY,domains.list,2024-07-06 09:07:59.027190
 ads.realclick.co.kr,AVAILABILITY,domains.list,2024-07-06 09:08:03.184987
@@ -204,3 +199,7 @@ adpingpong.co.kr,AVAILABILITY,domains.list,2024-07-06 09:15:09.181606
 ads1.playforum.net,AVAILABILITY,domains.list,2024-07-06 09:15:10.621611
 adr.realclick.co.kr,AVAILABILITY,domains.list,2024-07-06 09:15:16.184432
 ads3.adinc.co.kr,AVAILABILITY,domains.list,2024-07-06 09:15:19.715916
+ads.ad7942.co.kr,AVAILABILITY,domains.list,2024-07-06 09:19:09.427726
+ads.adjust-net.jp,AVAILABILITY,domains.list,2024-07-06 09:19:11.766947
+ps.ns-cdn.com,AVAILABILITY,domains.list,2024-07-06 09:19:12.175832
+prebid.districtm.ca,AVAILABILITY,domains.list,2024-07-06 09:19:13.912276
