@@ -1,18 +1,4 @@
 idna_subject,checker_type,destination,tested_at
-cdn.connatix.com,AVAILABILITY,domains.list,2024-07-08 02:20:22.306672
-web-sdk.shallweadcorp.com,AVAILABILITY,domains.list,2024-07-08 02:20:22.702870
-sndkorea.nowcdn.co.kr,AVAILABILITY,domains.list,2024-07-08 02:20:28.154599
-tracker.nodojs.nl,AVAILABILITY,domains.list,2024-07-08 02:20:28.536725
-adx.naonmedia.net,AVAILABILITY,domains.list,2024-07-08 02:20:30.150023
-adpingpong.co.kr,AVAILABILITY,domains.list,2024-07-08 02:20:31.792171
-ads1.playforum.net,AVAILABILITY,domains.list,2024-07-08 02:20:33.367507
-adr.realclick.co.kr,AVAILABILITY,domains.list,2024-07-08 02:20:36.661381
-ads3.adinc.co.kr,AVAILABILITY,domains.list,2024-07-08 02:20:38.749121
-ads.ad7942.co.kr,AVAILABILITY,domains.list,2024-07-08 02:20:40.641819
-ads.adjust-net.jp,AVAILABILITY,domains.list,2024-07-08 02:20:41.595734
-api.screensharp.kr,AVAILABILITY,domains.list,2024-07-09 01:52:42.951910
-cdn.adsolutions.nl,AVAILABILITY,domains.list,2024-07-09 01:53:25.028602
-imp.valuepotion.com,AVAILABILITY,domains.list,2024-07-09 02:10:33.059897
 ads.realclick.co.kr,AVAILABILITY,domains.list,2024-07-10 02:05:27.755396
 ads.mangouni.com,AVAILABILITY,domains.list,2024-07-10 02:05:28.180750
 adserver.uniqube.tv,AVAILABILITY,domains.list,2024-07-10 02:05:28.789897
@@ -202,3 +188,17 @@ redir.adap.tv,AVAILABILITY,domains.list,2024-07-10 02:11:36.362138
 traffic.adxprts.com,AVAILABILITY,domains.list,2024-07-10 02:11:36.855411
 s.atemda.com,AVAILABILITY,domains.list,2024-07-10 02:11:48.196398
 ad.yieldmanager.com,AVAILABILITY,domains.list,2024-07-10 02:12:02.351452
+cdn.connatix.com,AVAILABILITY,domains.list,2024-07-10 02:13:24.379739
+web-sdk.shallweadcorp.com,AVAILABILITY,domains.list,2024-07-10 02:13:24.753376
+sndkorea.nowcdn.co.kr,AVAILABILITY,domains.list,2024-07-10 02:13:33.555267
+tracker.nodojs.nl,AVAILABILITY,domains.list,2024-07-10 02:13:33.935008
+adx.naonmedia.net,AVAILABILITY,domains.list,2024-07-10 02:13:40.109422
+adpingpong.co.kr,AVAILABILITY,domains.list,2024-07-10 02:13:42.806636
+ads1.playforum.net,AVAILABILITY,domains.list,2024-07-10 02:13:44.320428
+adr.realclick.co.kr,AVAILABILITY,domains.list,2024-07-10 02:13:58.602669
+ads3.adinc.co.kr,AVAILABILITY,domains.list,2024-07-10 02:14:02.017698
+ads.ad7942.co.kr,AVAILABILITY,domains.list,2024-07-10 02:14:03.693257
+ads.adjust-net.jp,AVAILABILITY,domains.list,2024-07-10 02:14:05.608743
+api.screensharp.kr,AVAILABILITY,domains.list,2024-07-10 02:14:08.463391
+cdn.adsolutions.nl,AVAILABILITY,domains.list,2024-07-10 02:14:11.792219
+imp.valuepotion.com,AVAILABILITY,domains.list,2024-07-10 02:14:13.001797
