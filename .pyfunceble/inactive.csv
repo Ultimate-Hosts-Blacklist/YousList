@@ -1,7 +1,4 @@
 idna_subject,checker_type,destination,tested_at
-cdn4.wibbitz.com,AVAILABILITY,domains.list,2024-07-24 11:00:28.856410
-prebid.districtm.ca,AVAILABILITY,domains.list,2024-07-24 11:17:44.987051
-imp.valuepotion.com,AVAILABILITY,domains.list,2024-07-24 11:22:31.745059
 ad.jjang0u.com,AVAILABILITY,domains.list,2024-07-25 07:50:52.532792
 ad.nsonmedia.com,AVAILABILITY,domains.list,2024-07-25 07:50:52.828218
 ad.openmatch.co.kr,AVAILABILITY,domains.list,2024-07-25 07:50:54.082617
@@ -204,3 +201,5 @@ ad.ad-ya.net,AVAILABILITY,domains.list,2024-07-25 07:57:43.111466
 ad.ingfac.co.kr,AVAILABILITY,domains.list,2024-07-25 07:57:45.226075
 quick.1rtl.info,AVAILABILITY,domains.list,2024-07-25 07:57:46.093358
 ad.aeonad.co.kr,AVAILABILITY,domains.list,2024-07-25 07:58:26.118807
+ps.ns-cdn.com,AVAILABILITY,domains.list,2024-07-26 07:37:11.736781
+pub.adpnut.com,AVAILABILITY,domains.list,2024-07-26 07:37:14.790985
