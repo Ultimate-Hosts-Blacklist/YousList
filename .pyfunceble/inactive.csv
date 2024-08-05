@@ -1,5 +1,4 @@
 idna_subject,checker_type,destination,tested_at
-ad.gogovid.net,AVAILABILITY,domains.list,2024-08-03 05:48:46.135370
 ad.api.stax.kr,AVAILABILITY,domains.list,2024-08-04 05:27:46.568786
 ps.ns-cdn.com,AVAILABILITY,domains.list,2024-08-04 05:41:10.272071
 ad.jjang0u.com,AVAILABILITY,domains.list,2024-08-04 05:53:26.265720
@@ -206,3 +205,4 @@ quick.1rtl.info,AVAILABILITY,domains.list,2024-08-04 05:59:12.531281
 ad.aeonad.co.kr,AVAILABILITY,domains.list,2024-08-04 05:59:35.582027
 pub.adpnut.com,AVAILABILITY,domains.list,2024-08-04 05:59:38.474192
 rcm.amazon.com,AVAILABILITY,domains.list,2024-08-04 05:59:39.237669
+ad.gogovid.net,AVAILABILITY,domains.list,2024-08-05 04:05:22.909766
