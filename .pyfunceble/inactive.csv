@@ -1,8 +1,4 @@
 idna_subject,checker_type,destination,tested_at
-ad.gogovid.net,AVAILABILITY,domains.list,2024-08-05 04:05:22.909766
-cdn4.wibbitz.com,AVAILABILITY,domains.list,2024-08-05 05:33:46.372059
-ps.ns-cdn.com,AVAILABILITY,domains.list,2024-08-05 05:46:45.959151
-imp.valuepotion.com,AVAILABILITY,domains.list,2024-08-05 10:58:55.517881
 prebid.districtm.ca,AVAILABILITY,domains.list,2024-08-05 11:08:02.011340
 ad.jjang0u.com,AVAILABILITY,domains.list,2024-08-05 11:12:40.991166
 ad.nsonmedia.com,AVAILABILITY,domains.list,2024-08-05 11:12:41.342419
@@ -206,3 +202,7 @@ ad.ad-ya.net,AVAILABILITY,domains.list,2024-08-05 11:18:54.445371
 ad.ingfac.co.kr,AVAILABILITY,domains.list,2024-08-05 11:18:56.558363
 quick.1rtl.info,AVAILABILITY,domains.list,2024-08-05 11:18:57.628917
 ad.aeonad.co.kr,AVAILABILITY,domains.list,2024-08-05 11:19:34.328326
+rcm.amazon.com,AVAILABILITY,domains.list,2024-08-06 11:08:16.784475
+ad.gogovid.net,AVAILABILITY,domains.list,2024-08-06 11:12:57.682700
+cdn4.wibbitz.com,AVAILABILITY,domains.list,2024-08-06 11:12:58.115079
+imp.valuepotion.com,AVAILABILITY,domains.list,2024-08-06 11:12:59.186295
