@@ -1,5 +1,4 @@
 idna_subject,checker_type,destination,tested_at
-cdn4.wibbitz.com,AVAILABILITY,domains.list,2024-08-29 03:06:40.872475
 ps.ns-cdn.com,AVAILABILITY,domains.list,2024-08-29 03:15:10.213178
 pub.adpnut.com,AVAILABILITY,domains.list,2024-08-29 03:20:18.641248
 delivery.c.switchadhub.com,AVAILABILITY,domains.list,2024-08-29 03:20:18.925944
@@ -209,3 +208,5 @@ imp.valuepotion.com,AVAILABILITY,domains.list,2024-08-29 03:25:42.077647
 ad.idnad.co.kr,AVAILABILITY,domains.list,2024-08-30 03:00:11.276373
 ad.ilikesponsorad.co.kr,AVAILABILITY,domains.list,2024-08-30 03:00:54.744258
 ad.ilikesponsorad.com,AVAILABILITY,domains.list,2024-08-30 03:01:26.938848
+prebid.districtm.ca,AVAILABILITY,domains.list,2024-08-30 03:17:18.054782
+rcm.amazon.com,AVAILABILITY,domains.list,2024-08-30 03:17:21.186788
