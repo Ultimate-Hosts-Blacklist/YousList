@@ -1,9 +1,4 @@
 idna_subject,checker_type,destination,tested_at
-ad.idnad.co.kr,AVAILABILITY,domains.list,2024-08-30 03:00:11.276373
-ad.ilikesponsorad.co.kr,AVAILABILITY,domains.list,2024-08-30 03:00:54.744258
-ad.ilikesponsorad.com,AVAILABILITY,domains.list,2024-08-30 03:01:26.938848
-prebid.districtm.ca,AVAILABILITY,domains.list,2024-08-30 03:17:18.054782
-rcm.amazon.com,AVAILABILITY,domains.list,2024-08-30 03:17:21.186788
 ps.ns-cdn.com,AVAILABILITY,domains.list,2024-08-30 12:07:05.129117
 delivery.c.switchadhub.com,AVAILABILITY,domains.list,2024-08-30 12:07:07.036473
 ad.jjang0u.com,AVAILABILITY,domains.list,2024-08-30 12:07:08.554964
@@ -209,3 +204,9 @@ quick.1rtl.info,AVAILABILITY,domains.list,2024-08-30 12:12:42.194645
 ad.aeonad.co.kr,AVAILABILITY,domains.list,2024-08-30 12:13:18.948479
 ad.gogovid.net,AVAILABILITY,domains.list,2024-08-30 12:13:19.198183
 cdn4.wibbitz.com,AVAILABILITY,domains.list,2024-08-31 02:28:20.531531
+pub.adpnut.com,AVAILABILITY,domains.list,2024-08-31 05:58:32.644468
+ad.idnad.co.kr,AVAILABILITY,domains.list,2024-08-31 06:04:09.394153
+ad.ilikesponsorad.co.kr,AVAILABILITY,domains.list,2024-08-31 06:04:53.215160
+ad.ilikesponsorad.com,AVAILABILITY,domains.list,2024-08-31 06:05:30.453545
+prebid.districtm.ca,AVAILABILITY,domains.list,2024-08-31 06:05:30.865694
+rcm.amazon.com,AVAILABILITY,domains.list,2024-08-31 06:05:31.181519
