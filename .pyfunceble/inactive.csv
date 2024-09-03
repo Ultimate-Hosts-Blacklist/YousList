@@ -1,9 +1,4 @@
 idna_subject,checker_type,destination,tested_at
-cdn4.wibbitz.com,AVAILABILITY,domains.list,2024-09-02 02:12:37.026385
-ad.idnad.co.kr,AVAILABILITY,domains.list,2024-09-02 02:33:14.754774
-ad.ilikesponsorad.co.kr,AVAILABILITY,domains.list,2024-09-02 02:33:54.499442
-ad.ilikesponsorad.com,AVAILABILITY,domains.list,2024-09-02 02:34:28.785150
-prebid.districtm.ca,AVAILABILITY,domains.list,2024-09-02 02:34:29.270449
 pub.adpnut.com,AVAILABILITY,domains.list,2024-09-02 05:52:34.914384
 shoppingbox.joinsmsn.com,AVAILABILITY,domains.list,2024-09-02 05:54:46.249300
 delivery.c.switchadhub.com,AVAILABILITY,domains.list,2024-09-02 05:57:36.337782
@@ -210,3 +205,6 @@ quick.1rtl.info,AVAILABILITY,domains.list,2024-09-02 06:03:11.121573
 ad.aeonad.co.kr,AVAILABILITY,domains.list,2024-09-02 06:03:46.224691
 ad.gogovid.net,AVAILABILITY,domains.list,2024-09-02 06:03:46.500301
 imp.valuepotion.com,AVAILABILITY,domains.list,2024-09-03 05:34:02.868945
+ad.idnad.co.kr,AVAILABILITY,domains.list,2024-09-03 05:46:10.394690
+ad.ilikesponsorad.co.kr,AVAILABILITY,domains.list,2024-09-03 05:47:11.295594
+ad.ilikesponsorad.com,AVAILABILITY,domains.list,2024-09-03 05:47:41.967449
