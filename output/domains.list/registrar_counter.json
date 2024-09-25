@@ -1,0 +1,22 @@
+{
+    "counter": {
+        "Amazon Registrar, Inc.": 2,
+        "Dotname Korea Corp.(http://www.dotname.co.kr)": 2,
+        "Gabia, Inc.(http://www.gabia.co.kr)": 6,
+        "GoDaddy.com, LLC": 2,
+        "URL Solutions, Inc.": 2,
+        "eNom, LLC": 4,
+        "total": 20,
+        "viaweb(http://viaweb.co.kr)": 2
+    },
+    "percentage": {
+        "Amazon Registrar, Inc.": 10.0,
+        "Dotname Korea Corp.(http://www.dotname.co.kr)": 10.0,
+        "Gabia, Inc.(http://www.gabia.co.kr)": 30.0,
+        "GoDaddy.com, LLC": 10.0,
+        "URL Solutions, Inc.": 10.0,
+        "eNom, LLC": 20.0,
+        "total": 100.0,
+        "viaweb(http://viaweb.co.kr)": 10.0
+    }
+}
