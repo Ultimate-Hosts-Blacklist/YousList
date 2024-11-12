@@ -1,10 +1,4 @@
 idna_subject,checker_type,destination,tested_at
-ad.naver.com,AVAILABILITY,domains.list,2024-11-11 05:08:32.150893+00:00
-cpv.ad.naver.com,AVAILABILITY,domains.list,2024-11-11 05:08:32.970575+00:00
-mv.ad.naver.com,AVAILABILITY,domains.list,2024-11-11 05:08:33.739300+00:00
-nv.veta.naver.com,AVAILABILITY,domains.list,2024-11-11 05:08:34.888488+00:00
-veta.naver.com,AVAILABILITY,domains.list,2024-11-11 05:08:35.432583+00:00
-secure-ads.pictela.net,AVAILABILITY,domains.list,2024-11-11 05:08:37.282997+00:00
 v5.actionteaser.ru,AVAILABILITY,domains.list,2024-11-12 09:44:32.436438+00:00
 np-adkpf.newscloud.or.kr,AVAILABILITY,domains.list,2024-11-12 09:44:35.636351+00:00
 api.adns.contentlink.co.kr,AVAILABILITY,domains.list,2024-11-12 09:44:37.215167+00:00
@@ -211,3 +205,9 @@ static.escdn.co,AVAILABILITY,domains.list,2024-11-12 09:55:23.146949+00:00
 las.danawa.com,AVAILABILITY,domains.list,2024-11-12 09:55:25.367747+00:00
 t.tmdn2015x9.com,AVAILABILITY,domains.list,2024-11-12 09:55:25.667428+00:00
 ad.mediafarm.co.kr,AVAILABILITY,domains.list,2024-11-12 09:56:15.415177+00:00
+ad.naver.com,AVAILABILITY,domains.list,2024-11-12 09:58:55.032747+00:00
+cpv.ad.naver.com,AVAILABILITY,domains.list,2024-11-12 09:58:55.678471+00:00
+mv.ad.naver.com,AVAILABILITY,domains.list,2024-11-12 09:58:56.452818+00:00
+nv.veta.naver.com,AVAILABILITY,domains.list,2024-11-12 09:58:57.204511+00:00
+veta.naver.com,AVAILABILITY,domains.list,2024-11-12 09:58:57.574738+00:00
+secure-ads.pictela.net,AVAILABILITY,domains.list,2024-11-12 09:58:58.288068+00:00
