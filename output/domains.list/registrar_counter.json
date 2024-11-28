@@ -1,7 +1,6 @@
 {
     "counter": {
         "Amazon Registrar, Inc.": 4,
-        "Danesco Trading Ltd.": 4,
         "Dotname Korea Corp.(http://www.dotname.co.kr)": 2,
         "Gabia, Inc.": 4,
         "Gabia, Inc.(http://www.gabia.co.kr)": 6,
@@ -9,20 +8,19 @@
         "Megazone(http://HOSTING.KR)": 2,
         "URL Solutions, Inc.": 2,
         "eNom, LLC": 4,
-        "total": 32,
+        "total": 28,
         "viaweb(http://viaweb.co.kr)": 2
     },
     "percentage": {
-        "Amazon Registrar, Inc.": 12.5,
-        "Danesco Trading Ltd.": 12.5,
-        "Dotname Korea Corp.(http://www.dotname.co.kr)": 6.25,
-        "Gabia, Inc.": 12.5,
-        "Gabia, Inc.(http://www.gabia.co.kr)": 18.75,
-        "GoDaddy.com, LLC": 6.25,
-        "Megazone(http://HOSTING.KR)": 6.25,
-        "URL Solutions, Inc.": 6.25,
-        "eNom, LLC": 12.5,
-        "total": 100.0,
-        "viaweb(http://viaweb.co.kr)": 6.25
+        "Amazon Registrar, Inc.": 14.285714285714286,
+        "Dotname Korea Corp.(http://www.dotname.co.kr)": 7.142857142857143,
+        "Gabia, Inc.": 14.285714285714286,
+        "Gabia, Inc.(http://www.gabia.co.kr)": 21.428571428571427,
+        "GoDaddy.com, LLC": 7.142857142857143,
+        "Megazone(http://HOSTING.KR)": 7.142857142857143,
+        "URL Solutions, Inc.": 7.142857142857143,
+        "eNom, LLC": 14.285714285714286,
+        "total": 99.99999999999999,
+        "viaweb(http://viaweb.co.kr)": 7.142857142857143
     }
 }
