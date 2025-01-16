@@ -1,16 +1,4 @@
 idna_subject,checker_type,destination,tested_at
-adserver.adtechus.com,AVAILABILITY,domains.list,2025-01-14 10:47:24.245355+00:00
-adx.naonmedia.net,AVAILABILITY,domains.list,2025-01-14 10:47:24.468210+00:00
-v5.actionteaser.ru,AVAILABILITY,domains.list,2025-01-14 10:47:25.643071+00:00
-np-adkpf.newscloud.or.kr,AVAILABILITY,domains.list,2025-01-14 10:47:26.940642+00:00
-api.adns.contentlink.co.kr,AVAILABILITY,domains.list,2025-01-14 10:47:28.665656+00:00
-api.ficm.contentlink.co.kr,AVAILABILITY,domains.list,2025-01-14 10:47:29.001553+00:00
-adsrv.kstarplay.tv,AVAILABILITY,domains.list,2025-01-14 10:47:29.166503+00:00
-adtag.asiaone.com,AVAILABILITY,domains.list,2025-01-14 10:47:29.485181+00:00
-sosa.semanticrep.com,AVAILABILITY,domains.list,2025-01-14 10:47:29.685561+00:00
-adv.mediakeep.co.kr,AVAILABILITY,domains.list,2025-01-14 10:47:31.613538+00:00
-adv.segye.com,AVAILABILITY,domains.list,2025-01-14 10:47:32.734471+00:00
-adv.realclick.co.kr,AVAILABILITY,domains.list,2025-01-14 10:47:35.969493+00:00
 agate.opap.co.kr,AVAILABILITY,domains.list,2025-01-14 10:47:37.222485+00:00
 amsv2.daum.net,AVAILABILITY,domains.list,2025-01-14 10:47:38.396749+00:00
 ak-gb.marketgid.com,AVAILABILITY,domains.list,2025-01-14 10:47:38.727386+00:00
@@ -216,3 +204,15 @@ cadvv.heraldm.com,AVAILABILITY,domains.list,2025-01-15 10:53:01.071054+00:00
 ads.tapzin.com,AVAILABILITY,domains.list,2025-01-15 10:53:01.922630+00:00
 adf.send.microad.jp,AVAILABILITY,domains.list,2025-01-15 10:53:02.626012+00:00
 vsc.send.microad.jp,AVAILABILITY,domains.list,2025-01-15 10:53:03.210547+00:00
+adserver.adtechus.com,AVAILABILITY,domains.list,2025-01-16 10:45:56.141375+00:00
+adx.naonmedia.net,AVAILABILITY,domains.list,2025-01-16 10:45:56.346067+00:00
+v5.actionteaser.ru,AVAILABILITY,domains.list,2025-01-16 10:45:57.539960+00:00
+np-adkpf.newscloud.or.kr,AVAILABILITY,domains.list,2025-01-16 10:45:58.840241+00:00
+api.adns.contentlink.co.kr,AVAILABILITY,domains.list,2025-01-16 10:46:00.268647+00:00
+api.ficm.contentlink.co.kr,AVAILABILITY,domains.list,2025-01-16 10:46:01.065614+00:00
+adsrv.kstarplay.tv,AVAILABILITY,domains.list,2025-01-16 10:46:01.205850+00:00
+adtag.asiaone.com,AVAILABILITY,domains.list,2025-01-16 10:46:01.389651+00:00
+sosa.semanticrep.com,AVAILABILITY,domains.list,2025-01-16 10:46:01.607547+00:00
+adv.mediakeep.co.kr,AVAILABILITY,domains.list,2025-01-16 10:46:02.646654+00:00
+adv.segye.com,AVAILABILITY,domains.list,2025-01-16 10:46:03.939009+00:00
+adv.realclick.co.kr,AVAILABILITY,domains.list,2025-01-16 10:46:05.874355+00:00
