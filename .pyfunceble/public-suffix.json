@@ -1555,7 +1555,6 @@
         "iamallama.com",
         "il-central-1.airflow.amazonaws.com",
         "il-central-1.elasticbeanstalk.com",
-        "in-vpn.org",
         "instance.datadetect.com",
         "ip-ddns.com",
         "ip.linodeusercontent.com",
@@ -6958,7 +6957,6 @@
         "sveio.no",
         "svelvik.no",
         "sykkylven.no",
-        "sálat.no",
         "sálát.no",
         "søgne.no",
         "sømna.no",
@@ -7189,7 +7187,6 @@
         "xn--skjk-soa.no",
         "xn--sknit-yqa.no",
         "xn--sknland-fxa.no",
-        "xn--slat-5na.no",
         "xn--slt-elab.no",
         "xn--smla-hra.no",
         "xn--smna-gra.no",
@@ -7399,6 +7396,7 @@
         "ie.eu.org",
         "il.eu.org",
         "in-dsl.org",
+        "in-vpn.org",
         "in.eu.org",
         "int.eu.org",
         "ip-dynamic.org",
@@ -7851,7 +7849,8 @@
         "net.pr",
         "org.pr",
         "pro.pr",
-        "prof.pr"
+        "prof.pr",
+        "xn--slat-5na.no"
     ],
     "pro": [
         "12chars.pro",
