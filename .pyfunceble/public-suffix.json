@@ -976,6 +976,7 @@
         "k8s.scw.cloud",
         "keliweb.cloud",
         "kuleuven.cloud",
+        "laravel.cloud",
         "linkyard.cloud",
         "magentosite.cloud",
         "matlab.cloud",
@@ -6957,6 +6958,7 @@
         "sveio.no",
         "svelvik.no",
         "sykkylven.no",
+        "sálat.no",
         "sálát.no",
         "søgne.no",
         "sømna.no",
@@ -7187,6 +7189,7 @@
         "xn--skjk-soa.no",
         "xn--sknit-yqa.no",
         "xn--sknland-fxa.no",
+        "xn--slat-5na.no",
         "xn--slt-elab.no",
         "xn--smla-hra.no",
         "xn--smna-gra.no",
@@ -7849,8 +7852,7 @@
         "net.pr",
         "org.pr",
         "pro.pr",
-        "prof.pr",
-        "xn--slat-5na.no"
+        "prof.pr"
     ],
     "pro": [
         "12chars.pro",
