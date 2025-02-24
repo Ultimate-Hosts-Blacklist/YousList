@@ -1,8 +1,4 @@
 idna_subject,checker_type,destination,tested_at
-ad.aeonad.co.kr,AVAILABILITY,domains.list,2025-02-23 02:19:14.560983+00:00
-ad.gogovid.net,AVAILABILITY,domains.list,2025-02-23 02:19:14.983970+00:00
-ad.idnad.co.kr,AVAILABILITY,domains.list,2025-02-23 02:19:16.291600+00:00
-ad.ilikesponsorad.co.kr,AVAILABILITY,domains.list,2025-02-23 02:20:20.893159+00:00
 ad.ilikesponsorad.com,AVAILABILITY,domains.list,2025-02-23 02:21:01.229615+00:00
 delivery.c.switchadhub.com,AVAILABILITY,domains.list,2025-02-23 02:21:01.640397+00:00
 adserver-us.adtech.advertising.com,AVAILABILITY,domains.list,2025-02-23 02:21:02.086380+00:00
@@ -222,3 +218,7 @@ ad.ad-ya.net,AVAILABILITY,domains.list,2025-02-23 02:26:38.719685+00:00
 ad.ingfac.co.kr,AVAILABILITY,domains.list,2025-02-23 02:26:40.454239+00:00
 quick.1rtl.info,AVAILABILITY,domains.list,2025-02-23 02:26:42.447089+00:00
 b.a2gw.com,AVAILABILITY,domains.list,2025-02-23 02:26:53.342148+00:00
+ad.aeonad.co.kr,AVAILABILITY,domains.list,2025-02-24 09:06:31.882854+00:00
+ad.gogovid.net,AVAILABILITY,domains.list,2025-02-24 09:06:32.116266+00:00
+ad.idnad.co.kr,AVAILABILITY,domains.list,2025-02-24 09:06:32.898398+00:00
+ad.ilikesponsorad.co.kr,AVAILABILITY,domains.list,2025-02-24 09:06:58.210309+00:00
