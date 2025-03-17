@@ -1,5 +1,4 @@
 idna_subject,checker_type,destination,tested_at
-bs.serving-sys.com,AVAILABILITY,domains.list,2025-03-15 07:08:47.139465+00:00
 cache.ssend.microad.jp,AVAILABILITY,domains.list,2025-03-15 07:08:47.795344+00:00
 ad.owra.net,AVAILABILITY,domains.list,2025-03-15 07:08:49.492637+00:00
 cdn.komoona.com,AVAILABILITY,domains.list,2025-03-15 07:08:50.121373+00:00
@@ -225,3 +224,4 @@ www.ad-playstore.com,AVAILABILITY,domains.list,2025-03-16 07:12:48.395113+00:00
 ad.wowtv.co.kr,AVAILABILITY,domains.list,2025-03-16 07:12:50.439078+00:00
 ads.tlvmedia.com,AVAILABILITY,domains.list,2025-03-16 07:12:50.881477+00:00
 adserver.sbtrustmedia.com,AVAILABILITY,domains.list,2025-03-16 07:12:51.088505+00:00
+bs.serving-sys.com,AVAILABILITY,domains.list,2025-03-17 05:07:50.010035+00:00
