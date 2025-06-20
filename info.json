@@ -1,19 +1,19 @@
 {
-    "currently_under_test": false,
+    "currently_under_test": true,
     "days_until_next_test": 2,
     "end_datetime": "2025-06-20T09:04:55.025241",
     "end_epoch": 1750410295.025241,
     "issue_link": "https://github.com/yous/YousList/issues/new",
     "link": "https://raw.githubusercontent.com/yous/YousList/master/hosts.txt",
     "name": "YousList",
-    "previous_end_datetime": "2025-06-20T04:10:34.497327",
-    "previous_end_epoch": 1750392634.497327,
-    "previous_start_datetime": "2025-06-20T03:43:52.150023",
-    "previous_start_epoch": 1750391032.150023,
+    "previous_end_datetime": "2025-06-20T09:04:55.025241",
+    "previous_end_epoch": 1750410295.025241,
+    "previous_start_datetime": "2025-06-20T08:46:40.212821",
+    "previous_start_epoch": 1750409200.212821,
     "pyfunceble": {
         "config": {}
     },
     "raw_link": "https://raw.githubusercontent.com/yous/YousList/master/hosts.txt",
-    "start_datetime": "2025-06-20T08:46:40.212821",
-    "start_epoch": 1750409200.212821
+    "start_datetime": "2025-06-20T09:52:07.381128",
+    "start_epoch": 1750413127.381128
 }
