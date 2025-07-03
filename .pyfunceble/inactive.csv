@@ -1,10 +1,4 @@
 idna_subject,checker_type,destination,tested_at
-adr.realclick.co.kr,AVAILABILITY,domains.list,2025-07-01 11:28:20.904706+00:00
-ads3.adinc.co.kr,AVAILABILITY,domains.list,2025-07-01 11:28:22.832288+00:00
-ads.ad7942.co.kr,AVAILABILITY,domains.list,2025-07-01 11:28:23.538747+00:00
-ads.adjust-net.jp,AVAILABILITY,domains.list,2025-07-01 11:28:24.313337+00:00
-api.screensharp.kr,AVAILABILITY,domains.list,2025-07-01 11:28:25.182456+00:00
-a.t.webtracker.jp,AVAILABILITY,domains.list,2025-07-01 11:28:39.810939+00:00
 ads.realclick.co.kr,AVAILABILITY,domains.list,2025-07-01 11:28:41.256373+00:00
 ads.mangouni.com,AVAILABILITY,domains.list,2025-07-01 11:28:41.586013+00:00
 adserver.uniqube.tv,AVAILABILITY,domains.list,2025-07-01 11:28:41.828493+00:00
@@ -231,3 +225,9 @@ sndkorea.nowcdn.co.kr,AVAILABILITY,domains.list,2025-07-02 10:03:40.185510+00:00
 tracker.nodojs.nl,AVAILABILITY,domains.list,2025-07-02 10:03:40.381148+00:00
 adpingpong.co.kr,AVAILABILITY,domains.list,2025-07-02 10:03:41.937946+00:00
 ads1.playforum.net,AVAILABILITY,domains.list,2025-07-02 10:03:43.857545+00:00
+adr.realclick.co.kr,AVAILABILITY,domains.list,2025-07-03 09:57:20.102480+00:00
+ads3.adinc.co.kr,AVAILABILITY,domains.list,2025-07-03 09:57:21.202586+00:00
+ads.ad7942.co.kr,AVAILABILITY,domains.list,2025-07-03 09:57:22.494871+00:00
+ads.adjust-net.jp,AVAILABILITY,domains.list,2025-07-03 09:57:23.719424+00:00
+api.screensharp.kr,AVAILABILITY,domains.list,2025-07-03 09:57:25.227378+00:00
+a.t.webtracker.jp,AVAILABILITY,domains.list,2025-07-03 09:57:58.517246+00:00
