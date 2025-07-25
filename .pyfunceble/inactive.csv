@@ -1,16 +1,4 @@
 idna_subject,checker_type,destination,tested_at
-plugin.2beon.co.kr,AVAILABILITY,domains.list,2025-07-23 11:08:18.629669+00:00
-ts.2beon.co.kr,AVAILABILITY,domains.list,2025-07-23 11:08:19.848062+00:00
-ad.adixs.co.kr,AVAILABILITY,domains.list,2025-07-23 11:08:21.153402+00:00
-ad.aeonad.net,AVAILABILITY,domains.list,2025-07-23 11:08:21.513452+00:00
-ad.ad-ya.net,AVAILABILITY,domains.list,2025-07-23 11:08:21.868036+00:00
-ad.ingfac.co.kr,AVAILABILITY,domains.list,2025-07-23 11:08:23.063785+00:00
-quick.1rtl.info,AVAILABILITY,domains.list,2025-07-23 11:08:23.575038+00:00
-a.ligatus.com,AVAILABILITY,domains.list,2025-07-23 11:08:23.890374+00:00
-i.ligatus.com,AVAILABILITY,domains.list,2025-07-23 11:08:24.132429+00:00
-scripts.adrcdn.com,AVAILABILITY,domains.list,2025-07-23 11:08:25.187130+00:00
-adex.adtree.kr,AVAILABILITY,domains.list,2025-07-23 11:08:26.817858+00:00
-ad.aeonad.co.kr,AVAILABILITY,domains.list,2025-07-23 11:09:16.469390+00:00
 ad.gogovid.net,AVAILABILITY,domains.list,2025-07-23 11:09:16.703311+00:00
 ad.ilikesponsorad.com,AVAILABILITY,domains.list,2025-07-23 11:09:16.978096+00:00
 delivery.c.switchadhub.com,AVAILABILITY,domains.list,2025-07-23 11:09:17.400502+00:00
@@ -233,3 +221,15 @@ www.prwidgets.com,AVAILABILITY,domains.list,2025-07-23 11:14:14.731448+00:00
 a.komoona.com,AVAILABILITY,domains.list,2025-07-23 11:14:15.010852+00:00
 ad.adop.co.kr,AVAILABILITY,domains.list,2025-07-23 11:14:16.784076+00:00
 ad.adlike.co.kr,AVAILABILITY,domains.list,2025-07-23 11:14:18.121605+00:00
+plugin.2beon.co.kr,AVAILABILITY,domains.list,2025-07-25 11:05:34.997669+00:00
+ts.2beon.co.kr,AVAILABILITY,domains.list,2025-07-25 11:05:35.997773+00:00
+ad.adixs.co.kr,AVAILABILITY,domains.list,2025-07-25 11:05:37.102021+00:00
+ad.aeonad.net,AVAILABILITY,domains.list,2025-07-25 11:05:37.301255+00:00
+ad.ad-ya.net,AVAILABILITY,domains.list,2025-07-25 11:05:37.503419+00:00
+ad.ingfac.co.kr,AVAILABILITY,domains.list,2025-07-25 11:05:38.828630+00:00
+quick.1rtl.info,AVAILABILITY,domains.list,2025-07-25 11:05:39.109750+00:00
+a.ligatus.com,AVAILABILITY,domains.list,2025-07-25 11:05:39.744282+00:00
+i.ligatus.com,AVAILABILITY,domains.list,2025-07-25 11:05:40.509887+00:00
+scripts.adrcdn.com,AVAILABILITY,domains.list,2025-07-25 11:05:41.586816+00:00
+adex.adtree.kr,AVAILABILITY,domains.list,2025-07-25 11:05:42.446315+00:00
+ad.aeonad.co.kr,AVAILABILITY,domains.list,2025-07-25 11:06:37.547108+00:00
