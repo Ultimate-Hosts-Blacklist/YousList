@@ -1,5 +1,4 @@
 idna_subject,checker_type,destination,tested_at
-ad.api.stax.kr,AVAILABILITY,domains.list,2025-08-04 06:02:15.505405+00:00
 plugin.2beon.co.kr,AVAILABILITY,domains.list,2025-08-04 06:20:54.122080+00:00
 ts.2beon.co.kr,AVAILABILITY,domains.list,2025-08-04 06:20:55.309282+00:00
 ad.adixs.co.kr,AVAILABILITY,domains.list,2025-08-04 06:20:57.128021+00:00
@@ -236,3 +235,4 @@ ad.adlike.co.kr,AVAILABILITY,domains.list,2025-08-04 06:26:36.655328+00:00
 ad.hooniad.com,AVAILABILITY,domains.list,2025-08-04 06:26:36.903711+00:00
 dlv.hooniad.com,AVAILABILITY,domains.list,2025-08-04 06:26:37.199128+00:00
 onsite-api.datarize.ai,AVAILABILITY,domains.list,2025-08-04 06:26:37.643863+00:00
+ad.api.stax.kr,AVAILABILITY,domains.list,2025-08-05 06:07:09.799961+00:00
