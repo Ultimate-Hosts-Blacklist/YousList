@@ -1,14 +1,4 @@
 idna_subject,checker_type,destination,tested_at
-jsn.dt00.net,AVAILABILITY,domains.list,2025-11-12 03:29:00.300772+00:00
-static.chameleon.ad,AVAILABILITY,domains.list,2025-11-12 03:29:02.680124+00:00
-cwdata.itplay.co.kr,AVAILABILITY,domains.list,2025-11-12 03:29:04.007071+00:00
-d.a1comm.co.kr,AVAILABILITY,domains.list,2025-11-12 03:29:05.122281+00:00
-d269y12mnftu9c.cloudfront.net,AVAILABILITY,domains.list,2025-11-12 03:29:05.465486+00:00
-dev.ezadsystem.com,AVAILABILITY,domains.list,2025-11-12 03:29:08.692526+00:00
-get.keywordsconnect.com,AVAILABILITY,domains.list,2025-11-12 03:29:11.635259+00:00
-servicer.marketgid.com,AVAILABILITY,domains.list,2025-11-12 03:29:12.125489+00:00
-go.pub2srv.com,AVAILABILITY,domains.list,2025-11-12 03:29:12.427628+00:00
-mainclc.com,AVAILABILITY,domains.list,2025-11-12 06:09:07.268013+00:00
 delivery.c.switchadhub.com,AVAILABILITY,domains.list,2025-11-13 06:06:18.358006+00:00
 ad.adenc.co.kr,AVAILABILITY,domains.list,2025-11-13 06:06:20.919044+00:00
 ad1.adenc.co.kr,AVAILABILITY,domains.list,2025-11-13 06:06:23.945681+00:00
@@ -255,3 +245,13 @@ cm1.icontact.kr,AVAILABILITY,domains.list,2025-11-13 06:13:21.090061+00:00
 d1swklt9res5jr.cloudfront.net,AVAILABILITY,domains.list,2025-11-13 06:13:21.537570+00:00
 adserver.genesismediaus.com,AVAILABILITY,domains.list,2025-11-13 06:13:21.768924+00:00
 ex.mdtoday.co.kr,AVAILABILITY,domains.list,2025-11-13 06:13:23.813751+00:00
+jsn.dt00.net,AVAILABILITY,domains.list,2025-11-13 06:14:46.860560+00:00
+static.chameleon.ad,AVAILABILITY,domains.list,2025-11-13 06:14:47.928110+00:00
+cwdata.itplay.co.kr,AVAILABILITY,domains.list,2025-11-13 06:14:49.049873+00:00
+d.a1comm.co.kr,AVAILABILITY,domains.list,2025-11-13 06:14:51.110084+00:00
+d269y12mnftu9c.cloudfront.net,AVAILABILITY,domains.list,2025-11-13 06:14:51.498616+00:00
+dev.ezadsystem.com,AVAILABILITY,domains.list,2025-11-13 06:14:55.939972+00:00
+get.keywordsconnect.com,AVAILABILITY,domains.list,2025-11-13 06:14:57.977416+00:00
+servicer.marketgid.com,AVAILABILITY,domains.list,2025-11-13 06:14:58.183618+00:00
+go.pub2srv.com,AVAILABILITY,domains.list,2025-11-13 06:14:58.476043+00:00
+mainclc.com,AVAILABILITY,domains.list,2025-11-13 06:15:09.305306+00:00
