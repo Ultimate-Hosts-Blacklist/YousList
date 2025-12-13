@@ -1,15 +1,4 @@
 idna_subject,checker_type,destination,tested_at
-adserver.genesismediaus.com,AVAILABILITY,domains.list,2025-12-11 09:23:28.904922+00:00
-ex.mdtoday.co.kr,AVAILABILITY,domains.list,2025-12-11 09:23:29.851582+00:00
-jsn.dt00.net,AVAILABILITY,domains.list,2025-12-11 09:23:30.057119+00:00
-static.chameleon.ad,AVAILABILITY,domains.list,2025-12-11 09:23:30.541966+00:00
-cwdata.itplay.co.kr,AVAILABILITY,domains.list,2025-12-11 09:23:31.179602+00:00
-d.a1comm.co.kr,AVAILABILITY,domains.list,2025-12-11 09:23:31.784104+00:00
-d269y12mnftu9c.cloudfront.net,AVAILABILITY,domains.list,2025-12-11 09:23:32.260453+00:00
-dev.ezadsystem.com,AVAILABILITY,domains.list,2025-12-11 09:23:33.898693+00:00
-get.keywordsconnect.com,AVAILABILITY,domains.list,2025-12-11 09:23:35.545885+00:00
-servicer.marketgid.com,AVAILABILITY,domains.list,2025-12-11 09:23:35.752655+00:00
-go.pub2srv.com,AVAILABILITY,domains.list,2025-12-11 09:23:35.956049+00:00
 adapi.inlcorp.com,AVAILABILITY,domains.list,2025-12-13 07:19:04.324491+00:00
 nvapi.feeldmc.com,AVAILABILITY,domains.list,2025-12-13 07:19:14.058544+00:00
 mainclc.com,AVAILABILITY,domains.list,2025-12-13 07:19:24.936189+00:00
@@ -259,3 +248,14 @@ celeb.nann.co.kr,AVAILABILITY,domains.list,2025-12-13 07:25:49.962077+00:00
 click.realclick.co.kr,AVAILABILITY,domains.list,2025-12-13 07:25:50.716549+00:00
 cm1.icontact.kr,AVAILABILITY,domains.list,2025-12-13 07:25:52.693974+00:00
 d1swklt9res5jr.cloudfront.net,AVAILABILITY,domains.list,2025-12-13 07:25:53.142278+00:00
+adserver.genesismediaus.com,AVAILABILITY,domains.list,2025-12-13 07:27:13.944667+00:00
+ex.mdtoday.co.kr,AVAILABILITY,domains.list,2025-12-13 07:27:16.119458+00:00
+jsn.dt00.net,AVAILABILITY,domains.list,2025-12-13 07:27:16.384918+00:00
+static.chameleon.ad,AVAILABILITY,domains.list,2025-12-13 07:27:16.809594+00:00
+cwdata.itplay.co.kr,AVAILABILITY,domains.list,2025-12-13 07:27:17.841701+00:00
+d.a1comm.co.kr,AVAILABILITY,domains.list,2025-12-13 07:27:18.949132+00:00
+d269y12mnftu9c.cloudfront.net,AVAILABILITY,domains.list,2025-12-13 07:27:19.265599+00:00
+dev.ezadsystem.com,AVAILABILITY,domains.list,2025-12-13 07:27:21.671075+00:00
+get.keywordsconnect.com,AVAILABILITY,domains.list,2025-12-13 07:27:23.452731+00:00
+servicer.marketgid.com,AVAILABILITY,domains.list,2025-12-13 07:27:23.693844+00:00
+go.pub2srv.com,AVAILABILITY,domains.list,2025-12-13 07:27:23.929459+00:00
