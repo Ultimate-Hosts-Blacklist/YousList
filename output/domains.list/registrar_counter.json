@@ -1,40 +1,20 @@
 {
     "counter": {
-        "Amazon Registrar, Inc.": 2,
-        "ConnectWave co.,Ltd.(http://www.ssandomain.com)": 2,
-        "Dotname Korea Corp(http://www.dotname.co.kr)": 2,
         "GMO Internet, Inc. d/b/a Onamae.com": 2,
-        "Gabia, Inc.": 2,
-        "Gabia, Inc.(http://www.gabia.co.kr)": 12,
+        "Gabia, Inc.(http://www.gabia.co.kr)": 8,
         "Gandi SAS": 2,
-        "GoDaddy.com, LLC": 4,
+        "GoDaddy.com, LLC": 2,
         "Hosting Concepts B.V. d/b/a Openprovider": 2,
-        "Inames Co., Ltd.(http://www.inames.co.kr)": 4,
-        "MarkMonitor, Inc.": 2,
-        "Megazone(http://HOSTING.KR)": 12,
-        "NAMECHEAP": 2,
-        "Name.com, Inc.": 2,
-        "RU-CENTER-RU": 2,
-        "URL Solutions, Inc.": 4,
-        "total": 58
+        "Megazone(http://HOSTING.KR)": 8,
+        "total": 24
     },
     "percentage": {
-        "Amazon Registrar, Inc.": 3.4482758620689653,
-        "ConnectWave co.,Ltd.(http://www.ssandomain.com)": 3.4482758620689653,
-        "Dotname Korea Corp(http://www.dotname.co.kr)": 3.4482758620689653,
-        "GMO Internet, Inc. d/b/a Onamae.com": 3.4482758620689653,
-        "Gabia, Inc.": 3.4482758620689653,
-        "Gabia, Inc.(http://www.gabia.co.kr)": 20.689655172413794,
-        "Gandi SAS": 3.4482758620689653,
-        "GoDaddy.com, LLC": 6.896551724137931,
-        "Hosting Concepts B.V. d/b/a Openprovider": 3.4482758620689653,
-        "Inames Co., Ltd.(http://www.inames.co.kr)": 6.896551724137931,
-        "MarkMonitor, Inc.": 3.4482758620689653,
-        "Megazone(http://HOSTING.KR)": 20.689655172413794,
-        "NAMECHEAP": 3.4482758620689653,
-        "Name.com, Inc.": 3.4482758620689653,
-        "RU-CENTER-RU": 3.4482758620689653,
-        "URL Solutions, Inc.": 6.896551724137931,
-        "total": 100.00000000000001
+        "GMO Internet, Inc. d/b/a Onamae.com": 8.333333333333334,
+        "Gabia, Inc.(http://www.gabia.co.kr)": 33.333333333333336,
+        "Gandi SAS": 8.333333333333334,
+        "GoDaddy.com, LLC": 8.333333333333334,
+        "Hosting Concepts B.V. d/b/a Openprovider": 8.333333333333334,
+        "Megazone(http://HOSTING.KR)": 33.333333333333336,
+        "total": 100.0
     }
 }
