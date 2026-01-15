@@ -1,20 +1,36 @@
 {
     "counter": {
+        "Dotname Korea Corp(http://www.dotname.co.kr)": 2,
         "GMO Internet, Inc. d/b/a Onamae.com": 2,
-        "Gabia, Inc.(http://www.gabia.co.kr)": 8,
+        "Gabia, Inc.": 2,
+        "Gabia, Inc.(http://www.gabia.co.kr)": 12,
         "Gandi SAS": 2,
         "GoDaddy.com, LLC": 2,
         "Hosting Concepts B.V. d/b/a Openprovider": 2,
-        "Megazone(http://HOSTING.KR)": 4,
-        "total": 20
+        "Inames Co., Ltd.(http://www.inames.co.kr)": 2,
+        "MarkMonitor, Inc.": 2,
+        "Megazone(http://HOSTING.KR)": 10,
+        "NAMECHEAP": 2,
+        "Name.com, Inc.": 2,
+        "RU-CENTER-RU": 2,
+        "URL Solutions, Inc.": 4,
+        "total": 48
     },
     "percentage": {
-        "GMO Internet, Inc. d/b/a Onamae.com": 10.0,
-        "Gabia, Inc.(http://www.gabia.co.kr)": 40.0,
-        "Gandi SAS": 10.0,
-        "GoDaddy.com, LLC": 10.0,
-        "Hosting Concepts B.V. d/b/a Openprovider": 10.0,
-        "Megazone(http://HOSTING.KR)": 20.0,
+        "Dotname Korea Corp(http://www.dotname.co.kr)": 4.166666666666667,
+        "GMO Internet, Inc. d/b/a Onamae.com": 4.166666666666667,
+        "Gabia, Inc.": 4.166666666666667,
+        "Gabia, Inc.(http://www.gabia.co.kr)": 25.0,
+        "Gandi SAS": 4.166666666666667,
+        "GoDaddy.com, LLC": 4.166666666666667,
+        "Hosting Concepts B.V. d/b/a Openprovider": 4.166666666666667,
+        "Inames Co., Ltd.(http://www.inames.co.kr)": 4.166666666666667,
+        "MarkMonitor, Inc.": 4.166666666666667,
+        "Megazone(http://HOSTING.KR)": 20.833333333333332,
+        "NAMECHEAP": 4.166666666666667,
+        "Name.com, Inc.": 4.166666666666667,
+        "RU-CENTER-RU": 4.166666666666667,
+        "URL Solutions, Inc.": 8.333333333333334,
         "total": 100.0
     }
 }
