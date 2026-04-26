@@ -1,5 +1,4 @@
 idna_subject,checker_type,destination,tested_at
-web-sdk.shallweadcorp.com,AVAILABILITY,domains.list,2026-04-24 12:28:48.837799+00:00
 a.t.webtracker.jp,AVAILABILITY,domains.list,2026-04-25 12:15:13.340755+00:00
 ads.realclick.co.kr,AVAILABILITY,domains.list,2026-04-25 12:15:14.918697+00:00
 ads.mangouni.com,AVAILABILITY,domains.list,2026-04-25 12:15:15.153478+00:00
@@ -260,3 +259,4 @@ ads.adjust-net.jp,AVAILABILITY,domains.list,2026-04-25 12:26:14.517290+00:00
 b.a2gw.com,AVAILABILITY,domains.list,2026-04-25 12:26:14.891125+00:00
 plugin.adplex.co.kr,AVAILABILITY,domains.list,2026-04-25 12:26:16.575388+00:00
 ad.touchwise.co.kr,AVAILABILITY,domains.list,2026-04-25 12:26:20.311834+00:00
+web-sdk.shallweadcorp.com,AVAILABILITY,domains.list,2026-04-26 11:32:08.782112+00:00
