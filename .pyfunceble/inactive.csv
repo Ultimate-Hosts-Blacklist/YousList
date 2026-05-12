@@ -1,9 +1,4 @@
 idna_subject,checker_type,destination,tested_at
-b.a2gw.com,AVAILABILITY,domains.list,2026-05-10 05:09:48.782552+00:00
-plugin.adplex.co.kr,AVAILABILITY,domains.list,2026-05-10 05:09:50.426702+00:00
-ad.touchwise.co.kr,AVAILABILITY,domains.list,2026-05-10 05:09:52.781217+00:00
-web-sdk.shallweadcorp.com,AVAILABILITY,domains.list,2026-05-10 05:09:53.075011+00:00
-mrelko.com,AVAILABILITY,domains.list,2026-05-10 05:09:53.370945+00:00
 go.oclasrv.com,AVAILABILITY,domains.list,2026-05-11 05:11:29.873940+00:00
 a.t.webtracker.jp,AVAILABILITY,domains.list,2026-05-11 05:11:44.361692+00:00
 ads.realclick.co.kr,AVAILABILITY,domains.list,2026-05-11 05:11:45.531864+00:00
@@ -261,3 +256,8 @@ adr.realclick.co.kr,AVAILABILITY,domains.list,2026-05-12 04:54:06.374254+00:00
 ads3.adinc.co.kr,AVAILABILITY,domains.list,2026-05-12 04:54:09.206922+00:00
 ads.ad7942.co.kr,AVAILABILITY,domains.list,2026-05-12 04:54:10.860921+00:00
 ads.adjust-net.jp,AVAILABILITY,domains.list,2026-05-12 04:54:12.252954+00:00
+b.a2gw.com,AVAILABILITY,domains.list,2026-05-12 04:55:38.718497+00:00
+plugin.adplex.co.kr,AVAILABILITY,domains.list,2026-05-12 04:55:40.461170+00:00
+ad.touchwise.co.kr,AVAILABILITY,domains.list,2026-05-12 04:55:42.050604+00:00
+web-sdk.shallweadcorp.com,AVAILABILITY,domains.list,2026-05-12 04:55:42.299690+00:00
+mrelko.com,AVAILABILITY,domains.list,2026-05-12 04:55:42.574690+00:00
