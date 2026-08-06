@@ -1,5 +1,4 @@
 idna_subject,checker_type,destination,tested_at
-static.escdn.co,AVAILABILITY,domains.list,2026-08-05 03:46:20.883852+00:00
 ad.api.stax.kr,AVAILABILITY,domains.list,2026-08-05 12:02:58.068952+00:00
 server1.affiz.net,AVAILABILITY,domains.list,2026-08-05 12:02:58.326509+00:00
 ad.ilikesponsorad.com,AVAILABILITY,domains.list,2026-08-05 12:02:58.647585+00:00
@@ -261,3 +260,4 @@ sunnyworks.co.kr,AVAILABILITY,domains.list,2026-08-05 12:12:00.869164+00:00
 kodcad.kr,AVAILABILITY,domains.list,2026-08-05 12:12:02.242016+00:00
 dnhfi5nn2dt67.cloudfront.net,AVAILABILITY,domains.list,2026-08-05 12:12:02.660663+00:00
 lorybnfh.com,AVAILABILITY,domains.list,2026-08-05 12:12:02.858479+00:00
+static.escdn.co,AVAILABILITY,domains.list,2026-08-06 09:02:19.513087+00:00
