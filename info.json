@@ -1,8 +1,8 @@
 {
-    "currently_under_test": true,
+    "currently_under_test": false,
     "days_until_next_test": 2,
-    "end_datetime": "2026-08-07T07:50:54.172194",
-    "end_epoch": 1786089054.172194,
+    "end_datetime": "2026-08-07T11:56:02.256195",
+    "end_epoch": 1786103762.256195,
     "issue_link": "https://github.com/yous/YousList/issues/new",
     "link": "https://raw.githubusercontent.com/yous/YousList/master/hosts.txt",
     "name": "YousList",
