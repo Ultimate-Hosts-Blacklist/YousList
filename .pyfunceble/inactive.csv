@@ -1,6 +1,4 @@
 idna_subject,checker_type,destination,tested_at
-ad.api.stax.kr,AVAILABILITY,domains.list,2026-11-13 08:44:49.784469+00:00
-mycdn.co,AVAILABILITY,domains.list,2026-11-13 09:01:55.618233+00:00
 imp.valuepotion.com,AVAILABILITY,domains.list,2026-11-13 17:21:31.021233+00:00
 sosa.semanticrep.com,AVAILABILITY,domains.list,2026-11-13 17:21:31.282644+00:00
 onshowit.com,AVAILABILITY,domains.list,2026-11-13 17:21:31.574940+00:00
@@ -262,3 +260,5 @@ mrelko.com,AVAILABILITY,domains.list,2026-11-13 17:27:43.744954+00:00
 go.oclasrv.com,AVAILABILITY,domains.list,2026-11-13 17:27:43.979317+00:00
 realdsp.realclick.co.kr,AVAILABILITY,domains.list,2026-11-13 17:27:44.929535+00:00
 ssp.realclick.co.kr,AVAILABILITY,domains.list,2026-11-13 17:27:45.275462+00:00
+ad.api.stax.kr,AVAILABILITY,domains.list,2026-11-14 11:00:01.660680+00:00
+mycdn.co,AVAILABILITY,domains.list,2026-11-14 11:00:01.939011+00:00
